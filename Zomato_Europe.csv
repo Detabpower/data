@@ -1,0 +1,81 @@
+﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+6900714,215,Birmingham,"Pepe's Piri Piri,254-256 Alum Rock Road, Alum Rock, Birmingham B8 3DD",Alum Rock,"Alum Rock, Birmingham",-1.846811,52.488557,Fast Food
+6900883,215,Birmingham,"Ju Ju's Cafe,1 Canal Square, Brindleyplace, Birmingham B16 8EH",Brindleyplace,"Brindleyplace, Birmingham",-1.918049,52.477569,"Cafe, British"
+6900374,215,Birmingham,"Bank,4 Brindleyplace, Brindleyplace, Birmingham B1 2JB","Brindleyplace, Broad Street","Brindleyplace, Broad Street, Birmingham",-1.914805,52.477693,"British, Steak"
+6900224,215,Birmingham,"Chaophraya,Middle Mall, Bullring Shopping Centre, Special street, Bullring, Birmingham B5 4BH","Bullring Shopping Centre, Southside","Bullring Shopping Centre, Southside, Birmingham",-1.894286,52.477633,Thai
+6900160,215,Birmingham,"Handmade Burger Co.,Unit 3, St Martin Square, Bullring Shopping Centre, Bullring, Birmingham B5 4BU","Bullring Shopping Centre, Southside","Bullring Shopping Centre, Southside, Birmingham",-1.894286,52.477633,"Burger, American"
+6900050,215,Birmingham,"Jamie's Italian,Middle Mall, Bullring Shopping Centre, Bullring, Birmingham B5 4BU","Bullring Shopping Centre, Southside","Bullring Shopping Centre, Southside, Birmingham",-1.894286,52.477633,Italian
+6900724,215,Birmingham,"Bodega,12 Bennetts Hill, City Centre, Birmingham B2 5RS",City Centre,"City Centre, Birmingham",-1.900375,52.47969,Latin American
+6901081,215,Birmingham,"San Carlo,4 Temple Street, City Centre, Birmingham B2 5BN",City Centre,"City Centre, Birmingham",-1.899133,52.480364,Italian
+6900674,215,Birmingham,"Purnell's,55 Cornwall Street, Colmore Business District, Birmingham B3 2DH",Colmore Business District,"Colmore Business District, Birmingham",-1.901843,52.483643,Contemporary
+6901062,215,Birmingham,"The Warehouse Cafe,54-57 Allison Street, Digbeth, Birmingham B5 5TH",Digbeth,"Digbeth, Birmingham",-1.890569,52.477388,"British, Cafe"
+6900669,215,Birmingham,"Fiesta del Asado,229 Hagley Road, Edgbaston, Birmingham B16 9RP",Edgbaston,"Edgbaston, Birmingham",-1.938759,52.472197,"Latin American, Italian"
+6900811,215,Birmingham,"Istanbul Restaurant,2 Stockwell Road, Handsworth, Birmingham B21 9RJ",Handsworth,"Handsworth, Birmingham",-1.939166667,52.51416667,Turkish
+6901051,215,Birmingham,"The Plough,21 High Street, Harborne, Birmingham B17 9NT",Harborne,"Harborne, Birmingham",-1.943852,52.460962,British
+6900388,215,Birmingham,"Lasan Restaurant,3-4 Dakota Buildings, James Street, Saint Paul's Square, Jewellery Quarter, Birmingham B3 1SD",Jewellery Quarter,"Jewellery Quarter, Birmingham",-1.907596,52.485015,Indian
+18273002,215,Birmingham,"Damascena Coffee House,133 Alcester Road, Moseley, Birmingham",Moseley,"Moseley, Birmingham",-1.888555455,52.44630234,"Greek, Mediterranean, Middle Eastern"
+6901231,215,Birmingham,"Tipu Sultan,43 Alcester Road, Moseley, Birmingham B13 8AA",Moseley,"Moseley, Birmingham",-1.889039,52.450999,"Indian, Pakistani"
+6901394,215,Birmingham,"Jamjar,418 Coventry Road, Small Heath, Birmingham B10 0TH",Small Heath,"Small Heath, Birmingham",-1.860593,52.470571,"Ice Cream, Desserts, Cafe"
+6900843,215,Birmingham,"Chennai Dosa,445-447, Dudley Road, Birmingham, Smethwick, Birmingham B18 4HE",Smethwick,"Smethwick, Birmingham",-1.947514,52.487692,"Indian, South Indian"
+6900992,215,Birmingham,"Mughal E Azam,Stratford Road, Sparkhill, Birmingham B11 4DA",Sparkhill,"Sparkhill, Birmingham",-1.858529,52.443963,"Pakistani, Indian"
+6900069,215,Birmingham,"Bar Estilo,110-114 Wharfside Street, The Mailbox, City Centre, Birmingham B1 1RF","The Mailbox, Broad Street","The Mailbox, Broad Street, Birmingham",-1.905477,52.475857,Mexican
+7600803,215,Edinburgh,"Loudons Cafe & Bakery,94b Fountainbridge, Fountainbridge, Edinburgh EH3 9QA",Fountainbridge,"Fountainbridge, Edinburgh",-3.208363,55.943501,"Cafe, Bakery"
+7600217,215,Edinburgh,"La Favorita,325-331 Leith Walk, Leith, Edinburgh EH6 8SA",Leith,"Leith, Edinburgh",-3.176858333,55.96466944,Italian
+7600902,215,Edinburgh,"Mimi's Bakehouse,63 Shore, Leith, Edinburgh EH6 6RA",Leith,"Leith, Edinburgh",-3.171327778,55.97509722,"Cafe, Bakery, Desserts"
+7601577,215,Edinburgh,"Roseleaf Bar Cafe,23-24 Sandport Place, Leith, Edinburgh EH6 6EW",Leith,"Leith, Edinburgh",-3.173679,55.976644,"Scottish, Cafe"
+7601241,215,Edinburgh,"The Kitchin,78 Commercial Street, Leith, Edinburgh EH6 6LX",Leith,"Leith, Edinburgh",-3.172778,55.97698,"British, French"
+7602204,215,Edinburgh,"El Cartel,64 Thistle Street, New Town, Edinburgh EH2 1EN",New Town,"New Town, Edinburgh",-3.199521,55.95404,Mexican
+7601102,215,Edinburgh,"Chaophraya,4th Floor, 33 Castle Street, New Town, Edinburgh EH2 3DN",New Town,"New Town, Edinburgh",-3.203159,55.952221,Thai
+7600062,215,Edinburgh,"Hard Rock Cafe,20 George Street, New Town, Edinburgh EH2 2PF",New Town,"New Town, Edinburgh",-3.196294444,55.95349444,American
+7602340,215,Edinburgh,"The Boozy Cow,17 Frederick Street, New Town, Edinburgh EH2 2EY",New Town,"New Town, Edinburgh",-3.199569,55.951974,"Burger, Grill"
+7601106,215,Edinburgh,"10 To 10 In Delhi,67 Nicolson Street, Old Town, Edinburgh EH8 9BE",Old Town,"Old Town, Edinburgh",-3.184344444,55.94543056,"Indian, Cafe"
+7602219,215,Edinburgh,"Bentoya,15 Bread Street, Old Town, Edinburgh EH3 9AL",Old Town,"Old Town, Edinburgh",-3.204735,55.945895,"Sushi, Japanese, Cantonese"
+7602224,215,Edinburgh,"Civerinos,5 Hunter Square, Royal Mile, Old Town, Edinburgh EH1 1QW",Old Town,"Old Town, Edinburgh",-3.187962,55.949637,"Pizza, Italian"
+7600471,215,Edinburgh,"The Elephant House,21 George IV Bridge, Old Town, Edinburgh EH1 1EN",Old Town,"Old Town, Edinburgh",-3.191780556,55.94755556,Cafe
+7600118,215,Edinburgh,"The Hanging Bat,133 Lothian Road, Old Town, Edinburgh EH3 9AD",Old Town,"Old Town, Edinburgh",-3.205522222,55.94562222,American
+7600097,215,Edinburgh,"Love Crumbs,155 West Port, Old Town, Edinburgh EH3 9DP",Old Town,"Old Town, Edinburgh",-3.201683333,55.94595,"Bakery, Cafe"
+7600188,215,Edinburgh,"Mother India's Cafe,3-5 Infirmary Street, Old Town, Edinburgh EH1 1LT",Old Town,"Old Town, Edinburgh",-3.18625,55.94800278,Indian
+7600914,215,Edinburgh,"The Witchery & The Secret Garden,Castlehill, The Royal Mile, Old Town, Edinburgh EH12NF",Old Town,"Old Town, Edinburgh",-3.19575,55.94828056,"British, Scottish, Seafood"
+7601024,215,Edinburgh,"Ting Thai Caravan,8-9 Teviot Place, Old Town, Edinburgh EH1 2QZ",Old Town,"Old Town, Edinburgh",-3.189979,55.945676,"Thai, Asian"
+7601177,215,Edinburgh,"Tuk Tuk Indian Street Food,1 Leven Street, Tollcross, Edinburgh EH3 9NB",Tollcross,"Tollcross, Edinburgh",-3.203588889,55.94190278,"Indian, Street Food"
+7600921,215,Edinburgh,"Steak,14 Picardy Place, New Town, Edinburgh EH1 3JT","Twelve Picardy Place, New Town","Twelve Picardy Place, New Town, Edinburgh",-3.186854,55.957033,"Steak, Scottish, British"
+6118140,215,London,"Gymkhana,42 Albemarle Street, Mayfair, London W1S 4JH","Albemarle Street, Mayfair","Albemarle Street, Mayfair, London",-0.141645,51.508515,"Indian, Pakistani, Curry"
+6103683,215,London,"Bocca Di Lupo,12 Archer Street, Soho, London W1D 7BB","Archer Street, Soho","Archer Street, Soho, London",-0.133947,51.511629,Italian
+6114338,215,London,"Flat Iron,17 Beak Street, Soho, London W1F 9RW","Beak Street, Soho","Beak Street, Soho, London",-0.138343,51.512069,Steak
+6114829,215,London,"Duck & Waffle,Heron Tower, 110 Bishopsgate, City of London, London EC2N 4AY","Bishopsgate, City Of London","Bishopsgate, City Of London, London",-0.080963,51.516284,British
+6103922,215,London,"Dishoom,7 Boundary Street, Shoreditch, London E2 7JE","Boundary Street, Shoreditch","Boundary Street, Shoreditch, London",-0.076580556,51.52453611,"Indian, Cafe, Curry"
+6103902,215,London,"Yauatcha,15-17 Broadwick Street, Soho, London W1F 0DL","Broadwick Street, Soho","Broadwick Street, Soho, London",-0.135229,51.513739,"Chinese, Dim Sum"
+6103255,215,London,"Roka,37 Charlotte Street, Fitzrovia, London W1T 1RR","Charlotte Street, Fitzrovia","Charlotte Street, Fitzrovia, London",-0.135524,51.518935,"Japanese, Sushi"
+6113680,215,London,"Restaurant Gordon Ramsay,68 Royal Hospital Road, Chelsea, London SW3 4HP",Chelsea,Chelsea,-0.162092,51.485509,French
+6113857,215,London,"sketch Gallery,sketch, 9 Conduit Street, Mayfair, London W1S 2XG","Conduit Street, Mayfair","Conduit Street, Mayfair, London",-0.141557,51.512669,"British, Contemporary"
+6100054,215,London,"Masala Zone,48 Floral Street, Covent Garden, London WC2E 9DA",Covent Garden,Covent Garden,-0.123132,51.513196,"Indian, Curry"
+6102615,215,London,"The Breakfast Club,33 D'Arblay Street, Soho, London W1F 8EU","D'arblay Street, Soho","D'arblay Street, Soho, London",-0.135463889,51.51481111,"American, Burger"
+6127163,215,London,"Bao,53 Lexington Street, Soho, London W1F 9AS","Lexington Street, Soho","Lexington Street, Soho, London",-0.136576,51.513225,"Taiwanese, Street Food"
+6117406,215,London,"Five Guys,1-3 Long Acre, Covent Garden, London WC2E 9LH","Long Acre, Covent Garden","Long Acre, Covent Garden, London",-0.126324,51.512085,"American, Burger"
+6102866,215,London,"Hakkasan,17 Bruton Street, Mayfair, London W1J 6QB",Mayfair,Mayfair,-0.144861,51.510342,"Chinese, Dim Sum"
+6103868,215,London,"Nobu,15 Berkeley Street, Mayfair, London W1J 8DY",Mayfair,Mayfair,-0.143259,51.508811,"Japanese, Sushi"
+6104220,215,London,"Roti Chai,3 Portman Mews South, Marble Arch, London W1H 6HS","Portman Mews South, Marble Arch","Portman Mews South, Marble Arch, London",-0.155732,51.514641,"Indian, Street Food"
+6117859,215,London,"Shake Shack,24 Market Building, The Piazza, Covent Garden, London WC2E 8RD","Tavistock Court, Covent Garden","Tavistock Court, Covent Garden, London",-0.12262,51.511682,"American, Burger"
+6103211,215,London,"Dishoom,12 Upper St Martin's Lane, Covent Garden, London WC2H 9FB","Upper St Martin's Lane, Covent Garden","Upper St Martin's Lane, Covent Garden, London",-0.127164,51.512417,"Indian, North Indian, Curry, Cafe"
+6101881,215,London,"Jamie's Italian,11 Upper St Martin's Lane, Covent Garden, London WC2H 9FB","Upper St Martin's Lane, Covent Garden","Upper St Martin's Lane, Covent Garden, London",-0.126963,51.51259,Italian
+6113973,215,London,"Bone Daddies,31 St. Peter Street, Soho, London W1F 0AR","Walker's Court, Soho","Walker's Court, Soho, London",-0.133789,51.512627,"Ramen, Japanese"
+6800280,215,Manchester,"Monolos Playhouse Restaurant,137 Cheetham Hill Road, Cheetham Hill, Manchester M8 8LY",Cheetham Hill,"Cheetham Hill, Manchester",-2.239385,53.494691,"American, Fast Food, Desserts, Steak"
+6800443,215,Manchester,"Santos,22 King Edward's Buildings, Bury Old Road, Cheetham Hill, Manchester M7 4QJ",Cheetham Hill,"Cheetham Hill, Manchester",-2.246548,53.513525,"Pizza, Fast Food"
+6801867,215,Manchester,"Manchester House,Tower 12, 18-22 Bridge Street, Deansgate, Manchester M3 3BZ",Deansgate,"Deansgate, Manchester",-2.250806,53.48124,British
+6800235,215,Manchester,"The Grill On The Alley,5 RIdgefield, Deansgate, Manchester M2 6EG",Deansgate,"Deansgate, Manchester",-2.247333333,53.48083333,"Steak, Seafood, Grill"
+6801051,215,Manchester,"Nawaab,1008 Stockport Road, Levenshulme, Manchester M19 3WN",Levenshulme,"Levenshulme, Manchester",-2.189833333,53.44183333,"Pakistani, Indian, Afghani, Curry"
+6800577,215,Manchester,"Jamie's Italian,100 King Street, Market Street, Manchester M2 4WU",Market Street,"Market Street, Manchester",-2.242833333,53.48083333,Italian
+6800569,215,Manchester,"Chaophraya,19 Chapel Walks, City Center, Market Street, Manchester M2 1HN",Market Street,"Market Street, Manchester",-2.243505,53.48174,Thai
+6801374,215,Manchester,"Solita,37 Turner Street, Northern Quarter, Manchester M4 1DW",Northern Quarter,"Northern Quarter, Manchester",-2.237333333,53.4835,"American, Burger, Grill"
+6801963,215,Manchester,"Almost Famous Burgers,100-102 High Street, Northern Quarter, Manchester M4 1HP",Northern Quarter,"Northern Quarter, Manchester",-2.237033,53.484543,"Burger, American"
+6801329,215,Manchester,"Home Sweet Home,49-51 Edge Street, Northern Quarter, Manchester M4 1HW",Northern Quarter,"Northern Quarter, Manchester",-2.236,53.48416667,"British, Burger, Cafe"
+6801395,215,Manchester,"Teacup,55 Thomas Street, Northern Quarter, Manchester M4 1NA",Northern Quarter,"Northern Quarter, Manchester",-2.236507,53.484099,"British, Contemporary"
+6800538,215,Manchester,"Archies,72 Oxford Road, University District, Oxford Road, Manchester M1 5NH",Oxford Road,"Oxford Road, Manchester",-2.241047,53.474221,"Fast Food, American"
+6800593,215,Manchester,"Zouk Tea Bar & Grill,The Quadrangle, Chester Street, Oxford Road, Manchester M1 5QS",Oxford Road,"Oxford Road, Manchester",-2.24042,53.472433,"Indian, Seafood"
+6800908,215,Manchester,"Mughli,30 Wilmslow Road, Rusholme, Manchester M14 5TQ",Rusholme,"Rusholme, Manchester",-2.225333333,53.456,"Indian, Curry"
+6800678,215,Manchester,"Lahore,14-18 Wilmslow Road, Rusholme, Manchester M14 5TQ",Rusholme,"Rusholme, Manchester",-2.225333333,53.45583333,"Indian, Grill"
+6800892,215,Manchester,"Gaucho,2A St Mary's Street, Spinningfields, Manchester M3 2LB",Spinningfields,"Spinningfields, Manchester",-2.247633,53.482261,"Argentine, American"
+6800263,215,Manchester,"Akbars,73-83 Liverpool Road, Spinningfields, Manchester M3 4NQ",Spinningfields,"Spinningfields, Manchester",-2.254833333,53.4765,Indian
+6801039,215,Manchester,"San Carlo,40-42 King Street West, Spinningfields, Manchester M3 2WY",Spinningfields,"Spinningfields, Manchester",-2.248848,53.481413,Italian
+6801873,215,Manchester,"Mr Cooper's House & Garden - The Midland,The Midland, Peter Street, Deansgate, Manchester M60 2DS","The Midland, Deansgate","The Midland, Deansgate, Manchester",-2.245034,53.477358,"European, Mediterranean, Contemporary"
+6800782,215,Manchester,"The French by Simon Rogan - The Midland,The Midland, Peter Street, Deansgate, Manchester M60 2DS","The Midland, Deansgate","The Midland, Deansgate, Manchester",-2.245077,53.477154,French
