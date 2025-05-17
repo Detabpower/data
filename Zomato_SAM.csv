@@ -1,0 +1,61 @@
+﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+6600681,30,Brasí_lia,"Chez Michou,SCLN, 208, Bloco A, Loja 30, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88178889,-15.76414167,"Fast Food, French"
+6601005,30,Brasí_lia,"Cafí© Daniel Briand,SCLN 104, Bloco A, Loja 26, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88266667,-15.7775,Cafe
+6600292,30,Brasí_lia,"Casa do Biscoito Mineiro,SCLN 210, Bloco D, Loja 36/48, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88213611,-15.75747222,Bakery
+6600441,30,Brasí_lia,"Maori,CLN 110, Bloco D, Loja 28, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88816667,-15.75883333,Brazilian
+6600970,30,Brasí_lia,"Pizza íæ Bessa,SCS 214, Bloco C, Loja 40, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.91566667,-15.83116667,Pizza
+6600379,30,Brasí_lia,"Sushi Loko,SCS 213, Bloco C, Loja 35, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.91566667,-15.831,Japanese
+6600214,30,Brasí_lia,"Beirute,CLS 109, Bloco A, Loja 2/6, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.9075,-15.82,Arabian
+6601218,30,Brasí_lia,"New Koto,SCS 212, Bloco B, Loja 26, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.91016667,-15.82733333,Japanese
+6600060,30,Brasí_lia,"Sandubas Cafí©,Edifí_cio Josí© Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.89016667,-15.797,"Brazilian, Cafe"
+6600083,30,Brasí_lia,"Villa Tevere,CLS 115, Bloco A, Loja 2, Asa Sul, Brasí_lia",Asa Sul,"Asa Sul, Brasí_lia",-47.92366667,-15.83133333,Italian
+6601515,30,Brasí_lia,"Rovereto,Rua 13 Norte, Lote 4, íguas Claras, Brasí_lia",íguas Claras,"íguas Claras, Brasí_lia",-48.019,-15.83716667,Pizza
+6601361,30,Brasí_lia,"Buena Carne,Avenida Araucíçrias, 1325, Loja 19, íguas Claras, Brasí_lia",íguas Claras,"íguas Claras, Brasí_lia",-48.01909167,-15.839775,"Bar Food, Brazilian"
+6601602,30,Brasí_lia,"Taco Pep,Vila Malls, Avenida das Castanheiras, Lote 1060, í€guas Claras, Brasí_lia",íguas Claras,"íguas Claras, Brasí_lia",-48.01666667,-15.83483333,"Mexican, Grill"
+6601589,30,Brasí_lia,"Coco Bambu,Brasí_lia Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Brasí_lia","Brasí_lia Shopping, Asa Norte","Brasí_lia Shopping, Asa Norte, Brasí_lia",-47.889,-15.7865,International
+6601862,30,Brasí_lia,"Taypíç,Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Brasí_lia",Lago Sul,"Lago Sul, Brasí_lia",-47.872359,-15.860621,"Peruvian, Latin American"
+6601595,30,Brasí_lia,"Outback Steakhouse,ParkShopping - Piso 2, SAI/SO, írea 6580, Guaríç I, Brasí_lia","ParkShopping, Guaríç I","ParkShopping, Guaríç I, Brasí_lia",-47.95628333,-15.83451389,"American, Grill"
+6601158,30,Brasí_lia,"Manzuíç,Pontí£o Lago Sul, SHIS 10, Lote 9, Lago Sul, Brasí_lia","Pontí£o Lago Sul, Lago Sul","Pontí£o Lago Sul, Lago Sul, Brasí_lia",-47.87283333,-15.82566667,Seafood
+6600427,30,Brasí_lia,"Coco Bambu,SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Brasí_lia",Setor De Clubes Esportivos Sul,"Setor De Clubes Esportivos Sul, Brasí_lia",-47.8685,-15.819,International
+6600116,30,Brasí_lia,"Gero,Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Brasí_lia","Shopping Iguatemi, Lago Norte","Shopping Iguatemi, Lago Norte, Brasí_lia",-47.885812,-15.720118,Italian
+6601457,30,Brasí_lia,"Brazilian American Burgers,CLSN 301, Bloco C, Loja 86, Sudoeste, Brasí_lia",Sudoeste,"Sudoeste, Brasí_lia",-47.92102778,-15.79753056,"American, Burger"
+7303219,30,Rio de Janeiro,"Pesqueiro Eco Gourmet,Praia da Barra da Tijuca, Avenida Lí_cio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",Barra da Tijuca,"Barra da Tijuca, Rio de Janeiro",-43.377,-23.0115,"Seafood, Bar Food, Brazilian"
+7304307,30,Rio de Janeiro,"Confeitaria Colombo,Rua Goní_alves Dias, 32, Centro, Rio de Janeiro",Centro,"Centro, Rio de Janeiro",-43.178826,-22.905293,"Desserts, Cafe"
+7301215,30,Rio de Janeiro,"Bibi,Rua Santa Clara, 36, Copabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-43.18669167,-22.97207222,"Juices, Healthy Food"
+7300596,30,Rio de Janeiro,"Cervantes,Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-43.17583333,-22.96216667,"Beverages, Bar Food, Fast Food"
+7300612,30,Rio de Janeiro,"Amir,Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-43.176,-22.96516667,Lebanese
+7300704,30,Rio de Janeiro,"TT Burger,Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro","Galeria River, Copacabana","Galeria River, Copacabana, Rio de Janeiro",-43.191,-22.98683333,Burger
+7300955,30,Rio de Janeiro,"Braseiro da Gíçvea,Praí_a Santos Dumont, 116, Gíçvea, Rio de Janeiro",Gíçvea,"Gíçvea, Rio de Janeiro",-43.227042,-22.973507,"Brazilian, Bar Food"
+7300521,30,Rio de Janeiro,"Balada Mix,Rua Aní_bal de Mendoní_a, 37, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-43.211425,-22.98520833,"Brazilian, Healthy Food, Juices, Pizza"
+7300515,30,Rio de Janeiro,"Garota de Ipanema,Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-43.203,-22.98533333,"Brazilian, Bar Food"
+7300483,30,Rio de Janeiro,"Zazíç BistríÇ Tropical,Rua Joana Angí©lica, 40, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-43.20520833,-22.98531944,Brazilian
+7301064,30,Rio de Janeiro,"Filí© de Ouro,Rua Jardim Botí¢nico, 731, Jardim Botí¢nico, Lagoa, Rio de Janeiro",Lagoa,"Lagoa, Rio de Janeiro",-43.219563,-22.966647,Brazilian
+7304312,30,Rio de Janeiro,"D.O.C Ristorante,Le Monde, Bloco 3, Lojas A/B, Avenida das Amí©ricas, 3500, Barra da Tijuca, Rio de Janeiro","Le Monde, Barra da Tijuca","Le Monde, Barra da Tijuca, Rio de Janeiro",-43.34879167,-22.99991111,Italian
+7300004,30,Rio de Janeiro,"Sushi Leblon,Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",Leblon,"Leblon, Rio de Janeiro",-43.227,-22.98416667,Japanese
+7300868,30,Rio de Janeiro,"Talho Capixaba,Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",Leblon,"Leblon, Rio de Janeiro",-43.22566667,-22.98516667,"Bakery, Sandwich, Brazilian"
+7302637,30,Rio de Janeiro,"Leme Light,Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",Leme,"Leme, Rio de Janeiro",-43.17279167,-22.963925,Brazilian
+7302140,30,Rio de Janeiro,"Shirley,Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",Leme,"Leme, Rio de Janeiro",-43.17126389,-22.96337222,"Brazilian, Seafood"
+7305048,30,Rio de Janeiro,"Quiosque Chopp Brahma,Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",Madureira,"Madureira, Rio de Janeiro",-43.341164,-22.870413,"Bar Food, Brazilian"
+7302898,30,Rio de Janeiro,"Aprazí_vel,Rua Aprazí_vel, 62, Santa Teresa, Rio de Janeiro",Santa Teresa,"Santa Teresa, Rio de Janeiro",-43.18736944,-22.92481389,Brazilian
+7302859,30,Rio de Janeiro,"Aconchego Carioca,Rua Barí£o de Iguatemi, 379, Tijuca, Rio de Janeiro",Tijuca,"Tijuca, Rio de Janeiro",-43.21551111,-22.91370833,"Brazilian, Bar Food"
+7301700,30,Rio de Janeiro,"Garota de Ipanema,Avenida Joí£o Alves, 56, Urca, Rio de Janeiro",Urca,"Urca, Rio de Janeiro",-43.16266667,-22.94783333,"Brazilian, Bar Food"
+6706313,30,Sí£o Paulo,"Cantina Famiglia Mancini,Rua Avanhandava, 81, Bela Vista, Sí£o Paulo 10000","Bela Vista, Centro","Bela Vista, Centro, Sí£o Paulo",-46.64516667,-23.55066667,"Italian, Pizza"
+6704326,30,Sí£o Paulo,"Templo da Carne - Marcos Bassi,Rua Treze de Maio, 668, Bela Vista, Sí£o Paulo 01327000","Bela Vista, Centro","Bela Vista, Centro, Sí£o Paulo",-46.64633333,-23.559,"Steak, BBQ"
+6711179,30,Sí£o Paulo,"Gopala Hari,Rua Antonio Carlos, 429, Consolaí_í£o, Sí£o Paulo",Consolaí_í£o,"Consolaí_í£o, Sí£o Paulo",-46.65866667,-23.55616667,Indian
+6702797,30,Sí£o Paulo,"Jiquitaia,Rua AntíÇnio Carlos, 268, Consolaí_í£o, Sí£o Paulo",Consolaí_í£o,"Consolaí_í£o, Sí£o Paulo",-46.657523,-23.55671,Brazilian
+6700475,30,Sí£o Paulo,"Skye - Hotel Unique,Hotel Unique, Avenida Brigadeiro Luí_s AntíÇnio, 4700, Jardim Paulista, Sí£o Paulo","Hotel Unique, Jardim Paulista","Hotel Unique, Jardim Paulista, Sí£o Paulo",-46.666851,-23.581688,"Beverages, International"
+6713413,30,Sí£o Paulo,"Les 3 Brasseurs,Rua Jesuí_no Arruda, 470, Itaim Bibi, Sí£o Paulo",Itaim Bibi,"Itaim Bibi, Sí£o Paulo",-46.67511,-23.582135,"French, Brazilian, Beverages"
+6714340,30,Sí£o Paulo,"Red Steak & Burger,Rua Tabapuí£, 1417, Itaim Bibi, Sí£o Paulo",Itaim Bibi,"Itaim Bibi, Sí£o Paulo",-46.683888,-23.585324,"Brazilian, Grill"
+6710645,30,Sí£o Paulo,"Cantinho da Gula,Rua Pedroso Alvarenga, 522, Itaim Bibi, Sí£o Paulo, SP",Itaim Bibi,"Itaim Bibi, Sí£o Paulo",-46.67566667,-23.581,Brazilian
+6700402,30,Sí£o Paulo,"Paris 6 Classique,Rua Haddock Lobo, 1240, Cerqueira Cí©sar, Jardim Paulista, Sí£o Paulo",Jardim Paulista,"Jardim Paulista, Sí£o Paulo",-46.666041,-23.561568,French
+6700846,30,Sí£o Paulo,"Kawa Sushi,Alameda Lorena, 300, Jardim Paulista, Sí£o Paulo",Jardim Paulista,"Jardim Paulista, Sí£o Paulo",-46.657418,-23.571638,"Sushi, Japanese"
+6702159,30,Sí£o Paulo,"A Figueira Rubaiyat,Rua Haddock Lobo, 1738, Cerqueira Cí©sar, Jardim Paulista, Sí£o Paulo 10000",Jardim Paulista,"Jardim Paulista, Sí£o Paulo",-46.66983333,-23.5655,"BBQ, Grill, Brazilian"
+6711666,30,Sí£o Paulo,"Kinoshita,Rua Jacques Fí©lix, 405, Vila Nova Conceií_í£o, Moema, Sí£o Paulo",Moema,"Moema, Sí£o Paulo",-46.67133333,-23.59233333,Sushi
+6701257,30,Sí£o Paulo,"Meats,Rua dos Pinheiros, 320, Pinheiros, Sí£o Paulo",Pinheiros,"Pinheiros, Sí£o Paulo",-46.68133333,-23.56483333,"Gourmet Fast Food, Burger"
+6706211,30,Sí£o Paulo,"Paribar,Praí_a Dom Josí© Gaspar, 42, Repí_blica, Sí£o Paulo 10000",Repí_blica,"Repí_blica, Sí£o Paulo",-46.64159444,-23.54664167,"Brazilian, Italian"
+6705858,30,Sí£o Paulo,"Terraí_o Itíçlia,Edifí_cio Itíçlia - 41ŒÁ Andar, Avenida Ipiranga, 344, Repí_blica, Sí£o Paulo",Repí_blica,"Repí_blica, Sí£o Paulo",-46.643425,-23.545163,Italian
+6701419,30,Sí£o Paulo,"Divino Fogí£o,Shopping MetríÇ Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, Sí£o Paulo","Shopping MetríÇ Santa Cruz, Vila Mariana","Shopping MetríÇ Santa Cruz, Vila Mariana, Sí£o Paulo",-46.63716667,-23.5995,"Brazilian, Mineira"
+6703956,30,Sí£o Paulo,"Super Grill,Shopping Morumbi - Piso Lazer, Avenida Roque Petroni Jí_nior, 1089, Santo Amaro, Sí£o Paulo","Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, Sí£o Paulo",-46.698574,-23.622925,Brazilian
+6709580,30,Sí£o Paulo,"Esquina Mocotí_,Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, Sí£o Paulo",Vila Maria,"Vila Maria, Sí£o Paulo",-46.581672,-23.486535,"Brazilian, North Eastern"
+6703176,30,Sí£o Paulo,"Veloso,Rua Conceií_í£o Veloso, 56, Vila Mariana, Sí£o Paulo",Vila Mariana,"Vila Mariana, Sí£o Paulo",-46.63566667,-23.58516667,"Brazilian, Bar Food, Beverages"
+6713772,30,Sí£o Paulo,"Sainte Marie Gastronomia,Rua Dom Joí£o Batista da Costa, 70, Vila SíÇnia, Sí£o Paulo",Vila SíÇnia,"Vila SíÇnia, Sí£o Paulo",-46.746958,-23.609207,"Lebanese, Arabian"
