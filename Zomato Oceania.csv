@@ -1,0 +1,65 @@
+﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+16611114,14,Gympie,"Whitebull Hotel,117 Marsh St, Armidale, NSW",Armidale,"Armidale, Armidale",151.6688792,-30.5147169,"Bar Food, Steak"
+16608864,14,Taree,"Taste of Balingup,63 South Western Hwy, Balingup, WA",Balingup,"Balingup, Balingup",115.9844924,-33.7845269,Modern Australian
+16604911,14,Geelong,"Bridge Road Brewers,Old Coach House 50 Ford St, Beechworth, Beechworth, VIC",Beechworth,"Beechworth, Beechworth",146.685852,-36.360439,"Pizza, Bar Food"
+16615894,14,Townsville,"The Giggling Goat,14 Beerburrum St, Dicky Beach, QLD",Dicky Beach,"Dicky Beach, Dicky Beach",153.137401,-26.783576,"Coffee and Tea, Tea, Modern Australian"
+16612028,14,Launceston,"The Belle General,12 Shelly Beach Rd, East Ballina, NSW",East Ballina,"East Ballina, East Ballina",153.593331,-28.862663,Cafe
+16613507,14,Bundaberg,"Flaxton Gardens,313 Flaxton Drive, Flaxton, QLD",Flaxton,"Flaxton, Flaxton",152.8771473,-26.6521332,"Tea, Modern Australian"
+16607969,14,Albany,"Bespoke Harvest,16 Grant St, Forrest, VIC",Forrest,"Forrest, Forrest",143.714315,-38.517292,"Cafe, Australian"
+16604358,14,Wollongong,"Blue Bean Love Cafe,115 Main Rd, Hepburn Springs, Hepburn Springs, VIC",Hepburn Springs,"Hepburn Springs, Hepburn Springs",144.1387014,-37.3123267,"Cafe, Coffee and Tea, Modern Australian"
+16604896,14,Armidale,"La Trattoria of Lavandula,350 Hepburn-Newstead Road, Hepburn Springs, VIC",Hepburn Springs,"Hepburn Springs, Hepburn Springs",144.110062,-37.275494,"Italian, Fusion, Cafe"
+16612550,14,Murray Bridge,"5 Little Pigs,64 Owen St, Huskisson, NSW",Huskisson,"Huskisson, Huskisson",150.6710743,-35.0388698,"Breakfast, Modern Australian"
+16606299,14,Portland,"Beach Box Cafe,6a Ramsay Blvd, Inverloch, VIC",Inverloch,"Inverloch, Inverloch",145.7287133,-38.6347458,"Burger, Coffee and Tea, Modern Australian"
+16605794,14,Swan Hill,"Funkey Monkey,26 Myer street, Lakes Entrance, VIC",Lakes Entrance,"Lakes Entrance, Lakes Entrance",147.9942247,-37.8783865,"Breakfast, Coffee and Tea"
+16611498,14,Bairnsdale,"Stillwater on Belmore,27 Belmore Rd,, Lorn, NSW",Lorn,"Lorn, Lorn",151.558475,-32.728097,"Breakfast, Coffee and Tea"
+17842104,14,Ballina,"Mr.,23 Victoria St, Macedon, VIC",Macedon,"Macedon, Macedon",144.564174,-37.423189,Cafe
+16611701,14,Wagga Wagga,"Star Buffet,58 Hanbury St, Mayfield, NSW",Mayfield,"Mayfield, Mayfield",151.7343832,-32.899178,Asian
+16609169,14,Ballarat,"Three Anchors,2 Flinders Pde, Middleton Beach, WA",Middleton Beach,"Middleton Beach, Middleton Beach",117.917166,-35.025861,"Bar Food, Modern Australian"
+16613059,14,Wangaratta,"Poets Cafe,167 Main St, Montville, QLD",Montville,"Montville, Montville",152.893735,-26.690462,"Coffee and Tea, Modern Australian"
+16613649,14,Goulburn,"Vivo Bar and Grill,49 Williams Esplanade, Palm Cove, QLD",Palm Cove,"Palm Cove, Palm Cove",145.670768,-16.748083,"Mediterranean, Seafood"
+18255631,14,Albany,"Pier 70,70 The Esplanade, Paynesville",Paynesville,"Paynesville, Paynesville",147.7227832,-37.9194154,Modern Australian
+16608483,14,Alice Springs,"DiVine,39 Church St, Penola, SA",Penola,"Penola, Penola",140.837409,-37.379153,"Cafe, Coffee and Tea, Sandwich"
+16604370,14,Kingaroy,"Mad Cowes Cafe,4/17 The Esplanade, Cowes, VIC",Phillip Island,"Phillip Island, Phillip Island",145.237813,-38.448307,"Breakfast, Coffee and Tea, Modern Australian"
+16608059,14,Mount Isa,"1918 Bistro & Grill,94 Murray St, Tanunda, SA",Tanunda,"Tanunda, Tanunda",138.966064,-34.519619,"Modern Australian, Australian"
+16605194,14,Hobart,"Pig and Whistle,Pearsons Rd, Trentham East, VIC",Trentham East,"Trentham East, Trentham East",144.41272,-37.396942,Australian
+16608209,14,Cairns,"Anchorage Cafe Restaurant Wine Bar,21 Flinders Parade, Victor Harbor, SA",Victor Harbor,"Victor Harbor, Victor Harbor",138.624316,-35.5536609,"Coffee and Tea, Tapas, Australian"
+18251260,148,Auckland,"Kiss Kiss,1 Rocklands Avenue, Balmoral, Auckland",Balmoral,"Balmoral, Auckland",174.74808,-36.888662,Thai
+7000162,148,Auckland,"Giapo,12 Gore Street, Auckland CBD, Auckland",Britomart,"Britomart, Auckland",174.768851,-36.845553,"Ice Cream, Desserts"
+7001086,148,Auckland,"Milse,The Pavilions, 27 Tyler Street, Britomart, Auckland CBD, Auckland 1010",Britomart,"Britomart, Auckland",174.7686903,-36.84418841,Desserts
+7003855,148,Auckland,"Orleans,Roukai Lane, 48 Custom Street East, Britomart, Auckland CBD, Auckland 1010",Britomart,"Britomart, Auckland",174.7695519,-36.8453314,American
+7000095,148,Auckland,"Depot Eatery and Oyster Bar,86 Federal Street, Auckland CBD, Auckland, 1010",Federal Street,"Federal Street, Auckland",174.762527,-36.848988,"Seafood, Kiwi"
+7003663,148,Auckland,"Federal Delicatessen,86 Federal Street, Auckland CBD, Auckland 1010",Federal Street,"Federal Street, Auckland",174.7622201,-36.84876968,"Cafe, American"
+18217279,148,Auckland,"Miann,57 Fort Street, Auckland Auckland CBD",Fort Street,"Fort Street, Auckland",174.768986,-36.84604966,Desserts
+7005582,148,Auckland,"Little Sister Cafe,91 Central Park Drive, Henderson, Auckland",Henderson,"Henderson, Auckland",174.635633,-36.859341,Cafe
+18419011,148,Auckland,"The Kimchi Project,20 Lorne Street, Auckland CBD, Auckland",Lorne Street,"Lorne Street, Auckland",174.765767,-36.85014119,"Asian Fusion, Cafe"
+7001208,148,Auckland,"De Fontein Belgian Beer Cafe,75-79 Tamaki Drive, Mission Bay, Auckland",Mission Bay,"Mission Bay, Auckland",174.8320893,-36.84831519,European
+7005979,148,Auckland,"Chinoiserie,4 Owairaka Avenue, Mt Albert, Auckland",Mt Albert,"Mt Albert, Auckland",174.7269883,-36.89398977,"Taiwanese, Street Food"
+7000992,148,Auckland,"Eden Noodles Cafe Î__Î‡_†ƒ_†ƒ_¢,105 Dominion Road, Mt Eden, Auckland 1024",Mt Eden,"Mt Eden, Auckland",174.7524415,-36.87177949,Chinese
+7001660,148,Auckland,"Frasers,434 Mt Eden Road, Mt Eden, Auckland 1024",Mt Eden,"Mt Eden, Auckland",174.762234,-36.881213,"Cafe, European"
+7006107,148,Auckland,"The Garden Shed,470 Mt Eden Road, Mt Eden, Auckland 1024",Mt Eden,"Mt Eden, Auckland",174.762354,-36.882604,"Kiwi, European"
+18383350,148,Auckland,"Tucks and Bao,19 Davis Cresent, Newmarket, Auckland 1023",Newmarket,"Newmarket, Auckland",174.777987,-36.86565,"Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai"
+18450836,148,Auckland,"Winona Forever,100 Parnell Road, Parnell, Auckland",Parnell,"Parnell, Auckland",174.779441,0,Cafe
+7006871,148,Auckland,"Big Fish Eatery,Unit 3, 710 Great South Road, Corner Wilkinson Road, Penrose, Auckland 1061",Penrose,"Penrose, Auckland",174.810305,-36.905409,"Asian, Sushi, Seafood"
+7006421,148,Auckland,"PappaRich,Sky City Metro,  Shop 2.01-2.03, 291-297 Queen Street, Auckland CBD, Auckland 1010","Sky City Metro, Auckland CBD","Sky City Metro, Auckland CBD, Auckland",174.7634761,-36.85158619,Malaysian
+7001670,148,Auckland,"Eight - The Langham Hotel,The Langham Hotel, 83 Symonds Street, Grafton, Auckland","The Langham Hotel, Auckland CBD","The Langham Hotel, Auckland CBD, Auckland",174.764078,-36.857474,European
+7003682,148,Auckland,"Baduzzi,10-26 Jellicoe Street, Wynyard Quarter, Auckland CBD, Auckland 1010",Wynyard Quarter,"Wynyard Quarter, Auckland",174.7570233,-36.84109176,Italian
+7100468,148,Wellington City,"Maranui Cafe,Maranui Surf Life Saving Club, 7 Lyall Parade, Lyall Bay, Wellington City",Lyall Bay,"Lyall Bay, Wellington City",174.793257,-41.330428,"Cafe, Kiwi"
+7101378,148,Wellington City,"Five Boroughs,4 Roxburgh Street, Corner of Roxburgh and Majoribanks Street, Mt Victoria, Wellington City",Mt Victoria,"Mt Victoria, Wellington City",174.785051,-41.294234,American
+7101011,148,Wellington City,"Ekim Burgers,257 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.774151,-41.296107,Fast Food
+7100171,148,Wellington City,"Ombra,199 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.775,-41.29483333,Italian
+7101042,148,Wellington City,"The Hangar,171-177 Willis Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.773933,-41.290801,Cafe
+7101483,148,Wellington City,"Burger Liquor,129 Willis Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.774546,-41.289798,American
+7100478,148,Wellington City,"Caffe L'affare,27 College Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.780345,-41.296155,Cafe
+7100660,148,Wellington City,"Dragonfly,70 Courtenay Place, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.7806667,-41.293,Asian
+7100151,148,Wellington City,"Enigma Cafe,128 Courtenay Place, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.7791667,-41.2925,"Cafe, Kiwi, Ice Cream, Desserts"
+7100502,148,Wellington City,"Fidel's,234 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.774134,-41.29597,"Cafe, European, Mexican"
+7100072,148,Wellington City,"Fisherman's Plate,12 Bond Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.7756667,-41.289,"Vietnamese, Fish and Chips"
+7100811,148,Wellington City,"Floriditas,161 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.7755,-41.29383333,"Italian, Cafe"
+7100119,148,Wellington City,"Hippopotamus - Museum Hotel,Museum Hotel, Level 3, 90 Cable Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.782427,-41.291774,"French, Kiwi"
+7100087,148,Wellington City,"Little Penang,40 Dixon Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.777091,-41.291901,Malaysian
+7101310,148,Wellington City,"Loretta,181 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.775296,-41.294154,"European, Cafe"
+7100535,148,Wellington City,"Midnight Espresso,178 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.774912,-41.294565,Cafe
+7101000,148,Wellington City,"Olive,170 Cuba Street, Te Aro, Wellington City",Te Aro,"Te Aro, Wellington City",174.775005,-41.294402,"Mediterranean, Cafe, European"
+7100938,148,Wellington City,"wagamama,33 Customhouse Quay, Wellington Central, Wellington City 6011",Wellington Central,"Wellington Central, Wellington City",174.7792237,-41.28303381,"Japanese, Asian"
+7101081,148,Wellington City,"Charley Noble Eatery & Bar,Huddart Parker Building, Ground Floor, 1 Post Office Square, Wellington Central, Wellington City",Wellington Central,"Wellington Central, Wellington City",174.7774651,-41.28496092,European
+7100788,148,Wellington City,"The Crab Shack,15 Jervois Quay, Queens Wharf, Wellington Central, Wellington City",Wellington Central,"Wellington Central, Wellington City",174.7791667,-41.28483333,"Seafood, Kiwi"
