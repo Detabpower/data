@@ -37,7 +37,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18483051,184,Singapore,"Summer Pavilion,The Ritz-Carlton, 7 Raffles Avenue,  Millenia Singapore,  039799","Marina Centre, Downtown Core","Marina Centre, Downtown Core, Singapore",103.8601766,1.290800881,"Chinese, Seafood, Cantonese, Dim Sum"
 18482983,184,Singapore,"The Lokal,136 Neil Road 088865","Neil Road, Outram","Neil Road, Outram, Singapore",103.840921,1.278373182,"Singaporean, Australian, German"
 18479742,184,Singapore,"I Am,674 North Bridge Road, #01-01 Haji Lane 188804","North Bridge Road, Rochor","North Bridge Road, Rochor, Singapore",103.8584296,1.301707168,"Western, Fusion, Fast Food"
-18482938,184,Singapore,"Super Loco,The Quayside60 Roberston Quay #01-13 238252","Robertson Quay, Singapore River","Robertson Quay, Singapore River, Singapore",103.839165,1.290083898,"American, Mexican"
+18482938,184,Singapore,"Super Loco,The Quayside
+60 Roberston Quay #01-13 238252","Robertson Quay, Singapore River","Robertson Quay, Singapore River, Singapore",103.839165,1.290083898,"American, Mexican"
 18483082,184,Singapore,"Artistry,17 Jalan Pinang 199149","Sungai Pinang, Rochor","Sungai Pinang, Rochor, Singapore",103.8581813,1.303034648,"American, Bakery, European, Burger, Fusion"
 18483446,184,Singapore,"Bitters & Love,118 Telok Ayer Street 068587","Telok Ayer Street, Outram","Telok Ayer Street, Outram, Singapore",103.8482541,1.28197,Finger Food
 18483252,184,Singapore,"Artichoke Cafe,161 Middle Road, Sculpture Square 188978","Victoria, Rochor","Victoria, Rochor, Singapore",103.8519943,1.299707726,"Cafe, Spanish, Turkish, Greek"
@@ -99,7 +100,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 5602055,214,Sharjah,"Rajasthan Al Malaki,Behind DPS Sharjah Primary School, Muwailih Commercial, Sharjah",Muwailih Commercial,"Muwailih Commercial, Sharjah",55.45195531,25.2887722,"Indian, North Indian"
 5601521,214,Sharjah,"Applebee's,Opposite Jumbo Electronics, Level 2, Sahara Centre, Al Nahda, Sharjah","Sahara Centre, Al Nahda","Sahara Centre, Al Nahda, Sharjah",55.37353624,25.29782287,"American, Mexican, Burger"
 5602377,214,Sharjah,"Paper Fig,Near Dubai Islamic Bank, Muweilah, University City, Sharjah",University City,"University City, Sharjah",55.45834266,25.3084123,"Cafe, Bakery, Desserts"
-5602884,214,Sharjah,"Sis Burger,Behind ADNOC Petrol Station,Univercity City Road, University City, Sharjah",University City,"University City, Sharjah",55.45425095,25.31127229,"Fast Food, Burger"
+5602884,214,Sharjah,"Sis Burger,Behind ADNOC Petrol Station,
+Univercity City Road, University City, Sharjah",University City,"University City, Sharjah",55.45425095,25.31127229,"Fast Food, Burger"
 5602942,214,Sharjah,"Crafted Blends,Next To Super Bonanza Hyper Market, Opposite Defence Camp, University City, Sharjah",University City,"University City, Sharjah",55.460279,25.310369,Cafe
 3400025,1,Agra,"Jahanpanah,E 23, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra Cantt,"Agra Cantt, Agra",78.01154444,27.16166111,"North Indian, Mughlai"
 3400341,1,Agra,"Rangrezz Restaurant,E-20, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra Cantt,"Agra Cantt, Agra",0,0,"North Indian, Mughlai"
@@ -129,7 +131,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18438909,1,Ahmedabad,"La Pino'z Pizza,Shop 10,  Circle B, Nyay Marg, Bodakdev, Ahmedabad",Bodakdev,"Bodakdev, Ahmedabad",72.5124872,23.0382314,"Pizza, Italian"
 18143128,1,Ahmedabad,"Mocha,6-9, Ground Floor, Devashish Business Park, Opposite Krishna Complex, Bodakdev, Ahmedabad",Bodakdev,"Bodakdev, Ahmedabad",72.511307,23.0318508,"Cafe, Continental, Desserts"
 18438944,1,Ahmedabad,"Blue -  Rooftop Cafe Restaurant Bistro,10th Floor, Balaji Heights Buliding, Behind Tanishq Showroom, C G Road, Ahmedabad",C G Road,"C G Road, Ahmedabad",72.5570374,23.0290619,"North Indian, Cafe, Italian, Mexican, Continental"
-110436,1,Ahmedabad,"MoMo CafÌ© - Courtyard By Marriott,Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad","Courtyard By Marriott, Satellite","Courtyard By Marriott, Satellite, Ahmedabad",72.5115815,23.027929,"North Indian, South Indian, Asian, Continental"
+110436,1,Ahmedabad,"MoMo Caf√≠¬© - Courtyard By Marriott,Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad","Courtyard By Marriott, Satellite","Courtyard By Marriott, Satellite, Ahmedabad",72.5115815,23.027929,"North Indian, South Indian, Asian, Continental"
 18385201,1,Ahmedabad,"Cryo Lab,Ground Floor, Arjun Avenue, Opposite Samartheshwar Mahadev, Law Garden, Ahmedabad",Ellis Bridge,"Ellis Bridge, Ahmedabad",72.55998429,23.02874796,"Desserts, Ice Cream"
 110395,1,Ahmedabad,"Swati Snacks,Near Law Garden, Ellis Bridge, Ahmedabad",Ellis Bridge,"Ellis Bridge, Ahmedabad",72.55903311,23.02443364,"Fast Food, Street Food, South Indian"
 18335583,1,Ahmedabad,"Brick Kitchen,At Five Petals Hotel & Banquets, Near Chanakyapuri Bridge, Ghatlodia, Ahmedabad",Ghatlodia,"Ghatlodia, Ahmedabad",72.5316389,23.0643038,"North Indian, Chinese, Continental"
@@ -437,7 +439,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 6161,1,Faridabad,"Perfect Bake,SCF 40, Main Market, Sector 15, Faridabad",Sector 15,"Sector 15, Faridabad",77.3231543,28.3952545,"Bakery, Fast Food"
 2565,1,Faridabad,"Sethi's Delicacy,9 & 10, Main Market, Sector 15, Faridabad",Sector 15,"Sector 15, Faridabad",77.3244651,28.3950376,"Fast Food, Bakery"
 3866,1,Faridabad,"Subway,SCF 78, HUDA Market, Sector 15, Faridabad",Sector 15,"Sector 15, Faridabad",77.3219427,28.3948264,"American, Fast Food, Salad, Healthy Food"
-18250288,1,Faridabad,"CafÌ© Bogchi,SCF 39, First Floor, Above Axis Bank, Sector 15, Faridabad",Sector 15,"Sector 15, Faridabad",77.32380275,28.39572041,"Cafe, Italian, Mexican, Continental"
+18250288,1,Faridabad,"Caf√≠¬© Bogchi,SCF 39, First Floor, Above Axis Bank, Sector 15, Faridabad",Sector 15,"Sector 15, Faridabad",77.32380275,28.39572041,"Cafe, Italian, Mexican, Continental"
 1430,1,Faridabad,"Ashoka Restaurant,Main Market, Sector 16, Faridabad",Sector 16,"Sector 16, Faridabad",77.3203273,28.4104693,North Indian
 18393702,1,Faridabad,"Baskin Robbins,Shop 60, Near Sagar Cinema, Sector 16, Faridabad",Sector 16,"Sector 16, Faridabad",77.3201927,28.4107707,Ice Cream
 6152,1,Faridabad,"China Hot Pot,Shop 147, HUDA Market, Sector 16, Faridabad",Sector 16,"Sector 16, Faridabad",77.3192063,28.4106963,"Chinese, Fast Food"
@@ -515,7 +517,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 301127,1,Faridabad,"Twist of Italy,92, HUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3109543,28.4807634,"Chinese, Fast Food"
 9233,1,Faridabad,"Aggarwal Sweets And Caterers,Anangpur Dairy, Devi Sahay Market, Near, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3066403,28.48420819,"Mithai, Street Food"
 18471246,1,Faridabad,"Biryani Bot,HUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.311746,28.4805778,Biryani
-18446082,1,Faridabad,"CafÌ© Kitchen,Shop 65, HUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3114869,28.4808293,"North Indian, Chinese"
+18446082,1,Faridabad,"Caf√≠¬© Kitchen,Shop 65, HUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3114869,28.4808293,"North Indian, Chinese"
 18396398,1,Faridabad,"Evergreen Sweets & Restaurant,SCF 147, hUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3106046,28.4803991,"North Indian, South Indian, Chinese, Fast Food"
 18471244,1,Faridabad,"Magic Spice Wok,Shop 53, HUDA Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3113363,28.4806939,"Chinese, Fast Food"
 18367078,1,Faridabad,"Magical Momos,Huda Market, Sector 37, Faridabad",Sector 37,"Sector 37, Faridabad",77.3104099,28.4806379,Chinese
@@ -984,12 +986,13 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 309421,1,Gurgaon,"Citron - Hotel Haut.Monde,Hotel Haut Monde, Jharsa Road, Sector 15, Gurgaon","Hotel Haute.Monde, Sector 15","Hotel Haute.Monde, Sector 15, Gurgaon",77.0382176,28.4553962,"North Indian, Chinese, Continental"
 308390,1,Gurgaon,"Gabbar Meals,Shop 18, Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0726806,28.459424,"North Indian, Mughlai"
 308473,1,Gurgaon,"McDonald's,Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0727706,28.4594327,"Fast Food, Burger"
-308997,1,Gurgaon,"Crust Bistro,Food Court, HUDA City Center Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.07272552,28.45938349,"Italian, Pizza"
+308997,1,Gurgaon,"Crust Bistro,Food Court, HUDA City Center Metro
+ Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.07272552,28.45938349,"Italian, Pizza"
 308470,1,Gurgaon,"Dunkin' Donuts,Shop 3, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0727706,28.4594327,"Burger, Desserts, Fast Food"
 308477,1,Gurgaon,"Kabab Roll Cafe,Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0727256,28.4593835,"North Indian, Mughlai"
 307786,1,Gurgaon,"Starbucks,Ground Floor, South Wing, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0725008,28.4588688,Cafe
 308447,1,Gurgaon,"Eggers Madhouse,11, Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon, Gurgaon",77.0726806,28.459424,Fast Food
-17977796,1,Gurgaon,"Gallery CafÌ© - Hyatt Place,Hyatt Place,15/1, Old Delhi-Gurgaon Road, Sector 18, Udyog Vihar, Gurgaon",Hyatt Place Gurgaon,"Hyatt Place Gurgaon, Gurgaon",77.065948,28.5008981,Cafe
+17977796,1,Gurgaon,"Gallery Caf√≠¬© - Hyatt Place,Hyatt Place,15/1, Old Delhi-Gurgaon Road, Sector 18, Udyog Vihar, Gurgaon",Hyatt Place Gurgaon,"Hyatt Place Gurgaon, Gurgaon",77.065948,28.5008981,Cafe
 17977757,1,Gurgaon,"Coffee to Cocktail Bar - Hyatt Place,Hyatt Place,15/1, Old Delhi-Gurgaon Road, Sector 18, Udyog Vihar, Gurgaon",Hyatt Place Gurgaon,"Hyatt Place Gurgaon, Gurgaon",77.0659784,28.5008454,Drinks Only
 4256,1,Gurgaon,"Spice It - Hotel IBIS,Hotel IBIS, Block 1, Sector 53, Golf Course Road, Gurgaon","IBIS Hotel, Golf Course Road","IBIS Hotel, Golf Course Road, Gurgaon",77.0993934,28.4470228,"Fast Food, North Indian, Chinese"
 18306548,1,Gurgaon,"Nukkadwala,JMD Megapolis, Sector 48, Sohna Road, Gurgaon","JMD Megapolis Mall, Sohna Road","JMD Megapolis Mall, Sohna Road, Gurgaon",77.038187,28.419985,"Fast Food, Street Food"
@@ -998,7 +1001,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 302336,1,Gurgaon,"The Atrium - By Jukaso It Suites,Jukaso It Suites, Plot 1, IDC Industrial Area, Near Sector 14, Gurgaon","Jukaso It Suites, Sector 14","Jukaso It Suites, Sector 14, Gurgaon",77.0536264,28.4725545,"Asian, Bakery"
 8413,1,Gurgaon,"Delhi - Kingdom of Dreams,Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company Ltd., Auditorium Complex, Sector 29, Gurgaon","Kingdom of Dreams, Sector 29","Kingdom of Dreams, Sector 29, Gurgaon",77.0679481,28.4679413,Street Food
 8437,1,Gurgaon,"Lucknow - Kingdom of Dreams,Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company Ltd., Auditorium Complex, Sector 29, Gurgaon","Kingdom of Dreams, Sector 29","Kingdom of Dreams, Sector 29, Gurgaon",77.0683484,28.4684937,Lucknowi
-8019,1,Gurgaon,"Longitude 77å¡03' Bar - Le Meridien Gurgaon,Le Meridien Gurgaon, Sector 26, Gurgaon Delhi Border, MG Road, Gurgaon","Le Meridien Gurgaon, MG Road","Le Meridien Gurgaon, MG Road, Gurgaon",77.1081995,28.4805868,Finger Food
+8019,1,Gurgaon,"Longitude 77¬å√Å03' Bar - Le Meridien Gurgaon,Le Meridien Gurgaon, Sector 26, Gurgaon Delhi Border, MG Road, Gurgaon","Le Meridien Gurgaon, MG Road","Le Meridien Gurgaon, MG Road, Gurgaon",77.1081995,28.4805868,Finger Food
 307416,1,Gurgaon,"I-Kandy - Le Meridien Gurgaon,Le Meridien Gurgaon, Sector 26, Gurgaon Delhi Border, MG Road, Gurgaon","Le Meridien Gurgaon, MG Road","Le Meridien Gurgaon, MG Road, Gurgaon",77.1087266,28.481264,Finger Food
 18369743,1,Gurgaon,"Bella Cucina - Le Meridien Gurgaon,Le Meridien Gurgaon, Sector 26, Gurgaon Delhi Border, MG Road, Gurgaon","Le Meridien Gurgaon, MG Road","Le Meridien Gurgaon, MG Road, Gurgaon",77.1087258,28.4812481,Italian
 307533,1,Gurgaon,"Bar Code - Leisure Inn,Leisure Inn, 17/6, Old Delhi Gurgaon Road, Sector 14, Gurgaon","Leisure Inn, Sector 14, Gurgaon","Leisure Inn, Sector 14, Gurgaon, Gurgaon",77.0395172,28.4705263,Finger Food
@@ -1037,7 +1040,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18446889,1,Gurgaon,"Frozen Adda,Food Court, 2nd Floor, MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0816737,28.4784876,"Ice Cream, Desserts"
 9957,1,Gurgaon,"McDonald's,MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0818967,28.479447,"Fast Food, Burger"
 308840,1,Gurgaon,"Mr Idli Xpress,LG-33, Lower Ground Floor, MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0817187,28.4792539,"South Indian, Chinese"
-18432226,1,Gurgaon,"buÌ©no,2nd Floor, Near Lifestyle, MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0816737,28.478398,"Cafe, American, Desserts, Italian, Bakery"
+18432226,1,Gurgaon,"bu√≠¬©no,2nd Floor, Near Lifestyle, MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0816737,28.478398,"Cafe, American, Desserts, Italian, Bakery"
 311777,1,Gurgaon,"Starbucks,Upper Ground Floor, MGF Metropolis Mall, MG Road, Gurgaon","MGF Metropolis Mall, MG Road","MGF Metropolis Mall, MG Road, Gurgaon",77.0818667,28.4791426,Cafe
 2064,1,Gurgaon,"Al Kabab,9, Food Court, 3rd Floor, MGF Metropolitan Mall, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0803248,28.4803301,"North Indian, Mughlai"
 311758,1,Gurgaon,"Bangkok 1,FC-10B, 3rd Floor, MGF Metropolitan Mall, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0802124,28.4802521,Thai
@@ -1062,7 +1065,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18082232,1,Gurgaon,"Chicago Pizza,FC-08B, Food Court, 3rd Floor, MGF Metropolitan, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.080144,28.4803174,Pizza
 3585,1,Gurgaon,"Suburbia - The Empire,2nd Floor, MGF Metropolitan Mall, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0802349,28.4811283,"Continental, European, North Indian"
 305698,1,Gurgaon,"Viva Hyderabad,Food Court, 3rd Floor, MGF Metropolitan Mall","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0802124,28.4803866,"Biryani, North Indian"
-18337917,1,Gurgaon,"Queens CafÌ©,R3-B, 3rd Floor, MGF Metropolitan Mall, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0801793,28.4805091,"Cafe, North Indian"
+18337917,1,Gurgaon,"Queens Caf√≠¬©,R3-B, 3rd Floor, MGF Metropolitan Mall, MG Road, Gurgaon","MGF Metropolitan Mall, MG Road","MGF Metropolitan Mall, MG Road, Gurgaon",77.0801793,28.4805091,"Cafe, North Indian"
 6847,1,Gurgaon,"Cafe Coffee Day,23, Ground Floor, Ninex City Mart Mall, Sohna Road, Gurgaon","Ninex City Mart Mall, Sohna Road","Ninex City Mart Mall, Sohna Road, Gurgaon",77.0412894,28.4166832,Cafe
 8147,1,Gurgaon,"FOA - The Flavours of Arabia,3rd Floor, Ninex City Mart Mall, Sohna Road, Gurgaon","Ninex City Mart Mall, Sohna Road","Ninex City Mart Mall, Sohna Road, Gurgaon",77.0413756,28.4167026,"Lebanese, North Indian"
 18198825,1,Gurgaon,"A1,4/9, Ratan Garden, New Colony Mor, Old Railway Road, Gurgaon",Old Railway Road,"Old Railway Road, Gurgaon",77.0204947,28.4669375,Biryani
@@ -1121,7 +1124,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 8651,1,Gurgaon,"Baskin Robbins,2-H, Commercial Complex, Opposite Ansal Celebrity Home, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0378999,28.5125527,Ice Cream
 18291436,1,Gurgaon,"Bikaner Sweets & Restaurant,Shri Ram Mandir Complex, Opposite Celebrity Homes, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0352809,28.5145359,"Street Food, North Indian, Mithai"
 301936,1,Gurgaon,"Burger Bites & More,Shop 5, Annapurna Market, Opposite C2 Block, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0203837,28.4939088,"Fast Food, Chinese"
-18264717,1,Gurgaon,"CafÌ© Gramophone,UGF-114, C-2, Palam Corporate Plaza, Opposite Palm Tree Hotel, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0210472,28.496845,"Cafe, Fast Food"
+18264717,1,Gurgaon,"Caf√≠¬© Gramophone,UGF-114, C-2, Palam Corporate Plaza, Opposite Palm Tree Hotel, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0210472,28.496845,"Cafe, Fast Food"
 7083,1,Gurgaon,"Chawla Bakers,6, Dharam Colony, Near Spanish Court, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.030404,28.502947,"Bakery, Street Food"
 312105,1,Gurgaon,"Crust N Cakes,Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0362376,28.5037904,Bakery
 18311942,1,Gurgaon,"Darjeeling Kanchanjanga Momos,Shop 2, G Block, Behind Ansal Plaza Mall, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0409296,28.5118498,"Chinese, Fast Food"
@@ -1153,7 +1156,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18478377,1,Gurgaon,"Icon Foods,A-13, Opposite Power House, Main Gurgaon Road, Palam Vihar Extension, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",0,0,"North Indian, South Indian, Chinese"
 18244261,1,Gurgaon,"Indochi Cafe & Restaurant,G-1, Behind Ansal Plaza Mall, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0411995,28.512055,"North Indian, Mughlai, Chinese"
 18274332,1,Gurgaon,"Love to Wish,Opposite Golds Gym, Near Celebrity Homes, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.0378566,28.5125685,"Bakery, Desserts"
-18460280,1,Gurgaon,"M CrÌ¬me,K 1407, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.04251687,28.52068371,"Bakery, Desserts"
+18460280,1,Gurgaon,"M Cr√≠√Çme,K 1407, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.04251687,28.52068371,"Bakery, Desserts"
 18263500,1,Gurgaon,"Mamta Tiffin Service,Block A, Rajendra Park, Bajghera Road, Near Railway Station, Sector 105, Near Palam Vihar, Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",0,0,North Indian
 18463994,1,Gurgaon,"Panther Restaurant,Shop 1, Near Wine Shop, Krishna Chowk, Palam Vihar, Gurgaon Palam Vihar",Palam Vihar,"Palam Vihar, Gurgaon",77.0283498,28.5019693,"North Indian, Chinese"
 18449816,1,Gurgaon,"Pizza King,2316/31, Chauma Road, Block A, Rajendra Park, Sector 105, Near Palam Vihar, Gurgaon",Palam Vihar,"Palam Vihar, Gurgaon",77.01025,28.4936502,"Pizza, Fast Food"
@@ -1284,7 +1287,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 302251,1,Gurgaon,"Domino's Pizza,Ground Floor, Amenity Block, IT/ITES SEZ, Village Dundahera, Near Sector 21, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0714215,28.5097704,"Pizza, Fast Food"
 18466943,1,Gurgaon,"GoGourmet,Unit 2B, Amenity Block-II, Candor Techspace, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0716913,28.5094378,"Healthy Food, Beverages"
 18238248,1,Gurgaon,"Snack Shack,Building 4, Near Food Court, Unitech Infospace, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0714215,28.5095911,Chinese
-18420426,1,Gurgaon,"WestÌ©ross,A11/B32, Unit 2A, Block 4A, IT/ITeS SEZ Candor TechSpace, Dundahera, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0693827,28.510128,"Italian, Mexican"
+18420426,1,Gurgaon,"West√≠¬©ross,A11/B32, Unit 2A, Block 4A, IT/ITeS SEZ Candor TechSpace, Dundahera, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0693827,28.510128,"Italian, Mexican"
 18466973,1,Gurgaon,"Fruitpro,Unit Sez Aminity Block, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0716913,28.5100652,Beverages
 18446482,1,Gurgaon,"Konetto Pizza,Amenity Block 2, Info City, Old Delhi Gurugram Road, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",0,0,Pizza
 18372325,1,Gurgaon,"Tpot,Shop 14, Aminities Block, Infospace, Sector 21, Gurgaon",Sector 21,"Sector 21, Gurgaon",77.0712645,28.5096025,Cafe
@@ -1347,7 +1350,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18422475,1,Gurgaon,"Nagai,SCO 305, Ground Floor, Huda Gymkhana Road, Behind The Pllazio Hotel, Sector 29, Gurgaon",Sector 29,"Sector 29, Gurgaon",77.064243,28.4640533,"Japanese, Sushi"
 18435794,1,Gurgaon,"PitStop BrewPub,Oysters Beach, Sector 29, Gurgaon",Sector 29,"Sector 29, Gurgaon",77.0715571,28.4621449,"Continental, Italian, North Indian, Mughlai"
 18429166,1,Gurgaon,"The Classroom,Main Market, Sector 29, Gurgaon",Sector 29,"Sector 29, Gurgaon",77.0627425,28.4681949,"North Indian, Italian, Parsi, Asian, Kerala"
-18264995,1,Gurgaon,"buÌ©no,108, Vijay Vihar, Silokhera Road, Near BPTP Park Centra Building, Sector 30, Gurgaon",Sector 30,"Sector 30, Gurgaon",77.0553395,28.4598737,"Healthy Food, Cafe, Desserts, Italian, Bakery"
+18264995,1,Gurgaon,"bu√≠¬©no,108, Vijay Vihar, Silokhera Road, Near BPTP Park Centra Building, Sector 30, Gurgaon",Sector 30,"Sector 30, Gurgaon",77.0553395,28.4598737,"Healthy Food, Cafe, Desserts, Italian, Bakery"
 18025114,1,Gurgaon,"Bottles and Barrels,2nd Floor, Star Tower, Exit 8, NH-8, Sector 30, Gurgaon",Sector 30,"Sector 30, Gurgaon",77.0521813,28.4606832,"North Indian, Asian, Italian"
 310799,1,Gurgaon,"A One Rasoi,Shop 53, HUDA Market, Sector 40, Near, Sector 31, Gurgaon",Sector 31,"Sector 31, Gurgaon",77.0568391,28.4489745,North Indian
 306719,1,Gurgaon,"Angeethi,200, Main Market, Sector 31, Gurgaon",Sector 31,"Sector 31, Gurgaon",77.0510698,28.4534927,"North Indian, Chinese, Mughlai"
@@ -1477,7 +1480,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18398590,1,Gurgaon,"Biryani Express,Shop 3, Mehar Chand Complex, Wazirabad Market, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0893173,28.4316128,Biryani
 18476986,1,Gurgaon,"Cafe #22hours,W Pratiksha hospital, Golf Course Extension Road, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",0,0,"North Indian, South Indian, Chinese, Healthy Food, Bakery"
 312560,1,Gurgaon,"Cake Innovation,ASF Insignia, Food Court, Gawal Pahari, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.134902,28.4345776,"Bakery, Desserts"
-18391166,1,Gurgaon,"Chawla'så_,10, District Commercial Center, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.100181,28.4287959,"North Indian, Chinese"
+18391166,1,Gurgaon,"Chawla's¬å_,10, District Commercial Center, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.100181,28.4287959,"North Indian, Chinese"
 18464624,1,Gurgaon,"China Gathering,Shop 88, HUDA Market, Sector 55, Near Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.1096659,28.4271903,Chinese
 18464616,1,Gurgaon,"Chinese Hot Express,Car Parking, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.099568,28.4254221,Chinese
 18393725,1,Gurgaon,"Cookingo,Behind Legend Society, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",0,0,"Mughlai, North Indian, Chinese"
@@ -1495,7 +1498,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18464626,1,Gurgaon,"Sweet Ginger Bakery,Shop 38, Paras Trade Centre, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.1345396,28.436573,Bakery
 18261727,1,Gurgaon,"The Rolling Stove,HUDA Market, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0998491,28.425268,Chinese
 18319384,1,Gurgaon,"Vijeta's Happy Kitchen,Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",0,0,North Indian
-306540,1,Gurgaon,"Chawla'så_,2nd Floor, Community Centre, Devinder Vihar, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0921967,28.430031,"North Indian, Mughlai, Chinese"
+306540,1,Gurgaon,"Chawla's¬å_,2nd Floor, Community Centre, Devinder Vihar, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0921967,28.430031,"North Indian, Mughlai, Chinese"
 304524,1,Gurgaon,"Chy - Na Express,Shop 104, HUDA Market, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0990285,28.4249219,Chinese
 2087,1,Gurgaon,"Kwality,85, HUDA Market, Sector 56, Gurgaon",Sector 56,"Sector 56, Gurgaon",77.0992084,28.4251185,"Chinese, Mughlai, North Indian"
 18439516,1,Gurgaon,"Brother's Snacks and Shakes,Shop 3, Near Artemis Hospital, Sector 57, Gurgaon",Sector 57,"Sector 57, Gurgaon",77.080462,28.4297813,Fast Food
@@ -1604,7 +1607,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 254,1,Gurgaon,"Pizza Hut,Centerpoint, A Block, Phase 1, Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0746189,28.4684058,"Italian, Pizza, Fast Food"
 308113,1,Gurgaon,"Roti Te Boti,135, Ground Floor, Vyapar Kendra, Phase 1, Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0832025,28.4600768,North Indian
 18365890,1,Gurgaon,"Behrouz Biryani,Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0787061,28.4609895,Biryani
-18354631,1,Gurgaon,"CafÌ© Burger BC,2513, Near Gold Souk Mall, C Block,  Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0794255,28.4504791,Fast Food
+18354631,1,Gurgaon,"Caf√≠¬© Burger BC,2513, Near Gold Souk Mall, C Block,  Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0794255,28.4504791,Fast Food
 18336214,1,Gurgaon,"Dilli Darbar,UGF 138, Vypaar Kendra Market, Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0843946,28.4602529,"North Indian, Mughlai, Chinese"
 18265365,1,Gurgaon,"Fu.D,9-C, Ground Floor, Vipul Square, Phase 1, Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0789759,28.4647809,"Cafe, Fast Food"
 18363405,1,Gurgaon,"Jarfull,G35, Sushant Shopping arcade, Sushant Lok 1, Gurgaon, Delhi NCR, Sushant Lok, Gurgaon",Sushant Lok,"Sushant Lok, Gurgaon",77.0791557,28.4605845,"South Indian, Desserts, Beverages"
@@ -1758,7 +1761,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 306043,1,Gurgaon,"Woods Spice,Woods Resort, H Block, Greenwood City, Near Sector 45, Gurgaon","Woods Resort, Gurgaon","Woods Resort, Gurgaon, Gurgaon",77.0573475,28.4428081,"Continental, North Indian"
 2100712,1,Guwahati,"Mocha,Anil Plaza 2, G.S Road, Christian Basti, Guwahati","Anil Plaza, Christian Basti","Anil Plaza, Christian Basti, Guwahati",91.773932,26.16149,"Cafe, Italian"
 2100478,1,Guwahati,"Terra Mayaa Restaurant and Lounge,6th Floor, Anil Plaza 2, G.S. Road, Christian Basti, Guwahati","Anil Plaza, Christian Basti","Anil Plaza, Christian Basti, Guwahati",91.77393191,26.1614901,"North Indian, Continental, Italian, Chinese"
-18384506,1,Guwahati,"The Basement CafÌ©,R.G. Baruah Road, Near Guwahati Commerece College, Chandmari, Guwahati",Chandmari,"Chandmari, Guwahati",91.77524608,26.1802428,Cafe
+18384506,1,Guwahati,"The Basement Caf√≠¬©,R.G. Baruah Road, Near Guwahati Commerece College, Chandmari, Guwahati",Chandmari,"Chandmari, Guwahati",91.77524608,26.1802428,Cafe
 2100108,1,Guwahati,"Strawberry Fields,Chakradhar Villa, Opposite All India Radio, Chandmari, Guwahati",Chandmari,"Chandmari, Guwahati",91.77495472,26.18470185,Cafe
 2100921,1,Guwahati,"Brooklyn Blues,4th Floor, Dona Planet Mall, G. S. Road, Christian Basti, Guwahati",Christian Basti,"Christian Basti, Guwahati",0,0,"Continental, European"
 2100565,1,Guwahati,"Confucius,Near VLCC, G.S. Road, Christian Basti, Guwahati",Christian Basti,"Christian Basti, Guwahati",91.77739722,26.15735,"Chinese, Thai"
@@ -1770,7 +1773,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 2100101,1,Guwahati,"Yo! China,1st Floor, Adityam Building,Borthakur Mall Road, Ulubari, Guwahati",Ulubari,"Ulubari, Guwahati",91.75816667,26.171,Chinese
 2100322,1,Guwahati,"4 Seasons,Opposite Institute of Social Science, Bhuban Road, Uzan Bazaar, Guwahati",Uzan Bazaar,"Uzan Bazaar, Guwahati",91.75316667,26.19166667,"Chinese, North Indian"
 2100784,1,Guwahati,"11th Avenue Cafe Bistro,Opposite Assam State Museum, Dighalipukhuri, Tayabullah Road, Uzan Bazaar, Guwahati",Uzan Bazaar,"Uzan Bazaar, Guwahati",91.75231431,26.18600148,"Cafe, American, Italian, Continental"
-2100849,1,Guwahati,"CafÌ© Riverrun,47, Mahatma Gandhi Road, Uzan Bazaar, FabIndia Building, Guwahati ",Uzan Bazaar,"Uzan Bazaar, Guwahati",91.75386279,26.19376437,"Continental, Juices, Cafe, Desserts, Salad, Italian"
+2100849,1,Guwahati,"Caf√≠¬© Riverrun,47, Mahatma Gandhi Road, Uzan Bazaar, FabIndia Building, Guwahati ",Uzan Bazaar,"Uzan Bazaar, Guwahati",91.75386279,26.19376437,"Continental, Juices, Cafe, Desserts, Salad, Italian"
 18480196,1,Guwahati,"Fat Belly,Opposite Rabindra Bhawan, GNB Road, Ambari, Dighalipukhuri East, Uzan Bazaar, Guwahati",Uzan Bazaar,"Uzan Bazaar, Guwahati",91.75222128,26.18571587,"Asian, Chinese, Tibetan"
 2100719,1,Guwahati,"The Corner Cafe,Navin Bhawan, Lamb Road, Ambari, Uzan Bazaar Guwahti, Uzan Bazaar, Guwahati",Uzan Bazaar,"Uzan Bazaar, Guwahati",0,0,"Cafe, Continental"
 2100676,1,Guwahati,"Chung Fa,Zoo Narengi Road, Geetanagar, Zoo Tiniali Area, Guwahati, Zoo Tiniali, Guwahati",Zoo Tiniali,"Zoo Tiniali, Guwahati",91.783,26.17266667,Chinese
@@ -1785,7 +1788,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18280329,1,Hyderabad,"Pine & Dine,Plot 73, Jubilee Enclave, Hitech City, Hyderabad",Hitech City,"Hitech City, Hyderabad",78.3754674,17.4558938,"North Indian, South Indian, Chinese"
 96626,1,Hyderabad,"Jonathan's Kitchen - Holiday Inn Express & Suites,Holiday Inn Express & Suites, Gachibowli, Hyderabad",Holiday Inn Express & Suites,"Holiday Inn Express & Suites, Hyderabad",78.3475536,17.424114,"North Indian, Japanese, Italian"
 94286,1,Hyderabad,"AB's - Absolute Barbecues,Plot 483, 4th Floor, Pemmasani Complex, Bajaj Electronics Building, Near Madhapur Police Station, Road 36, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.3978647,17.4382631,"European, Mediterranean, North Indian"
-96776,1,Hyderabad,"ConÌ_u,479/B, Road 21, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.40832144,17.43166813,"Bakery, Desserts"
+96776,1,Hyderabad,"Con√≠_u,479/B, Road 21, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.40832144,17.43166813,"Bakery, Desserts"
 18418733,1,Hyderabad,"Dock Forty Five,1067, Road 45, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.40442251,17.42829434,"Continental, Asian"
 18418730,1,Hyderabad,"Mocha Bar,161, Road 13, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.41821343,17.43044843,"North Indian, Continental, Italian"
 93766,1,Hyderabad,"Olive Bistro,Road 46, Inside Durgam Cheruvu, Jubilee Hills, Hyderabad",Jubilee Hills,"Jubilee Hills, Hyderabad",78.3926214,17.4295847,"Mediterranean, Italian, European"
@@ -1794,11 +1797,11 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 92577,1,Hyderabad,"Heart Cup Coffee,B 7 & 8, Jubilee Garden, Behind TCS Building, E Park, Kondapur, Hyderabad",Kondapur,"Kondapur, Hyderabad",78.36885475,17.45970973,"Cafe, Continental, North Indian, Chinese"
 18307251,1,Hyderabad,"Churrolto,Ground Floor, Shop 3, Opposite IndusInd Bank, Madhapur Main Road, Madhapur, Hyderabad",Madhapur,"Madhapur, Hyderabad",78.393391,17.440827,"Desserts, Cafe, Mexican"
 18313013,1,Hyderabad,"The Grand Trunk Road,16, Image Garden Road, Madhapur, Hyderabad",Madhapur,"Madhapur, Hyderabad",78.38588309,17.45197577,"North Indian, Chinese"
-18312984,1,Hyderabad,"Sahib‰Ûªs Barbeque by Ohri‰Ûªs,First Floor, Shilparamam Complex, Opposite Cyber Tower, Hitech City, Hyderabad",Ohri' Hitech City,"Ohri' Hitech City, Hyderabad",78.37934721,17.45085056,"Hyderabadi, Awadhi"
+18312984,1,Hyderabad,"Sahib√§√≥¬ªs Barbeque by Ohri√§√≥¬ªs,First Floor, Shilparamam Complex, Opposite Cyber Tower, Hitech City, Hyderabad",Ohri' Hitech City,"Ohri' Hitech City, Hyderabad",78.37934721,17.45085056,"Hyderabadi, Awadhi"
 1401756,1,Indore,"KYRO,Fortune Aura Rooftop, 1,  Gurmeet Nagar, Bhawar Kuan Main Road, Bhawar Kuan, Indore",Bhawar Kuan,"Bhawar Kuan, Indore",75.8660587,22.6952067,"North Indian, Chinese, Continental, Mediterranean, Asian"
 1400544,1,Indore,"JAL - A Jungle Restaurant,Behind Pushp Kunj Hospital, Khandwa Road, Bhawar Kuan, Indore",Bhawar Kuan,"Bhawar Kuan, Indore",75.88199135,22.65184685,"North Indian, Chinese"
 18254231,1,Indore,"Oye24,HIG-LIG, Indore",HIG-LIG,"HIG-LIG, Indore",75.86669887,22.75185706,"North Indian, Chinese, South Indian"
-1402314,1,Indore,"Hobnob Gourmet CafÌ©bar,Infiniti Hotel, 1C/CA, Scheme 94, Vijay Nagar, Indore","Infiniti Hotel, Vijay Nagar","Infiniti Hotel, Vijay Nagar, Indore",75.90336453,22.75365871,"Italian, Continental"
+1402314,1,Indore,"Hobnob Gourmet Caf√≠¬©bar,Infiniti Hotel, 1C/CA, Scheme 94, Vijay Nagar, Indore","Infiniti Hotel, Vijay Nagar","Infiniti Hotel, Vijay Nagar, Indore",75.90336453,22.75365871,"Italian, Continental"
 1400466,1,Indore,"Mangosteen Cafe,4/5, 5th Floor, Pushpratna Solitaire, New Palasia, Indore",New Palasia,"New Palasia, Indore",75.8841666,22.7270206,"Cafe, Fast Food, Italian, Mexican"
 1401934,1,Indore,"Mama Loca,G-1, Princess Centre, 6/3, New Palasia, Indore",New Palasia,"New Palasia, Indore",75.884212,22.7281631,"Greek, Lebanese"
 1401548,1,Indore,"Vidorra,1001, Rooftop, Shekhar Central, Palasia Square, New Palasia, Indore",New Palasia,"New Palasia, Indore",75.8869592,22.722634,"North Indian, Chinese"
@@ -1898,7 +1901,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 800468,1,Lucknow,"Grandson of Tunday Kababi,Naaz Cinema Road, Aminabad, Lucknow",Aminabad,"Aminabad, Lucknow",80.92743056,26.84850556,"Mughlai, Lucknowi"
 801675,1,Lucknow,"Frozen Factory,1/99, Near Tata Motors, Viram Khand, Patrkarpuram, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",0,0,"Desserts, Ice Cream"
 801690,1,Lucknow,"Mocha,CP-1, 2nd Floor, Anand Plaza, Viram Khand-1, Near Patrakarpuram Crossing, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",81.0011849,26.8528099,"Cafe, Italian, Continental"
-801684,1,Lucknow,"Chemistry CafÌ©,5/599, Vikas Khand, Near Dayal Paradise, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",0,0,"Cafe, Continental, Chinese"
+801684,1,Lucknow,"Chemistry Caf√≠¬©,5/599, Vikas Khand, Near Dayal Paradise, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",0,0,"Cafe, Continental, Chinese"
 18296995,1,Lucknow,"Homeys Cafe,2/163, Vivek khand-2, Gomti Nagar Station Road, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",80.99,26.86,"Cafe, Fast Food"
 800237,1,Lucknow,"Percussion,2/139, Vijay Khand, Next to Gomti Nagar Police Station, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",80.9945959,26.8551778,"Continental, North Indian, Asian"
 800273,1,Lucknow,"The Urban Terrace,Hotel Lineage, C 73, Viraj Khand, Opposite Sahara Hospital, Gomti Nagar, Lucknow",Gomti Nagar,"Gomti Nagar, Lucknow",81.0232496,26.8517588,"North Indian, Continental"
@@ -2006,7 +2009,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3300138,1,Nagpur,"Checker's,23 to 25, VCA Complex, Civil Lines, Nagpur",Civil Lines,"Civil Lines, Nagpur",79.07658678,21.15841584,"Fast Food, Chinese"
 3300949,1,Nagpur,"The B.A.W.A,Opposite VCA Stadium, Civil Lines, Nagpur",Civil Lines,"Civil Lines, Nagpur",79.07730427,21.15619053,Cafe
 3300065,1,Nagpur,"FSB,B/9, Orange City Towers, Opposite Tilak Patrakar Bhavan, Dhantoli, Nagpur",Dhantoli,"Dhantoli, Nagpur",79.08047698,21.13851031,"Continental, North Indian, Thai, Chinese"
-3300416,1,Nagpur,"NESCAFÌä Illusions,Oppsite Dharampeth High School, North Ambazari Road, Near ICICI Bank, Lad Apartment., Dharampeth, Nagpur",Dharampeth,"Dharampeth, Nagpur",79.0651371,21.13685791,Cafe
+3300416,1,Nagpur,"NESCAF√≠¬ä Illusions,Oppsite Dharampeth High School, North Ambazari Road, Near ICICI Bank, Lad Apartment., Dharampeth, Nagpur",Dharampeth,"Dharampeth, Nagpur",79.0651371,21.13685791,Cafe
 3301169,1,Nagpur,"Nineties,Opposite Traffice Park, Dharampeth, Nagpur",Dharampeth,"Dharampeth, Nagpur",79.06652045,21.14083972,"Cafe, Fast Food"
 3300061,1,Nagpur,"Mocha,202, Cement Road, Shankar Nagar, Dharampeth, Nagpur",Dharampeth,"Dharampeth, Nagpur",79.05853249,21.13784829,"Cafe, Continental"
 3300107,1,Nagpur,"The Zuree Urban Kitchen,8A, AD Complex, Mount Road, Mohan Nagar, Nagpur",Mohan Nagar,"Mohan Nagar, Nagpur",79.08184659,21.15848119,"North Indian, Italian, Continental"
@@ -2052,7 +2055,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18425159,1,New Delhi,"Nariyal Cafe,A-4, 3rd Foor, Adchini, New Delhi",Adchini,"Adchini, New Delhi",77.199152,28.538438,"Continental, Seafood, Goan, Andhra, Kerala, Thai"
 310958,1,New Delhi,"Rustom's Parsi Bhonu,94-A/B, Adchini, New Delhi",Adchini,"Adchini, New Delhi",77.19815668,28.53789627,Parsi
 18334443,1,New Delhi,"BarShala,Aditya Mall, Next to Cross River Mall, CBD, Karkardooma, New Delhi","Aditya Mega Mall, Karkardooma","Aditya Mega Mall, Karkardooma, New Delhi",77.3006287,28.6557549,Finger Food
-18255141,1,New Delhi,"Chawla'så_,Shop SG 40, Aditya Mega Mall, Karkardooma, New Delhi","Aditya Mega Mall, Karkardooma","Aditya Mega Mall, Karkardooma, New Delhi",77.3011977,28.6560516,"North Indian, Mughlai"
+18255141,1,New Delhi,"Chawla's¬å_,Shop SG 40, Aditya Mega Mall, Karkardooma, New Delhi","Aditya Mega Mall, Karkardooma","Aditya Mega Mall, Karkardooma, New Delhi",77.3011977,28.6560516,"North Indian, Mughlai"
 197,1,New Delhi,"Domino's Pizza,15/16/16-A, Plot 9-D, Aditya Mega Mall, Karkardooma, New Delhi","Aditya Mega Mall, Karkardooma","Aditya Mega Mall, Karkardooma, New Delhi",77.3016337,28.6564531,"Pizza, Fast Food"
 308235,1,New Delhi,"Sultanat,31-BC, Ground Floor, Aditya Mega Mall, Karkardooma, New Delhi","Aditya Mega Mall, Karkardooma","Aditya Mega Mall, Karkardooma, New Delhi",77.3016026,28.6562624,"North Indian, Chinese, Continental"
 18258757,1,New Delhi,"Bella Italia,Ground Floor, MLCP, IGI Terminal 3, Aerocity, New Delhi",Aerocity,"Aerocity, New Delhi",77.087897,28.554463,"Fast Food, Italian, Pizza"
@@ -2298,7 +2301,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18228885,1,New Delhi,"The Chocolate Avenue,New Moti Bagh, Near Leela Palace Hotel, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1863937,28.5795901,Bakery
 824,1,New Delhi,"Chimney Sizzlers,V-10 & 16, Yashwant Place Market, Food Plaza, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1916048,28.5842999,Chinese
 301102,1,New Delhi,"Gujarat Bhawan Restaurant,11, Kautilya Marg, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1971751,28.5985428,"Gujarati, South Indian, North Indian"
-18238246,1,New Delhi,"It‰Ûªs Sinful,Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1735895,28.5974082,"Bakery, Desserts"
+18238246,1,New Delhi,"It√§√≥¬ªs Sinful,Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1735895,28.5974082,"Bakery, Desserts"
 6003,1,New Delhi,"Jakoi,1, Assam Bhavan, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1876516,28.6055182,"Assamese, Chinese"
 18469659,1,New Delhi,"Arunachal Bhawan,27, Kautilya Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1980469,28.5986962,North Eastern
 18288994,1,New Delhi,"Hotel New Tamil Nadu,9, Bir Tikenderjith Marg, Chanakyapuri, New Delhi",Chanakyapuri,"Chanakyapuri, New Delhi",77.1908861,28.5830663,"South Indian, North Indian, Chinese"
@@ -2501,7 +2504,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18070476,1,New Delhi,"Cafe Dalal Street,M-89/90, M Block, Outer Circle, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2228667,28.6332522,"North Indian, European"
 18208892,1,New Delhi,"Cafe Hawkers,L-22, Radial Road, Near Odean Cinema, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2211601,28.6346126,"Chinese, Continental, North Indian"
 18157403,1,New Delhi,"Cafe Public Connection,F-39-40, 1st & 2nd Floor, Inner Circle, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2202619,28.6314806,"North Indian, Continental, Italian"
-18306523,1,New Delhi,"CafÌ© MRP,1st Floor, C-39, Opposite Odean Cinema, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2208907,28.6344973,"North Indian, Chinese, Italian, Mediterranean"
+18306523,1,New Delhi,"Caf√≠¬© MRP,1st Floor, C-39, Opposite Odean Cinema, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2208907,28.6344973,"North Indian, Chinese, Italian, Mediterranean"
 309664,1,New Delhi,"Caffe Tonino,1st Floor, PVR Plaza Building, H Block, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2194535,28.6348977,"Pizza, Italian, Cafe"
 302878,1,New Delhi,"Cha Bar,N-81, Oxford Bookstore, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.22215876,28.63122333,Cafe
 18237315,1,New Delhi,"Chaayos,F-14/15, Mezzanine, 1st Floor, F Block, Inner Circle, Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.22035263,28.63146522,"Cafe, Tea"
@@ -2708,7 +2711,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3492,1,New Delhi,"Concept,142, Flyover Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2388538,28.5782285,"North Indian, Mughlai, Chinese"
 576,1,New Delhi,"Deez Biryani & Kebabs,91-93, Flyover Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2386742,28.5778529,"Biryani, North Indian, Mughlai"
 311211,1,New Delhi,"Def Col Social,28-A, Defence Colony Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2304115,28.5729435,"Continental, American, Asian, North Indian"
-311661,1,New Delhi,"DÌ_ner Grill,Building 47, Ground Floor, Defence Colony Main Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2304115,28.5731228,"Fast Food, Turkish"
+311661,1,New Delhi,"D√≠_ner Grill,Building 47, Ground Floor, Defence Colony Main Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2304115,28.5731228,"Fast Food, Turkish"
 566,1,New Delhi,"Hong Kong Express,127, Flyover Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.238764,28.5783992,"Chinese, Thai"
 556,1,New Delhi,"Kent's Fast Food,29, Defence Colony Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2302318,28.5736434,"Burger, Fast Food"
 18322644,1,New Delhi,"Koyla Kebab,Shop 3, Main Market, Defence Colony, New Delhi",Defence Colony,"Defence Colony, New Delhi",77.2298726,28.5739678,"North Indian, Mughlai"
@@ -3058,7 +3061,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18261188,1,New Delhi,"Chaayos,Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2518754,28.5511401,"Cafe, Tea"
 18336192,1,New Delhi,"Dimcha,Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2519652,28.5514176,"Chinese, Thai, Asian"
 18277187,1,New Delhi,"Keventers,Food Court, Epicuria Food Mall, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2514264,28.551456,Beverages
-18381663,1,New Delhi,"Khan Chacha,Lower Ground Floor, FCå_8, Epicuria, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2514264,28.551456,"North Indian, Mughlai"
+18381663,1,New Delhi,"Khan Chacha,Lower Ground Floor, FC¬å_8, Epicuria, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2514264,28.551456,"North Indian, Mughlai"
 304917,1,New Delhi,"Sona Pure Veg Paradise,Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2514264,28.551456,"North Indian, Street Food"
 306031,1,New Delhi,"Subway,Epicuria Food Mall, Near Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2514264,28.551456,"American, Fast Food, Salad, Healthy Food"
 18180083,1,New Delhi,"The Crunch Box,Lower Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place","Epicuria Food Mall, Nehru Place, New Delhi",77.2517856,28.5514005,Fast Food
@@ -3145,11 +3148,11 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18415352,1,New Delhi,"Cafe Culture,M 33, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.23642308,28.54967193,Cafe
 3620,1,New Delhi,"Cafe Diva,N-8, N Block Market, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2333753,28.5566428,"European, Italian"
 1902,1,New Delhi,"Cafe Turtle,3rd Floor, N-16, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.233061,28.5564784,"Cafe, Italian, Lebanese"
-18434596,1,New Delhi,"CafÌ© Healthilicious,Inside Pacific Sports Complex, Near Petrol Pump, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.23497704,28.56002689,"Healthy Food, Continental"
+18434596,1,New Delhi,"Caf√≠¬© Healthilicious,Inside Pacific Sports Complex, Near Petrol Pump, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.23497704,28.56002689,"Healthy Food, Continental"
 311671,1,New Delhi,"Captain Grub,Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2350818,28.5502611,"American, Fast Food"
 2653,1,New Delhi,"Cocoberry,S-5, Ground Floor, M Block Market, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2330661,28.5501728,Desserts
 18377926,1,New Delhi,"Ding Ding,41 - Zamrudpur, Near Gurudwara, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.23671846,28.54953822,Chinese
-309820,1,New Delhi,"DÌ_ner Grill,S-13, M Block Market, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2334652,28.5499281,"Fast Food, Turkish"
+309820,1,New Delhi,"D√≠_ner Grill,S-13, M Block Market, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2334652,28.5499281,"Fast Food, Turkish"
 18034050,1,New Delhi,"Elation,M-32, 2nd Floor, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2362942,28.5496144,"North Indian, Continental, Italian, Finger Food"
 18382372,1,New Delhi,"Fluffles - The Fluffy Waffle Co.,S 13, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2334786,28.5499293,Desserts
 302478,1,New Delhi,"For the Love of Cake,S Block, Greater Kailash (GK) 1, New Delhi",Greater Kailash (GK) 1,"Greater Kailash (GK) 1, New Delhi",77.2341837,28.5510721,"Bakery, Desserts"
@@ -3200,7 +3203,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 2591,1,New Delhi,"Hot N Chilly,17, LSC, Block, Masjid Moth, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2391233,28.5378256,North Indian
 306264,1,New Delhi,"Kabooze,M-4, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2432885,28.5343238,"North Indian, Chinese, Continental"
 305817,1,New Delhi,"Koyla Kebab,M-5, M Block Market, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2432392,28.5345941,"North Indian, Mughlai"
-18432940,1,New Delhi,"LaBontÌ©,M-22, Ground Floor, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2420436,28.5335013,Bakery
+18432940,1,New Delhi,"LaBont√≠¬©,M-22, Ground Floor, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2420436,28.5335013,Bakery
 311690,1,New Delhi,"MR.D - Deliciousness Delivered,Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2457421,28.5281318,"North Indian, Italian, Chinese"
 309072,1,New Delhi,"Panda Wokk,23-24, Masjid Moth, Near HDFC Bank, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2391222,28.5375972,"Chinese, Thai"
 18277002,1,New Delhi,"Relax Xpress,Shop 19, LSC, Masjid Moth, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2390081,28.5376881,"North Indian, Mughlai, Chinese"
@@ -3247,7 +3250,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 307801,1,New Delhi,"Artusi Ristorante e Bar,M-24, M Block Market, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2421548,28.5335863,Italian
 18462002,1,New Delhi,"Baris,Building 3, Local Shopping Complex, Mazjid Moth, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.23869669,28.53712778,"Turkish, Mediterranean, Middle Eastern"
 18208886,1,New Delhi,"Carnatic Cafe,M-21, M Block Market, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2422778,28.533561,South Indian
-18435305,1,New Delhi,"Chhalava - ˆ__Lava,M-40, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2434183,28.5336924,"North Indian, Italian, Continental"
+18435305,1,New Delhi,"Chhalava - √∂__Lava,M-40, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2434183,28.5336924,"North Indian, Italian, Continental"
 18260641,1,New Delhi,"Dilli BC,M-58, Main Market, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2445203,28.5335082,"North Indian, Mughlai"
 18349921,1,New Delhi,"Sumo Sushi,Behind Savitri Cinema, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.23985,28.5417418,Sushi
 18380149,1,New Delhi,"The Heroes Bistro & Bar,M-13, 2nd Floor, M Block Market, Greater Kailash 2, New Delhi, Greater Kailash (GK) 2, New Delhi",Greater Kailash (GK) 2,"Greater Kailash (GK) 2, New Delhi",77.2429111,28.5339436,Continental
@@ -3644,7 +3647,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18336494,1,New Delhi,"Dil Pasand Biryani Point,735, Haveli Azam Khan, Chitli Qabar Chowk, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2350818,28.6470498,Biryani
 18340727,1,New Delhi,"Haji Mohd. Hussain,113, Matia Mahal Road, Bazaar Matia Mahal, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2336085,28.6489324,Mughlai
 308001,1,New Delhi,"Kallan Sweets,Shop 4-5, Bazaar Matia Mahal, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2334979,28.649672,Mithai
-18396855,1,New Delhi,"The Walled City - CafÌ© & Lounge,898, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2328365,28.6491652,"Continental, North Indian, Mughlai, Chinese"
+18396855,1,New Delhi,"The Walled City - Caf√≠¬© & Lounge,898, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2328365,28.6491652,"Continental, North Indian, Mughlai, Chinese"
 18261688,1,New Delhi,"Al-Nawab,Jagat Cinema, Urdu Bazaar, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2362096,28.6498224,Mughlai
 18208922,1,New Delhi,"Ameer Sweets House,958, Haveli Azam Khan, Chitli Qabar, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2345429,28.6468193,"Mithai, Street Food"
 18308432,1,New Delhi,"Anwar Food Corner,Shop 911, Opposite Jama Masjid Gate 1, Jama Masjid, New Delhi",Jama Masjid,"Jama Masjid, New Delhi",77.2331077,28.6497611,Mughlai
@@ -3686,7 +3689,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18421049,1,New Delhi,"Midnight Hunger Hub,Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0900756,28.6122787,"North Indian, Fast Food, Italian, Asian"
 18345739,1,New Delhi,"BarShala,Shop 29, Janakpuri District Center, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0816045,28.6295635,Finger Food
 18261158,1,New Delhi,"Bemisaal Reloaded,B-26 & 27, Community Centre, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.091394,28.6291122,"North Indian, Chinese"
-4010,1,New Delhi,"Bon AppÌ©tit,14, Ground Floor, Satyam Cineplex, District Centre, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0820832,28.6296625,Fast Food
+4010,1,New Delhi,"Bon App√≠¬©tit,14, Ground Floor, Satyam Cineplex, District Centre, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0820832,28.6296625,Fast Food
 309283,1,New Delhi,"Burger Point,C-4B/332-A, Opposite Janak Nursing Home, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0901845,28.6180324,"Burger, Fast Food"
 17977755,1,New Delhi,"Cakes 'n' Crumbs,Block A-2, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0871273,28.6331568,Bakery
 5388,1,New Delhi,"China Fort,B 8, Ground Floor, B Block, Community Centre, Janakpuri, New Delhi",Janakpuri,"Janakpuri, New Delhi",77.0910903,28.6285431,"Chinese, North Indian, Thai"
@@ -3757,7 +3760,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18286922,1,New Delhi,"Tandoori Nature,22, Samman Bazar, Bhogal, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2479992,28.5832431,North Indian
 18458302,1,New Delhi,"Tinker Koch,Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2474752,28.5839782,North Indian
 18447302,1,New Delhi,"Wakhra Swag,Shop 93, Near Petroleum, Hari Nagar Ashram, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2569041,28.5744768,"South Indian, Chinese, Fast Food"
-300744,1,New Delhi,"Chawla'så_,12, Opposite Eros Cinema, Jangpura Extension Market, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2417277,28.5802945,"North Indian, Mughlai"
+300744,1,New Delhi,"Chawla's¬å_,12, Opposite Eros Cinema, Jangpura Extension Market, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2417277,28.5802945,"North Indian, Mughlai"
 8509,1,New Delhi,"Barbeque Nation,Ground Floor, Eros Cinema Building, Jangpura Extension, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2413236,28.580749,"North Indian, Chinese"
 3338,1,New Delhi,"Novelty Dairy & Stores,43, Hawkers House, Birbal Road, Jangpura Extension, Jangpura, New Delhi",Jangpura,"Jangpura, New Delhi",77.2439279,28.5837753,Fast Food
 18133513,1,New Delhi,"Caara Cafe,17, Kasturba Gandhi Marg, British Council, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.2225973,28.6274922,"Cafe, European"
@@ -3779,7 +3782,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 301301,1,New Delhi,"Bhogal Chole Bhature Wala,Scindia House, K G Marg, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.22037341,28.62921603,Street Food
 18249111,1,New Delhi,"Bunta Bar,2nd Floor, 76, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.2198128,28.6283018,"Modern Indian, North Indian"
 308280,1,New Delhi,"Cafe Coffee Day The Square,44, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.2194865,28.626685,Cafe
-309807,1,New Delhi,"Cottage CafÌ© by Smoothie factory,Cottage Emporium, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.21970689,28.62590527,"Cafe, Desserts, Healthy Food, Juices"
+309807,1,New Delhi,"Cottage Caf√≠¬© by Smoothie factory,Cottage Emporium, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.21970689,28.62590527,"Cafe, Desserts, Healthy Food, Juices"
 8451,1,New Delhi,"Depaul's,22, Janpath Bhawan, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.2186451,28.6289072,Fast Food
 3782,1,New Delhi,"Fresc Co,78, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.2197229,28.6282932,"Italian, Mediterranean"
 18168125,1,New Delhi,"Informal,52, Tolstoy Lane, Near Connaught Place, Janpath, New Delhi",Janpath,"Janpath, New Delhi",77.220458,28.627044,"North Indian, Spanish, Mediterranean"
@@ -3830,7 +3833,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 308243,1,New Delhi,"Ambarsaria by Gourmet Affaire's,Ground Floor, JMD Kohinoor Mall, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2383021,28.5364178,Fast Food
 703,1,New Delhi,"August Moon,11, JMD Kohinoor Mall, Masjid Moth, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2385844,28.5366985,"Chinese, Thai"
 18334427,1,New Delhi,"Keventers,Plot 33, Ground Floor, JMD Kohinoor Galleria Mall, LSC, Masjid Moth, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2385653,28.5364802,Beverages
-310529,1,New Delhi,"Moets Curry Leaf Express,Ground Floor,åÊJMD Kohinoor Mall, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2386159,28.5367169,"North Indian, Mughlai"
+310529,1,New Delhi,"Moets Curry Leaf Express,Ground Floor,¬å√¶JMD Kohinoor Mall, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2386159,28.5367169,"North Indian, Mughlai"
 309844,1,New Delhi,"Natural Ice Cream,Ground Floor, JMD Kohinoor Mall, Masjid Moth, Main Road, Greater Kailash (GK) 2, New Delhi","JMD Kohinoor Mall, Greater Kailash","JMD Kohinoor Mall, Greater Kailash, New Delhi",77.2386106,28.5367441,Ice Cream
 306034,1,New Delhi,"34, Chowringhee Lane,61-D, Ground Floor, Ber Sarai Market, Opposite Old JNU Campus, JNU, New Delhi",JNU,"JNU, New Delhi",77.1810079,28.5490023,Fast Food
 303604,1,New Delhi,"Qureshi,7, Kamal Complex, JNU, New Delhi",JNU,"JNU, New Delhi",77.16718253,28.54865293,"North Indian, Fast Food"
@@ -4168,7 +4171,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 9549,1,New Delhi,"Corner Sweets,2 & 3, Corporation Market, Ramesh Nagar, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1330407,28.6493759,"Mithai, Street Food"
 306488,1,New Delhi,"D'Casa,Shop A-3, Kailash Park, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1379553,28.6554914,"North Indian, Chinese, Italian, Fast Food"
 302142,1,New Delhi,"Delhi 15,N-46, Scooter Market, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1407751,28.6556035,"North Indian, Mughlai, Chinese"
-18350118,1,New Delhi,"Dialogue Lounge & CafÌ©,A 21, Tagore Market, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1373231,28.6545957,"Cafe, Continental"
+18350118,1,New Delhi,"Dialogue Lounge & Caf√≠¬©,A 21, Tagore Market, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1373231,28.6545957,"Cafe, Continental"
 7396,1,New Delhi,"Domino's Pizza,A-22, Ground Floor, Tagore Market, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1374776,28.6546527,"Pizza, Fast Food"
 18435836,1,New Delhi,"Flavours From Heaven,Building 6, Laxmi Garden, Opposite Metro Pillar 337, Near Ramesh Nagar Metro Station, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.136123,28.6541881,"North Indian, Chinese"
 18277180,1,New Delhi,"Flavours Of Biryani,Ramesh Nagar, Near Kirti Nagar, Kirti Nagar, New Delhi",Kirti Nagar,"Kirti Nagar, New Delhi",77.1312221,28.6474775,"Biryani, Mughlai"
@@ -4483,7 +4486,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18472648,1,New Delhi,"Eywa by Saby @ Celeste,48, Mehar Chand Market, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",0,0,Cafe
 658,1,New Delhi,"Cafe Coffee Day,Meherchand Market, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",77.2265367,28.5849428,Cafe
 304931,1,New Delhi,"Guppy,28, Main Market, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",77.2239062,28.584686,"Japanese, Sushi"
-18277165,1,New Delhi,"Ping's CafÌ© Orient,13, Main Market, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",77.223226,28.5837316,Asian
+18277165,1,New Delhi,"Ping's Caf√≠¬© Orient,13, Main Market, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",77.223226,28.5837316,Asian
 1819,1,New Delhi,"The All American Diner,India Habitat Centre, Lodhi Colony, New Delhi",Lodhi Colony,"Lodhi Colony, New Delhi",77.2258757,28.5887789,"American, Fast Food"
 6203,1,New Delhi,"Armaan's Restaurant,Shop 3, Market 2 Complex, Near Pragati Vihar Hostel, Lodhi Road, New Delhi",Lodhi Road,"Lodhi Road, New Delhi",77.23113,28.5890553,"North Indian, South Indian, Chinese"
 5840,1,New Delhi,"Garden Chef,Opposite Lodhi Road Post Office, Lodhi Road, New Delhi",Lodhi Road,"Lodhi Road, New Delhi",77.2194086,28.5897758,Chinese
@@ -4718,7 +4721,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 309227,1,New Delhi,"Caravan Resto Bar,A-10, Acharya Niketan, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.2938353,28.6078005,"North Indian, Chinese, Mughlai"
 18285695,1,New Delhi,"Celebration Multi Cuisine Restaurant,15, Upper Ground Floor, Pratap Nagar, Near Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.2952484,28.6065957,"North Indian, Chinese"
 18146358,1,New Delhi,"Chatto Chapati,288-B, Pocket 2, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.30096575,28.61013581,North Indian
-312715,1,New Delhi,"Chawla'så_,Acharya Niketan, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.30109818,28.58918625,"North Indian, Mughlai"
+312715,1,New Delhi,"Chawla's¬å_,Acharya Niketan, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.30109818,28.58918625,"North Indian, Mughlai"
 311245,1,New Delhi,"China Town,Samachar Market, DAV Complex, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.2952961,28.5979305,Chinese
 6173,1,New Delhi,"China Town,Opposite Fine Home Apartments, Acharya Niketan, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.2936557,28.6080098,Chinese
 301353,1,New Delhi,"Dazzle Pastry Shop,P 19, Acharya Niketan, Mayur Vihar Phase 1, New Delhi",Mayur Vihar Phase 1,"Mayur Vihar Phase 1, New Delhi",77.2928133,28.6083198,"Bakery, Fast Food"
@@ -5055,7 +5058,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18363051,1,New Delhi,"Chaap Chaska,252/4, Parmanand Colony, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2090651,28.7103505,"North Indian, Mughlai"
 18449788,1,New Delhi,"Delhi Chaap Express,Shop 16, Dhaka Mini Market, Parmanand Colony, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2054728,28.7102021,North Indian
 18466410,1,New Delhi,"Delhi Chaat Bhandar,Indira Vikas Colony, Near Nirankari School, Mukherjee Nagar,  New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2087734,28.7130677,Street Food
-18107851,1,New Delhi,"Delhite PÌ¢tisserie,413, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2150185,28.7102675,Bakery
+18107851,1,New Delhi,"Delhite P√≠¬¢tisserie,413, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2150185,28.7102675,Bakery
 18466408,1,New Delhi,"Desi Dhaba,Indira Vikas Colony, Near Nirankari School, Indira Vikas Colony, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2090968,28.7142165,North Indian
 18466400,1,New Delhi,"Desi Thaat Amritsari Naan,14/1, Indira Vikas Colony, Near Nirankari School, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2091154,28.7146792,North Indian
 18361765,1,New Delhi,"Dhaba Express,Shop 10, DDA Market, A Block, Nehru Vihar, Mukherjee Nagar, New Delhi",Mukherjee Nagar,"Mukherjee Nagar, New Delhi",77.2214682,28.7115817,North Indian
@@ -5412,7 +5415,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18424893,1,New Delhi,"Sushiya Express,A-92 C, 2nd Floor, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",77.268211,28.561936,"Sushi, Asian"
 306526,1,New Delhi,"Tuptakes,84 C, D Block, Bharat Nagar, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",77.268779,28.565383,"Bakery, Desserts"
 18133511,1,New Delhi,"Annapurna Food Point,Shop 2/8, DDA Market, Opposite Maharani Bagh, Kilokari, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",0,0,North Indian
-18456744,1,New Delhi,"Arabian & Turkish CafÌ©,New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",0,0,"Turkish, Arabian, Moroccan, Lebanese"
+18456744,1,New Delhi,"Arabian & Turkish Caf√≠¬©,New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",0,0,"Turkish, Arabian, Moroccan, Lebanese"
 303559,1,New Delhi,"Brij Palace Restaurant,4, Okhla Bus Stand, Jamia Nagar, Near, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",77.2912015,28.56308413,North Indian
 18352261,1,New Delhi,"Bruncheez,112, Hari Nagar Ashram, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",0,0,Fast Food
 310692,1,New Delhi,"Buena Tierra,Shop 4, CSC Market, A Block, New Friends Colony, New Delhi",New Friends Colony,"New Friends Colony, New Delhi",0,0,Bakery
@@ -5542,7 +5545,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 6075,1,New Delhi,"Sita Ram Diwan Chand,2246, Chuna Mandi, Paharganj, New Delhi",Paharganj,"Paharganj, New Delhi",77.2104544,28.6423212,Street Food
 306750,1,New Delhi,"Aayush Food Plaza,Main Road, Sadh Nagar, Palam, New Delhi",Palam,"Palam, New Delhi",77.0909272,28.590995,"Chinese, Fast Food"
 306739,1,New Delhi,"Ankit Fast Food Corner,Opposite Sanjhi Rasoi, Dabri Road, Palam, New Delhi",Palam,"Palam, New Delhi",77.081824,28.5999471,Chinese
-18312564,1,New Delhi,"Da Pizza Corner,Rz-36A, Raj Nagar Part 1,Palam Colony, Opposite Piller 47, Palam, New Delhi",Palam,"Palam, New Delhi",77.0875177,28.5859879,"Fast Food, Pizza"
+18312564,1,New Delhi,"Da Pizza Corner,Rz-36A, Raj Nagar Part 1,
+Palam Colony, Opposite Piller 47, Palam, New Delhi",Palam,"Palam, New Delhi",77.0875177,28.5859879,"Fast Food, Pizza"
 306741,1,New Delhi,"Mughal Zaika Chicken Point,Shop 4, K.H 83/8/1, Mahavir Enclave, Main Dabri Road, Palam, New Delhi",Palam,"Palam, New Delhi",77.0816013,28.5988478,"North Indian, Mughlai, Chinese"
 9974,1,New Delhi,"Nawab Restaurant,WZ 613, Raj Nagar, Palam Colony, Palam, New Delhi",Palam,"Palam, New Delhi",77.0893327,28.5851308,"North Indian, Mughlai"
 300529,1,New Delhi,"New Bikaner Sweets,D 105, Street 6, Mahavir Enclave, Main Palam Dabri Road, Palam, New Delhi",Palam,"Palam, New Delhi",77.0818086,28.5990759,"Street Food, Desserts"
@@ -5908,7 +5912,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 312634,1,New Delhi,"Arabian Delites,2/80, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.1270882,28.66598725,"Lebanese, Arabian"
 3516,1,New Delhi,"Blue Water Grille,12-13, DDA Market, West Punjabi Bagh, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12141566,28.66572954,"North Indian, Mughlai, Chinese, Seafood"
 5595,1,New Delhi,"Cafe Coffee Day,Shop 6, 1st Floor, Near Kotak Mahindra Bank, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12603889,28.66621389,Cafe
-18232108,1,New Delhi,"DÌ_ner Grill,40, North West Avenue, Club Road, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12002393,28.66714249,"Fast Food, Turkish"
+18232108,1,New Delhi,"D√≠_ner Grill,40, North West Avenue, Club Road, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12002393,28.66714249,"Fast Food, Turkish"
 18358681,1,New Delhi,"Drinks At Stake - Bar Exchange,NWA-26, Club Road, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12182269,28.66681066,"North Indian, Chinese, Italian, Continental"
 18418237,1,New Delhi,"Ghungroo Club & Bar - By Gautam Gambhir,39, NWA Club Road,   Punjabi Bagh, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.12365262,28.66655119,North Indian
 9230,1,New Delhi,"Gupta Chat Corner,1/51, Central Market, Near Guru Nanak School, West Punjabi Bagh, Punjabi Bagh, New Delhi",Punjabi Bagh,"Punjabi Bagh, New Delhi",77.13315569,28.67001569,"Fast Food, Street Food"
@@ -5983,7 +5987,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18486861,1,New Delhi,"Biryani Point,Opposite Sangam Cinema Bus Stand, Sector 9, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.173904,28.5737361,"South Indian, Biryani"
 18396151,1,New Delhi,"Chinese Hut,Near GGS Dispensary, Sector 4, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1793853,28.5626093,"Chinese, Fast Food"
 18434343,1,New Delhi,"Dada Ka Dhaba,D 41, Mohan Singh Market, Sector-6, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1760606,28.5660557,"North Indian, Mughlai"
-18478389,1,New Delhi,"Die BÌ_ckerei,Aradhana Enclave, Sector 13, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1784867,28.5751601,"Bakery, Desserts"
+18478389,1,New Delhi,"Die B√≠_ckerei,Aradhana Enclave, Sector 13, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1784867,28.5751601,"Bakery, Desserts"
 18472663,1,New Delhi,"Faaso's,Shop 11, 1st Floor, Sector 8 Market, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1670746,28.5723659,"North Indian, Fast Food"
 18486866,1,New Delhi,"Gupta Ji Ka Dhaba,D 42, Mohan Singh Market, Sector 6, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1762403,28.5659833,"North Indian, Mughlai, Armenian"
 18486869,1,New Delhi,"Hot & Tasty,39/3, Near Ram Mandir, Mohammdpur, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1884619,28.5658333,Chinese
@@ -5998,7 +6002,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18461352,1,New Delhi,"Rupa Bangali Dhaba,Munirka Village, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1785769,28.5635547,"North Indian, Mughlai"
 18352172,1,New Delhi,"Sindh Snacks,Sector 9, Opposte House Tax Building, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1735792,28.5735816,North Indian
 18486857,1,New Delhi,"Vaishanavi Food Store,R.K.Puram Sector 12, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1740838,28.5768003,"North Indian, Fast Food"
-301227,1,New Delhi,"Ada ""e"" Haandi's,Shop 2, Sector 12, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1761056,28.5750668,"North Indian, Mughlai, Chinese"
+301227,1,New Delhi,"Ada 'e Haandi's,Shop 2, Sector 12, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1761056,28.5750668,"North Indian, Mughlai, Chinese"
 7060,1,New Delhi,"Karnataka Food Centre,Ground Floor, Delhi Karnataka Sangh Building, R K Puram, New Delhi",R K Puram,"R K Puram, New Delhi",77.1752519,28.5778978,South Indian
 613,1,New Delhi,"Cafe Coffee Day,Delhi Gymkhana Club, Golf Links, Race Course Road, Race Course, New Delhi",Race Course,"Race Course, New Delhi",77.2058916,28.5990816,Cafe
 3549,1,New Delhi,"Savannah Bar - Radisson Blu Plaza Delhi,Radisson Blu Plaza Delhi, National Highway 8, Near IGI Airport, Mahipalpur, New Delhi","Radisson Blu Plaza Delhi, Mahipalpur","Radisson Blu Plaza Delhi, Mahipalpur, New Delhi",77.1196172,28.5438001,Finger Food
@@ -6154,7 +6158,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 1158,1,New Delhi,"Giani's,A-13, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.120075,28.6480502,"Ice Cream, Desserts"
 309845,1,New Delhi,"Grub House,J-2/14, BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1192573,28.6472138,"Italian, North Indian, Continental"
 18273540,1,New Delhi,"Habibi,C-13, 1st Floor, Opposite Metro Pillar 414, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1183445,28.647538,"Middle Eastern, Mediterranean, North Indian"
-310768,1,New Delhi,"High Street CafÌ©,J-2/6 A, 2nd Floor, BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1199541,28.6474559,"North Indian, Continental, Chinese, Italian"
+310768,1,New Delhi,"High Street Caf√≠¬©,J-2/6 A, 2nd Floor, BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1199541,28.6474559,"North Indian, Continental, Chinese, Italian"
 18322658,1,New Delhi,"Hungry Heroes,F-135, Main Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1225668,28.6431463,Continental
 18228867,1,New Delhi,"IKKA - The Ace Bar,A-19, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1207867,28.6484888,"Continental, North Indian, Chinese, Italian, Finger Food"
 18384149,1,New Delhi,"Jungle Jamboree,A 23, 1st Floor, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.12107,28.6485937,"Continental, Chinese, Thai, Mughlai, North Indian"
@@ -6169,7 +6173,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 965,1,New Delhi,"Sethi's Restaurant & Barbeque,4-8-9, DDA Market, J Block, Community Centre, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1200955,28.6393673,"North Indian, Chinese"
 310167,1,New Delhi,"Sufiaana,A-37, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1205059,28.6500509,"North Indian, Mughlai, Lebanese"
 17953943,1,New Delhi,"The Burger Club,Z-9, Opposite Metro Pillar 420, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1173251,28.6462404,"Burger, Fast Food"
-18241862,1,New Delhi,"The Junkyard CafÌ©,2nd & 3rd Floor, J-2/12 BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1195347,28.6473261,"North Indian, Mediterranean, Asian"
+18241862,1,New Delhi,"The Junkyard Caf√≠¬©,2nd & 3rd Floor, J-2/12 BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1195347,28.6473261,"North Indian, Mediterranean, Asian"
 18412880,1,New Delhi,"The Masterpiece Cafe,6-A, Block J-2, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1199627,28.6473907,"Cafe, Continental, Italian, North Indian"
 313071,1,New Delhi,"The Momoz Hub,J-93, Main Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1209645,28.6454191,"Chinese, North Indian, Street Food"
 310395,1,New Delhi,"The Post Office Cafe,J-2/5, Ground Floor, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1199713,28.6476117,"Continental, Fast Food, North Indian, Asian"
@@ -6178,8 +6182,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3083,1,New Delhi,"Wok In The Clouds,J-2/13, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1193284,28.6472442,"Chinese, Thai, Continental, North Indian"
 307549,1,New Delhi,"Aggarwal Sweet Centre,Near HDFC Bank, J-12/20, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1198933,28.6404695,"Mithai, Street Food"
 7287,1,New Delhi,"Crazy Cow,H-37, Main Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1214101,28.6449319,Chinese
-306476,1,New Delhi,"AMPM CafÌ© & Bar,J 2/5, 3rd & 4th Floor, B.K. Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1201223,28.6477737,"Continental, Italian, American"
-18369780,1,New Delhi,"CafÌ© Foreground,J 2/11, 3rd Floor, B.K Dutt Market, Amba Tower, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1193188,28.6470325,"Cafe, Asian, Italian, North Indian"
+306476,1,New Delhi,"AMPM Caf√≠¬© & Bar,J 2/5, 3rd & 4th Floor, B.K. Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1201223,28.6477737,"Continental, Italian, American"
+18369780,1,New Delhi,"Caf√≠¬© Foreground,J 2/11, 3rd Floor, B.K Dutt Market, Amba Tower, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1193188,28.6470325,"Cafe, Asian, Italian, North Indian"
 18412888,1,New Delhi,"Calendar's Kitchen by Satish Kaushik,C-10, Vishal Enclave, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1181539,28.6472676,"Continental, Italian, North Indian, Chinese"
 304233,1,New Delhi,"Desee Dakshin Coastal Cafe,J-2/11, 1st Floor, Opposite Metro Pillar 411, BK Dutt Market, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.1194794,28.6473667,"North Indian, Mangalorean, Chinese"
 18345778,1,New Delhi,"Food Scouts,Near TDI Mall, Rajouri Garden, New Delhi",Rajouri Garden,"Rajouri Garden, New Delhi",77.11999476,28.65081196,"North Indian, Chinese, Continental"
@@ -6408,7 +6412,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18144458,1,New Delhi,"Ziu,Sangam Courtyard, Major Somnath Marg, R K Puram, New Delhi","Sangam Courtyard, RK Puram","Sangam Courtyard, RK Puram, New Delhi",77.1738591,28.5724323,Thai
 306801,1,New Delhi,"Al-Arabi Restaurant,5th Floor, Plot 61, Drishay Palace, Near K2 Gas Office, Janta Flat, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.300312,28.53354,"Arabian, North Indian"
 7815,1,New Delhi,"Bikaner Sweets,Shop 7, Pocket H Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2919183,28.5353106,"Mithai, Street Food"
-1461,1,New Delhi,"Chawla'så_,7, A Pocket Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2868798,28.5336131,North Indian
+1461,1,New Delhi,"Chawla's¬å_,7, A Pocket Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2868798,28.5336131,North Indian
 18339800,1,New Delhi,"DELI2NITE,2-A, Main Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2970357,28.5325576,"North Indian, Fast Food, Chinese"
 309728,1,New Delhi,"Green Chick Chop,4/5, H Block Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2918036,28.5351351,"Raw Meats, North Indian, Fast Food"
 308536,1,New Delhi,"Laziz Fast Food & Laziz Khana,Opposite H block Market, Sarita Vihar, New Delhi",Sarita Vihar,"Sarita Vihar, New Delhi",77.2909739,28.5352265,"North Indian, Chinese"
@@ -6466,7 +6470,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 309811,1,New Delhi,"Muradabadi Biryani Centre,Shop 2, Mini Market, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1690325,28.5875051,Mughlai
 18453788,1,New Delhi,"NCR Cafe ,3rd Floor, Building 15, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1670746,28.5876001,"Cafe, Chinese, Fast Food"
 18460981,1,New Delhi,"Peri Peri Momos,57, Satya Niketan Road, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.16854351,28.58765741,"Chinese, Fast Food"
-18287389,1,New Delhi,"RosartÌ© Chocolate,A/19, West End, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1652844,28.5738064,Desserts
+18287389,1,New Delhi,"Rosart√≠¬© Chocolate,A/19, West End, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1652844,28.5738064,Desserts
 1629,1,New Delhi,"Shanghai Restaurant,9, Satyaniketan Market, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1691415,28.587529,"North Indian, Mughlai, Chinese"
 18288761,1,New Delhi,"SharpShooters Roof Top Cafe,282, Roof Top, Benito Juarez Marg, South Moti Bagh, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1687371,28.5885208,"Cafe, Chinese, Italian"
 7603,1,New Delhi,"Stuti Restaurant,6, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1689617,28.5875118,North Indian
@@ -6483,8 +6487,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18391128,1,New Delhi,"Cafe 121,121, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1686921,28.5882925,"Continental, American, Italian, North Indian, Chinese"
 18228894,1,New Delhi,"Cafe Hera Pheri,2, Opposite Sri Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1676138,28.5879205,"Cafe, Italian, Chinese, North Indian"
 18429392,1,New Delhi,"Cafe Tansen,14, Opposite Sri Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1670746,28.5876897,"North Indian, Chinese"
-18364239,1,New Delhi,"CafÌ¬ Befikre,289, 1st Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.17,28.59,"Chinese, Continental"
-300815,1,New Delhi,"CafÌ© 101,101, Opposite Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1683776,28.5879488,"Cafe, Italian, North Indian"
+18364239,1,New Delhi,"Caf√≠√Ç Befikre,289, 1st Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.17,28.59,"Chinese, Continental"
+300815,1,New Delhi,"Caf√≠¬© 101,101, Opposite Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1683776,28.5879488,"Cafe, Italian, North Indian"
 18322638,1,New Delhi,"Canteen Till I Die,107, Ground Floor, Opposite Sri Venkateswara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1684226,28.5879083,"Cafe, Fast Food"
 2215,1,New Delhi,"China Bowl,10, Satyaniketan Market, Opposite Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1674341,28.5879033,"Chinese, Thai, Japanese, Tibetan"
 304162,1,New Delhi,"Chowringhee,93, Opposite Venkateswara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1682428,28.5880703,"Street Food, Chinese, North Indian"
@@ -6504,7 +6508,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18424602,1,New Delhi,"The Food Truck Cafe,Plot 69, Near HDFC Bank ATM, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1679732,28.5881341,Cafe
 18358164,1,New Delhi,"The Punter House,2nd & 3rd Floor, Building 9, Opposite Venkateshwar College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1672543,28.5877069,"Cafe, Continental, Mexican, Italian, North Indian, Chinese"
 18336204,1,New Delhi,"Thikaana,2, 1st Floor, Opposite Sri Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1677396,28.5880523,"Cafe, Continental, Italian, Chinese"
-18368002,1,New Delhi,"Tin Town CafÌ©,37, Ground Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1676587,28.5880592,"Cafe, North Indian, Continental, Chinese"
+18368002,1,New Delhi,"Tin Town Caf√≠¬©,37, Ground Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1676587,28.5880592,"Cafe, North Indian, Continental, Chinese"
 18245295,1,New Delhi,"Uptown Cafe,4-5, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1676138,28.5880101,"Cafe, Continental, Chinese, North Indian, Italian"
 18268693,1,New Delhi,"Vadapav Junction,Outlet 1, Ground Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1689617,28.5876911,Street Food
 18472609,1,New Delhi,"Crispers,96, Opposite Venkteshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1683519,28.5880191,"Fast Food, Beverages"
@@ -6519,7 +6523,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18391320,1,New Delhi,"Frosty Rollies,93, Satya Niketan, Opposite Venkateshwar College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.17,28.59,"Desserts, Ice Cream"
 18222586,1,New Delhi,"Pipeline Cafe,Shop 37, 2nd Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1677935,28.5881169,"Cafe, North Indian, Chinese, Continental"
 18303832,1,New Delhi,"QRO Gourmeteriia BY DARK HOUSE KAFE,9, Ground Floor, Benito Juarez Marg, Opposite Sri Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1674341,28.5879033,"Cafe, Continental, Italian, Chinese, North Indian"
-18349916,1,New Delhi,"Superstar CafÌ©,288, Opposite Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.16886461,28.58839226,"Cafe, Continental, Italian"
+18349916,1,New Delhi,"Superstar Caf√≠¬©,288, Opposite Venkateshwara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.16886461,28.58839226,"Cafe, Continental, Italian"
 18358675,1,New Delhi,"TBH - The Big House Cafe,37, 1st Floor, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1679732,28.5882237,"Cafe, Continental, North Indian, Chinese, Mexican"
 312142,1,New Delhi,"The Biryani Co.,1/33, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1706691,28.5871376,"Hyderabadi, Biryani, North Indian"
 307571,1,New Delhi,"Wood Box Cafe,Shop 288, Opposite Venkateswara College, Satyaniketan, New Delhi",Satyaniketan,"Satyaniketan, New Delhi",77.1688719,28.5886682,"Cafe, Fast Food, Italian, Chinese"
@@ -6561,7 +6565,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18424903,1,New Delhi,"Andrea's Eatery,Shop 48A-51, First Floor, District Centre, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.21872788,28.52832061,"Italian, Mexican, Spanish, Thai, Vietnamese, Indonesian, American"
 311749,1,New Delhi,"Drool Waffles,2nd Floor, My Square Food Court, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.2194535,28.52941,Desserts
 18268720,1,New Delhi,"Elma's at Good Earth,3rd Floor, Select Citywalk Mall, Inside Good Earth Store, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.21925493,28.52860163,"Cafe, Continental, Italian"
-4271,1,New Delhi,"HÌ_agen-Dazs,E-4W, Ground Floor, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.219309,28.529136,"Desserts, Ice Cream"
+4271,1,New Delhi,"H√≠_agen-Dazs,E-4W, Ground Floor, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.219309,28.529136,"Desserts, Ice Cream"
 305833,1,New Delhi,"Krispy Kreme,1st Floor, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.21951913,28.5292155,"Desserts, Beverages"
 307296,1,New Delhi,"Movenpick,2nd Floor, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.21938971,28.52869412,"Ice Cream, Desserts"
 2786,1,New Delhi,"Punjab Grill,2nd Floor, Food Court, Select Citywalk Mall, Saket, New Delhi","Select Citywalk Mall, Saket","Select Citywalk Mall, Saket, New Delhi",77.21932769,28.52869471,"North Indian, Mughlai"
@@ -6655,7 +6659,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 312268,1,New Delhi,"Anandini - The Tea Room,10 A, DDA, Near UCO Bank, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2159503,28.5487987,Tea
 773,1,New Delhi,"Slice of Italy,118, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2159503,28.5495159,"Italian, Pizza, Bakery"
 305147,1,New Delhi,"The Coffee Garage,118 B, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2155461,28.5495222,Cafe
-18337924,1,New Delhi,"The Fashion Street CafÌ©,1st Floor, 43, The Fashion Street, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2137046,28.549033,"Cafe, North Indian, Chinese, South Indian"
+18337924,1,New Delhi,"The Fashion Street Caf√≠¬©,1st Floor, 43, The Fashion Street, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2137046,28.549033,"Cafe, North Indian, Chinese, South Indian"
 18481305,1,New Delhi,"Urban Village,253/2, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.21100144,28.54853276,North Indian
 18180080,1,New Delhi,"Greenr Cafe,416, Gora Street, Behind Dada Jungi House, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2132555,28.548542,Cafe
 18306545,1,New Delhi,"Boom Food,193, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2155012,28.5466046,"Asian, North Indian"
@@ -6672,9 +6676,9 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18244555,1,New Delhi,"Asia Central,Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2136148,28.5490245,"Asian, Chinese, Thai, Vietnamese"
 18466435,1,New Delhi,"Biryani By Kilo,Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2119979,28.5484222,"Biryani, Mughlai"
 18163906,1,New Delhi,"Cafe 5H By The Kitchen Connect,5-H, 1st Floor, Jungi House, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2127165,28.5492078,"Cafe, Continental, Italian"
-18421026,1,New Delhi,"Hearken CafÌ©,5th Floor, 119- Sishan House, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2154563,28.5492447,Cafe
+18421026,1,New Delhi,"Hearken Caf√≠¬©,5th Floor, 119- Sishan House, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2154563,28.5492447,Cafe
 18291469,1,New Delhi,"Puppychino,3rd Floor, 119, Shishan Bhawan, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2155012,28.5492042,"Cafe, Continental, Italian"
-18322609,1,New Delhi,"Remember Me CafÌ©,JP House, 1st Floor, 118, Near Asain Games Village, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2155653,28.5498307,"Cafe, Continental, Italian, Mexican"
+18322609,1,New Delhi,"Remember Me Caf√≠¬©,JP House, 1st Floor, 118, Near Asain Games Village, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2155653,28.5498307,"Cafe, Continental, Italian, Mexican"
 307391,1,New Delhi,"Sugarama Patisserie,87, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2148724,28.5493235,"Bakery, Desserts"
 18400746,1,New Delhi,"The Last Mughal (TLM),Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2136148,28.5491141,"North Indian, Mughlai"
 9417,1,New Delhi,"The Mad Teapot/The Wishing Chair,86-A, Shahpur Jat, New Delhi",Shahpur Jat,"Shahpur Jat, New Delhi",77.2143783,28.5493213,"Cafe, Bakery, Italian"
@@ -6925,7 +6929,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18292457,1,New Delhi,"Taste Drive,Pacific Mall, Near Kids Zone, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1069062,28.6418012,Fast Food
 973,1,New Delhi,"The Kafilla,WZ-93, Near Metro Pillar 427, Tatarpur, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1155932,28.6455653,North Indian
 18292469,1,New Delhi,"Tibb's Frankie,Food Court, 2nd Floor, Pacific Mall, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1064052,28.6425185,Fast Food
-18381626,1,New Delhi,"4 Barrels CafÌ© & Lounge,3rd Floor, DE-82, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1099433,28.6490845,"North Indian, Continental, Lebanese"
+18381626,1,New Delhi,"4 Barrels Caf√≠¬© & Lounge,3rd Floor, DE-82, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1099433,28.6490845,"North Indian, Continental, Lebanese"
 18425157,1,New Delhi,"Baadshah,DE-84, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.116361,28.6461869,"North Indian, Chinese"
 18365991,1,New Delhi,"Behrouz Biryani,Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1120493,28.6463347,Biryani
 18355146,1,New Delhi,"Galina Restaurant,DE 82, Ground Floor, Tagore Garden, New Delhi",Tagore Garden,"Tagore Garden, New Delhi",77.1163525,28.6461897,North Indian
@@ -6993,7 +6997,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3027,1,New Delhi,"Baluchi - The Lalit New Delhi,The Lalit, Barakhamba Avenue, Barakhamba Road, New Delhi","The Lalit New Delhi, Barakhamba Road","The Lalit New Delhi, Barakhamba Road, New Delhi",77.22764019,28.63120891,"Mughlai, North Indian, South Indian"
 4907,1,New Delhi,"Kitty Su - The Lalit New Delhi,The Lalit, Barakhamba Avenue, Barakhamba Road, New Delhi","The Lalit New Delhi, Barakhamba Road","The Lalit New Delhi, Barakhamba Road, New Delhi",77.228133,28.6317423,Finger Food
 104,1,New Delhi,"Woks - The Lalit New Delhi,The Lalit, Barakhamba Avenue, Barakhamba Road, New Delhi","The Lalit New Delhi, Barakhamba Road","The Lalit New Delhi, Barakhamba Road, New Delhi",77.227277,28.631407,"Chinese, Seafood"
-300688,1,New Delhi,"CafÌ© Knosh - The Leela Ambience Convention Hotel,The Leela Ambience Convention Hotel, Maharaja Surajmal Road, Near Yamuna Sports Complex, Vivek Vihar, New Delhi",The Leela Ambience Convention Hotel,"The Leela Ambience Convention Hotel, New Delhi",77.30317778,28.66113333,"North Indian, Italian"
+300688,1,New Delhi,"Caf√≠¬© Knosh - The Leela Ambience Convention Hotel,The Leela Ambience Convention Hotel, Maharaja Surajmal Road, Near Yamuna Sports Complex, Vivek Vihar, New Delhi",The Leela Ambience Convention Hotel,"The Leela Ambience Convention Hotel, New Delhi",77.30317778,28.66113333,"North Indian, Italian"
 300697,1,New Delhi,"Cherry Bar - The Leela Ambience Convention Hotel,The Leela Ambience Convention Hotel, Maharaja Surajmal Road, Near Yamuna Sports Complex, Vivek Vihar, New Delhi",The Leela Ambience Convention Hotel,"The Leela Ambience Convention Hotel, New Delhi",77.30317778,28.66113333,Finger Food
 300696,1,New Delhi,"Mei Kun - The Leela Ambience Convention Hotel,The Leela Ambience Convention Hotel, Maharaja Surajmal Road, Near Yamuna Sports Complex, Vivek Vihar, New Delhi",The Leela Ambience Convention Hotel,"The Leela Ambience Convention Hotel, New Delhi",77.30317778,28.66113333,Thai
 300695,1,New Delhi,"Dilli 32 - The Leela Ambience Convention Hotel,The Leela Ambience Convention Hotel, Maharaja Surajmal Road, Near Yamuna Sports Complex, Vivek Vihar, New Delhi",The Leela Ambience Convention Hotel,"The Leela Ambience Convention Hotel, New Delhi",77.30317778,28.66113333,North Indian
@@ -7202,7 +7206,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 2778,1,New Delhi,"Nanking,C-6, Local Shopping Complex, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1482216,28.5367732,"Chinese, Seafood"
 18292485,1,New Delhi,"Nawab Dera,B-98, Vasant Kunj Enclave, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1357431,28.5254999,"North Indian, Mughlai, Biryani"
 18423898,1,New Delhi,"The Cafe,B8/9, Shop 9, DDA Market, Near GD Goenka School, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1553898,28.5291446,Cafe
-308246,1,New Delhi,"The Village CafÌ©,Shop 4, Plot 11, Behind Sanchit Medicos, Opposite Fortis Hospital, Aruna Asaf Ali road, Kishan Garh, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1619331,28.519062,"Cafe, American, Italian, North Indian, Chinese"
+308246,1,New Delhi,"The Village Caf√≠¬©,Shop 4, Plot 11, Behind Sanchit Medicos, Opposite Fortis Hospital, Aruna Asaf Ali road, Kishan Garh, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1619331,28.519062,"Cafe, American, Italian, North Indian, Chinese"
 18289277,1,New Delhi,"Cookfresh,Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",0,0,Asian
 18264997,1,New Delhi,"Cafe Connect,Ground Floor, Adjacent To Ambience Towers Car Market, Chattarpur Road, Abdul Gaffar Khan Marg, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.16498211,28.51428649,"Cafe, Bakery"
 18144479,1,New Delhi,"Happy Hakka,28, Vasant Arcade, B7 Market, Vasant Kunj, New Delhi",Vasant Kunj,"Vasant Kunj, New Delhi",77.1520605,28.5332879,Chinese
@@ -7342,7 +7346,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18241524,1,New Delhi,"736 A.D.,G-15/B, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.2039955,28.6947175,"North Indian, Continental, Italian, Chinese"
 301700,1,New Delhi,"Big Yellow Door,H-8 B, Near GTB Nagar Metro Station, Opposite Hudson Lane's NDPL Office, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.204991,28.6934439,"Cafe, Italian, Fast Food"
 303849,1,New Delhi,"Mr. Crust Bakers,B-29/B, Opposite Mother Dairy, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.2014873,28.6906011,"Bakery, Desserts, Fast Food"
-18258484,1,New Delhi,"Phonebooth CafÌ©,G-14 B, Hudson Lane, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.2040075,28.6943812,"North Indian, Continental, Chinese, Italian"
+18258484,1,New Delhi,"Phonebooth Caf√≠¬©,G-14 B, Hudson Lane, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.2040075,28.6943812,"North Indian, Continental, Chinese, Italian"
 18157386,1,New Delhi,"Tony's,C-23, Single Storey, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.201128,28.6919997,Fast Food
 18455949,1,New Delhi,"Wake 'n' Bake Cafe,D-6A, Single Storey, Vijay Nagar, New Delhi",Vijay Nagar,"Vijay Nagar, New Delhi",77.20197815,28.69302023,"Fast Food, Bakery"
 18337907,1,New Delhi,"Gabbar Di Hatti,R-39, Opposite Metro Pillar - 47,  Shakurpur, Vikas Marg",Vikas Marg,"Vikas Marg, New Delhi",77.3103529,28.6580412,"North Indian, Mughlai"
@@ -7457,7 +7461,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18163893,1,New Delhi,"Mr. Sub,W-2/14, Ground Floor, Near Patel Nagar Metro Station, West Patel Nagar, New Delhi",West Patel Nagar,"West Patel Nagar, New Delhi",77.1689671,28.6454168,Fast Food
 313093,1,New Delhi,"Kennedy's,B-1, West Patel Nagar, New Delhi",West Patel Nagar,"West Patel Nagar, New Delhi",77.1647873,28.6522346,"Chinese, Fast Food"
 18384135,1,New Delhi,"Keventers,Level 2, Food Capital, Worldmark 1, Hospitality District, Aerocity, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12179529,28.5503472,Beverages
-18337772,1,New Delhi,"Street Foods by Punjab Grill,Level 2,åÊFood Capital, Worldmark 1, Aerocity, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12179529,28.5503472,"Street Food, North Indian"
+18337772,1,New Delhi,"Street Foods by Punjab Grill,Level 2,¬å√¶Food Capital, Worldmark 1, Aerocity, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12179529,28.5503472,"Street Food, North Indian"
 18316173,1,New Delhi,"Subway,Level 2, Food Capital, Worldmark 1, Aerocity, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12142371,28.54989546,"American, Fast Food, Salad, Healthy Food"
 18336491,1,New Delhi,"Wow! Momo,Level 2, Food Capital, Worldmark 1, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12179529,28.5503472,Chinese
 18306524,1,New Delhi,"Biryani Blues,Kiosk 4, Level 2, Food Capital, Worldmark 1, Aerocity, New Delhi","Worldmark 1, Aerocity","Worldmark 1, Aerocity, New Delhi",77.12179529,28.5503472,"Biryani, Hyderabadi"
@@ -7511,7 +7515,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 310479,1,New Delhi,"The Relax Point,92/17, Zakir Nagar, New Delhi",Zakir Nagar,"Zakir Nagar, New Delhi",77.2785427,28.5668489,North Indian
 18212160,1,New Delhi,"Zareen's Dastarkhwan,Jamia Nagar, Zakir Nagar, New Delhi",Zakir Nagar,"Zakir Nagar, New Delhi",77.28569627,28.56519398,Awadhi
 310063,1,Noida,"Ali Baba Caves,1st Floor, Ansal Plaza Mall, Pari Chowk, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5281286,28.4581066,"Cafe, Chinese"
-312214,1,Noida,"CafÌ© Doo Ghoont,AG-13, Atrium Floor, Ansal Plaza Mall, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5074561,28.4639566,Cafe
+312214,1,Noida,"Caf√≠¬© Doo Ghoont,AG-13, Atrium Floor, Ansal Plaza Mall, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5074561,28.4639566,Cafe
 309641,1,Noida,"Knights Chaska,201 to 207, 2nd Floor, Ansal Plaza Mall, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5078343,28.4644343,"North Indian, Chinese"
 306688,1,Noida,"Thirsty Scholar Cafe,SF-256, 2nd Floor, Ansal Plaza Mall, Near Pari Chowk, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5077014,28.4642008,Cafe
 18440427,1,Noida,"Savoury Street,GF-37, 1st Floor, Ansal Plaza Mall, Greater Noida, Noida","Ansal Plaza Mall, Greater Noida","Ansal Plaza Mall, Greater Noida, Noida",77.5077014,28.4642008,"North Indian, Continental, Italian"
@@ -7644,7 +7648,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18317498,1,Noida,"The Butler & The Chef - Jaypee Greens,Jaypee Greens, Surajpur Kasna Road, Greater Noida, Noida","Jaypee Greens, Greater Noida, Noida","Jaypee Greens, Greater Noida, Noida, Noida",77.521526,28.464167,Finger Food
 18371434,1,Noida,"Burger King,3rd Floor, Logix City Centre, Sector 32, Near Sector 34, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3536634,28.5743086,"Burger, Fast Food"
 18425747,1,Noida,"Cafe Pitacos,Logix City Centre, Sector 32, Near Sector 34, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3533943,28.5746419,"Continental, Mexican, Mediterranean"
-18371402,1,Noida,"Cinnabon & Auntie Anne's,Atrium CafÌ©, Ground Floor, Logix City Centre, Sector 32, Near Sector 31, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3539094,28.574221,"Desserts, Beverages"
+18371402,1,Noida,"Cinnabon & Auntie Anne's,Atrium Caf√≠¬©, Ground Floor, Logix City Centre, Sector 32, Near Sector 31, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3539094,28.574221,"Desserts, Beverages"
 18383509,1,Noida,"Cocoberry,Food Court, 3rd Floor, Logix City Centre, Sector 32, Near Sector 34, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3535737,28.5743001,Desserts
 18446433,1,Noida,"Hakka Haus,Level 2, Logix city Center Mall, Sector 34, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",0,0,"Chinese, Thai"
 18349905,1,Noida,"Kebab Xpress,3rd Floor, Logix City Centre, Sector 32, Near Sector 34, Noida","Logix City Centre, Sector 32, Noida","Logix City Centre, Sector 32, Noida, Noida",77.3535737,28.5743001,"North Indian, Mughlai"
@@ -7696,7 +7700,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18322648,1,Noida,"Lemonier,B-109, 2nd Floor, Sector 10, Noida",Sector 10,"Sector 10, Noida",77.3307374,28.5881489,Bakery
 18356045,1,Noida,"Punjabi Zaika,B-2, Sector 10, Noida",Sector 10,"Sector 10, Noida",77.3303336,28.5878866,North Indian
 18126101,1,Noida,"Robins Sweets & Restaurant,C-136, Gautam Budh Nagar, Sector 10, Noida",Sector 10,"Sector 10, Noida",77.3323864,28.5914816,North Indian
-18273622,1,Noida,"TBH ‰ÛÒ To Be Healthy,C-225, Sector 10, Noida",Sector 10,"Sector 10, Noida",77.331231,28.589854,"Juices, Healthy Food"
+18273622,1,Noida,"TBH √§√≥√± To Be Healthy,C-225, Sector 10, Noida",Sector 10,"Sector 10, Noida",77.331231,28.589854,"Juices, Healthy Food"
 5742,1,Noida,"Mehfill,1 & 4, L Block Market, Behind Metro Hospital, Sector 11, Noida",Sector 11,"Sector 11, Noida",77.3355334,28.597946,"North Indian, Chinese, Mughlai"
 311186,1,Noida,"Punjabi Pakwaan,Shop 39 & 40, L-93-A, Sector 11, Noida",Sector 11,"Sector 11, Noida",77.3357155,28.5977441,"North Indian, Chinese"
 2331,1,Noida,"Santushti,21, L Block Market, Behind Metro Hospital, Sector 11, Noida",Sector 11,"Sector 11, Noida",77.335798,28.5976276,"South Indian, North Indian, Chinese"
@@ -7724,7 +7728,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18381224,1,Noida,"Singh Foods,Opposite Pathway School, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36533742,28.53922405,"North Indian, Mughlai"
 18440751,1,Noida,"Sparrows At Home Bakery & Cafe,First Floor, KM-01, Sector 104, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.3682633,28.54079875,"Cafe, Bakery"
 306560,1,Noida,"The New Koyla Kitchen,162-A, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38676123,28.53422092,"North Indian, Chinese"
-18371428,1,Noida,"Theyˆ_üˆ´Û,A2/11, First Floor, Sector 110 Main Market, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38501411,28.52840456,"North Indian, Mughlai, Chinese"
+18371428,1,Noida,"They√∂_¬ü√∂¬´√≥,A2/11, First Floor, Sector 110 Main Market, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38501411,28.52840456,"North Indian, Mughlai, Chinese"
 18372251,1,Noida,"Your Spicy Kitchen,Shop 10, Vivek Vihar, Sector-82, Near, Sector 110, Noida",Sector 110,"Sector 110, Noida",0,0,"Mughlai, Continental, Chinese"
 312369,1,Noida,"Yumm Biryani,Shop 18, Ashirwad Complex, Sector 104, Near Sector 110",Sector 110,"Sector 110, Noida",77.36609716,28.53932095,"Biryani, Mughlai"
 307014,1,Noida,"Aureo Dine & Bake House,Shop 9, Block A-3, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38755785,28.53404095,"North Indian, Chinese, Continental"
@@ -7737,11 +7741,12 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18421504,1,Noida,"The Kebab Company,Shop 17, Phool Singh Complex, Opposite Pathway School, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36600563,28.53925998,"Fast Food, North Indian"
 18310503,1,Noida,"Affamato,Shop 6, Sunshine Helios, Sector 78, Near, Sector 110, Noida",Sector 110,"Sector 110, Noida",0,0,"Italian, Pizza"
 18424173,1,Noida,"Ahmed's,Main Market, Near ICICI Bank, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38754611,28.5337414,Mughlai
-18233621,1,Noida,"CaffÌ© La Poya,7, Ashirwad Complex, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36602105,28.539318,"Cafe, Continental, Fast Food, Italian"
+18233621,1,Noida,"Caff√≠¬© La Poya,7, Ashirwad Complex, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36602105,28.539318,"Cafe, Continental, Fast Food, Italian"
 18432230,1,Noida,"Chaskaa Restaurant,Sector 108, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",0,0,"North Indian, Mughlai, Chinese"
 18409212,1,Noida,"Chawla's 2,C-3/18, Main Market, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36599725,28.53954539,"North Indian, Mughlai, Chinese, Fast Food"
 18219528,1,Noida,"Chination,Sector 110, Noida",Sector 110,"Sector 110, Noida",77.3869852,28.53309897,Chinese
-18380150,1,Noida,"Essen Foods,Shop 20, Ashirwad Complex, Opposite PathwaySchool, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36632314,28.53927854,"North Indian, Chinese, Mughlai"
+18380150,1,Noida,"Essen Foods,Shop 20, Ashirwad Complex, Opposite Pathway
+School, Sector 104, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",77.36632314,28.53927854,"North Indian, Chinese, Mughlai"
 18355013,1,Noida,"Haochi,Shop 1 & 2, Lower Ground Floor, Hyde Park, Commercial Complex, Sector 78, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",0,0,Chinese
 18348609,1,Noida,"Lassilo,D 51, Sector 105, Near Sector 110, Noida",Sector 110,"Sector 110, Noida",0,0,Fast Food
 18424175,1,Noida,"Mittal Bikaneri Sweets,A 2/22, Main Market, Sector 110, Noida",Sector 110,"Sector 110, Noida",77.38711596,28.53319412,"Mithai, Street Food"
@@ -7991,7 +7996,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 5760,1,Noida,"Khana Khajana Da Dhaba,20 & 21, Atta Subzi Mandi, Maa Shakumbhari Market, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.3245817,28.573916,North Indian
 18265705,1,Noida,"M.P. Chole Tikki Wala,Block D, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.32828371,28.57457078,Street Food
 5761,1,Noida,"Maa Vaishno Shudh Bhojnalaya,27, Subzi Mandi Market, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.3245004,28.5737086,North Indian
-18255160,1,Noida,"More Than CafÌ©,Shop 26, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.3282646,28.57438086,Fast Food
+18255160,1,Noida,"More Than Caf√≠¬©,Shop 26, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.3282646,28.57438086,Fast Food
 18265709,1,Noida,"Public Cafe,Shop 29, D Block Market, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.32841983,28.57439941,"Fast Food, Beverages"
 18236270,1,Noida,"Sadda Taste,Sector 27, Noida",Sector 27,"Sector 27, Noida",77.32803628,28.57187929,"North Indian, Fast Food, Chinese"
 5757,1,Noida,"Sati Restaurant,Likhi Ram Market, Atta, Near Subzi Mandi, Sector 27, Noida",Sector 27,"Sector 27, Noida",77.3243658,28.5734717,North Indian
@@ -8028,8 +8033,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3443,1,Noida,"Fresh Food Factory,E-1, Sector 3, Noida",Sector 3,"Sector 3, Noida",77.3173193,28.5810955,"North Indian, Chinese"
 18466412,1,Noida,"Bollycric,D-15, Sector 3, Noida",Sector 3,"Sector 3, Noida",0,0,"North Indian, South Indian, Chinese"
 18180048,1,Noida,"The Kitchen Factory,A-26, Sector 3, Noida",Sector 3,"Sector 3, Noida",77.3173563,28.5810132,"North Indian, Chinese"
-302535,1,Noida,"CaffÌ© La Poya,10, Kirtimaan Plaza Behind Mother Diary, Sector 30, Noida",Sector 30,"Sector 30, Noida",77.3409391,28.5722363,"Cafe, Continental, Fast Food, Italian"
-18311928,1,Noida,"Elixir Health CafÌ©,10, 1st Floor, Kirtimaan Plaza, Sector 30, Noida",Sector 30,"Sector 30, Noida",77.3408326,28.5724711,"Cafe, Healthy Food, Continental, Italian, Asian"
+302535,1,Noida,"Caff√≠¬© La Poya,10, Kirtimaan Plaza Behind Mother Diary, Sector 30, Noida",Sector 30,"Sector 30, Noida",77.3409391,28.5722363,"Cafe, Continental, Fast Food, Italian"
+18311928,1,Noida,"Elixir Health Caf√≠¬©,10, 1st Floor, Kirtimaan Plaza, Sector 30, Noida",Sector 30,"Sector 30, Noida",77.3408326,28.5724711,"Cafe, Healthy Food, Continental, Italian, Asian"
 18446503,1,Noida,"Radhey Foodz,Shop 11, Main Sharma Market, Near New Shiv Mandir, G.B.Nagar, Sector 31, Noida",Sector 31,"Sector 31, Noida",77.346491,28.576754,North Indian
 18157374,1,Noida,"The Kitchen,G-25, Savitri Market, Sector 31, Noida",Sector 31,"Sector 31, Noida",77.3394417,28.5791986,North Indian
 309059,1,Noida,"Uncle's Treat,B-5/9, Sector 31, Noida",Sector 31,"Sector 31, Noida",77.34303586,28.5793226,Chinese
@@ -8084,7 +8089,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 307407,1,Noida,"Appu Ghar Express,Building 105, Plot A-2, GIP Campus, Sector 38-A, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.323737,28.5641453,"Fast Food, Chinese"
 305317,1,Noida,"Barista,Botanical Garden Metro Station, Ground Floor, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.334633,28.5640131,Cafe
 18430593,1,Noida,"Burger King,Shop  B, Ground Floor, Botanical Garden Metro Station, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.334633,28.5640131,"Burger, Fast Food"
-18349929,1,Noida,"Keventers,SH-161,åÊGardenåÊGalleria, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.3221651,28.5643934,Beverages
+18349929,1,Noida,"Keventers,SH-161,¬å√¶Garden¬å√¶Galleria, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.3221651,28.5643934,Beverages
 18408048,1,Noida,"Kenny Rogers Roasters,Ground Floor, FB 104, Garden Galleria Mall, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.3220403,28.5645948,American
 305222,1,Noida,"McDonald's,Intersection of Worlds of Wonder and Great India Place Mall, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.3254169,28.5664384,"Fast Food, Burger"
 18356801,1,Noida,"Baskin Robbins,Attrium Ground Floor, Garden Galleria Mall, Sector 38, Noida",Sector 38,"Sector 38, Noida",77.3216286,28.5648303,Ice Cream
@@ -8169,7 +8174,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18433905,1,Noida,"The Golden Spoon,Near SRS Value Bazar, Sector 44, Noida",Sector 44,"Sector 44, Noida",77.3367172,28.5538698,Chinese
 18448608,1,Noida,"The Saffron Plant Restaurant,The Club, Amrapali Sapphire, Sector 45, Near Sector 44, Noida",Sector 44,"Sector 44, Noida",0,0,"Chinese, North Indian, Mughlai"
 18387305,1,Noida,"Zaika Tiffin Center,Gardenia Glory, Sector 46, Near Sector 44, Noida",Sector 44,"Sector 44, Noida",0,0,"North Indian, South Indian"
-18317511,1,Noida,"#Urban CafÌ©,LG-06, Amrapali Arcade 1, Amrapali Sapphire, Sector 45, Noida",Sector 45,"Sector 45, Noida",77.3441526,28.5485744,"North Indian, Chinese, Italian"
+18317511,1,Noida,"#Urban Caf√≠¬©,LG-06, Amrapali Arcade 1, Amrapali Sapphire, Sector 45, Noida",Sector 45,"Sector 45, Noida",77.3441526,28.5485744,"North Indian, Chinese, Italian"
 18472676,1,Noida,"Baked! Cakes & Desserts,Amrapali Sapphire, Sector 45, Noida",Sector 45,"Sector 45, Noida",0,0,"Bakery, Desserts"
 18244257,1,Noida,"Quick Grabs,Shop 13, UG, Amrapali Sapphire Shopping Complex, Sector 45, Noida",Sector 45,"Sector 45, Noida",77.3440629,28.5489246,"North Indian, Chinese"
 18228857,1,Noida,"The Roll Van,Plot 1, Sector 45, Noida",Sector 45,"Sector 45, Noida",77.3451396,28.5503712,"North Indian, Mughlai"
@@ -8197,7 +8202,8 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18277218,1,Noida,"Chocopur,Near HDFC ATM, Sector 49, Noida",Sector 49,"Sector 49, Noida",77.3719832,28.5573976,"Bakery, Desserts"
 18133492,1,Noida,"Sweta Restaurant,Barola, Near OBC Bank, Dadri Main Road, Sector 49, Noida",Sector 49,"Sector 49, Noida",77.3706065,28.5596943,North Indian
 18332086,1,Noida,"Flames of Tandoor,Main DSC Road, Near OBC Bank, Sector 49, Noida",Sector 49,"Sector 49, Noida",77.37059221,28.56042768,"North Indian, Mughlai"
-18419113,1,Noida,"Shaivi's Kitchen,Hindon Vihar, Sector 49, NoidaOpp. Dominos and ICICI BANK Sector 48",Sector 49,"Sector 49, Noida",77.375287,28.5562369,"North Indian, South Indian, Chinese"
+18419113,1,Noida,"Shaivi's Kitchen,Hindon Vihar, Sector 49, Noida
+Opp. Dominos and ICICI BANK Sector 48",Sector 49,"Sector 49, Noida",77.375287,28.5562369,"North Indian, South Indian, Chinese"
 18203626,1,Noida,"Kuppies,A-100, 2nd Floor, Sector 5, Noida",Sector 5,"Sector 5, Noida",77.3234175,28.5887703,"Bakery, Desserts"
 312978,1,Noida,"The Urban Chulha,I-10, Harola, Near Sector 5, Noida",Sector 5,"Sector 5, Noida",77.3245004,28.5878734,North Indian
 18451091,1,Noida,"Goyal Chhole Kulche Wala,G-48, Udhyog Marg, Sector 6, Near Sector 5",Sector 5,"Sector 5, Noida",77.32,28.59,Street Food
@@ -8214,7 +8220,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 5684,1,Noida,"Royal Empire Meat Shop,B-1/48, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.362366,28.5702866,"Raw Meats, Fast Food"
 1745,1,Noida,"Southern Treat,B-1/32, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3620969,28.5703509,South Indian
 3707,1,Noida,"Subway,B-1/24, Central Market, Near City Centre Metro Station, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3619175,28.5705134,"American, Fast Food, Salad, Healthy Food"
-18371395,1,Noida,"The Chickmunks CafÌ©,B-1/39 Central, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3623092,28.5706018,"Fast Food, Cafe, Italian, North Indian, Chinese"
+18371395,1,Noida,"The Chickmunks Caf√≠¬©,B-1/39 Central, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3623092,28.5706018,"Fast Food, Cafe, Italian, North Indian, Chinese"
 310766,1,Noida,"The FLIP Cafe,Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3623212,28.5697892,"Italian, Continental, North Indian, Chinese"
 2939,1,Noida,"Yo! China,B-1/29, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3620447,28.5703164,Chinese
 1919,1,Noida,"Gopala,B-1/7, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3619175,28.570872,"Mithai, Street Food"
@@ -8225,7 +8231,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18373828,1,Noida,"Parul's Cooking Hub,F-28,483, Windsor Green, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3620969,28.5708889,North Indian
 18252364,1,Noida,"Republic of Chicken,JM Orchid Market, Sector 76, Near Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3852409,28.5694797,"Raw Meats, Fast Food"
 18376068,1,Noida,"Somethings Sweet,C-92, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.37,28.57,Bakery
-308725,1,Noida,"Chawla'så_,B-1/54, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3620969,28.5702613,"North Indian, Mughlai, Chinese"
+308725,1,Noida,"Chawla's¬å_,B-1/54, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3620969,28.5702613,"North Indian, Mughlai, Chinese"
 385,1,Noida,"Domino's Pizza,B-1/55, Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3621039,28.5699792,"Pizza, Fast Food"
 18432227,1,Noida,"Nazeer Foods,Central Market, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.361896,28.5704704,"Mughlai, North Indian"
 308441,1,Noida,"Night Food Xprs,Main Dadri Road, Aggapur, sector 41, Sector 50, Noida",Sector 50,"Sector 50, Noida",77.3621866,28.5702697,"North Indian, Chinese"
@@ -8524,7 +8530,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 18486858,1,Noida,"6 Packs Momos,Spice World Mall, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3406022,28.586,Chinese
 18499455,1,Noida,"Balti,Shop 303, 2nd Floor, Food Court, Spice Mall, Sector 25 A, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",0,0,North Indian
 18466970,1,Noida,"Baskin Robbins,Spice World Mall, Ground Floor, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.341593,28.5855119,Ice Cream
-18431193,1,Noida,"KBCå_,Food Court, Spice World Mall, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3409734,28.5863196,"North Indian, Mughlai"
+18431193,1,Noida,"KBC¬å_,Food Court, Spice World Mall, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3409734,28.5863196,"North Indian, Mughlai"
 18258397,1,Noida,"Nukkad Bites,Shop K2 -K5, 2nd Floor, Spice World Mall, Sector 25A, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3373249,28.5835794,"North Indian, South Indian, Bakery, Beverages"
 18431981,1,Noida,"Pan Asian Noodles,Food Court, Spice World Mall, Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3409762,28.5863106,Chinese
 3212,1,Noida,"Chicane,205-A, 1st Floor, Spice World Mall, Sector 25-A, Near Sector 25, Noida","Spice World Mall, Sector 25","Spice World Mall, Sector 25, Noida",77.3410212,28.5854928,"European, North Indian, Chinese"
@@ -8576,7 +8582,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 1244,1,Noida,"TGI Friday's,319-320, 3rd Floor, The Great India Place Mall, Sector 38-A, Near Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.3262056,28.5676834,"American, Tex-Mex"
 5689,1,Noida,"Thaal Vaadi,310/311, 3rd Floor, The Great India Place Mall, Sector 38-A, Near, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.3261382,28.5680132,"North Indian, Rajasthani"
 18431152,1,Noida,"Cafe' Wow,Food Court, 3rd Floor, The Great India Palace Mall, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.3255998,28.5675141,Fast Food
-18439721,1,Noida,"Chef's Basket Pop Up CafÌ©,Inside Big Bazaar, The Great India Place, Sector 38 A, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",0,0,"Italian, Chinese"
+18439721,1,Noida,"Chef's Basket Pop Up Caf√≠¬©,Inside Big Bazaar, The Great India Place, Sector 38 A, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",0,0,"Italian, Chinese"
 18431158,1,Noida,"Chocolate Fountain,Food Court, 3rd Floor, Great India Palace Mall, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.3253979,28.5671588,Desserts
 18430892,1,Noida,"McDonald's,Ground Floor, Great India Palce Mall, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.3265645,28.5680759,"Desserts, Ice Cream"
 18430870,1,Noida,"Tea Trails,Kidzania, GIP, Entertainment City, Plot A 2, Sector-38 A, Sector 38, Noida","The Great India Place, Sector 38","The Great India Place, Sector 38, Noida",77.324803,28.564185,Cafe
@@ -8640,7 +8646,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 6505309,1,Pune,"The Little Next Door,D-10, Central Avenue, Kalyani Nagar, Pune",Kalyani Nagar,"Kalyani Nagar, Pune",73.90062645,18.54694697,"Finger Food, Italian, Spanish, Greek"
 6504409,1,Pune,"Effingut Brewerkz,End of Lane Number 6, Koregaon Park, Pune",Koregaon Park,"Koregaon Park, Pune",73.89852025,18.53408003,"Continental, North Indian, Mughlai, Burmese"
 18350020,1,Pune,"Kargo,Shop 1&2, Marvel Alaina, Lane  8, Near Godrej Nature's Basket, Koregaon Park, Pune",Koregaon Park,"Koregaon Park, Pune",73.89648478,18.53656175,"Charcoal Grill, Italian, North Indian, European, Indonesian, Thai"
-6508117,1,Pune,"SautÌ©ed Stories,Plot 5, Between Lane 5/6, North Main Road, Opposite Wellness Forever, Koregaon Park, Pune",Koregaon Park,"Koregaon Park, Pune",73.897902,18.53929933,"Cafe, Italian, Continental"
+6508117,1,Pune,"Saut√≠¬©ed Stories,Plot 5, Between Lane 5/6, North Main Road, Opposite Wellness Forever, Koregaon Park, Pune",Koregaon Park,"Koregaon Park, Pune",73.897902,18.53929933,"Cafe, Italian, Continental"
 18417624,1,Pune,"The Sassy Spoon,Lane 7, Sanskriti Lifestyle Complex, Koregaon Park, Pune",Koregaon Park,"Koregaon Park, Pune",73.899315,18.533811,"European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food"
 6505564,1,Pune,"German Bakery Wunderbar,153/A, Varun Complex, Near Demech House, Law College Road, Pune",Law College Road,"Law College Road, Pune",73.83054703,18.52001645,"Italian, German, Continental"
 11371,1,Pune,"Chili's,UG 49, Phoenix Market City, Nagar Road, Viman Nagar, Pune","Phoenix Market City, Viman Nagar","Phoenix Market City, Viman Nagar, Pune",73.9166191,18.5624502,"Mexican, American, Tex-Mex"
@@ -8710,7 +8716,7 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 3200560,1,Vadodara,"Mr Toasties,2/8 MIG Flats, Opposite Indraprastha Complex, Near LG Showroom, Inox Road, Ellora Park, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",0,0,Fast Food
 3200269,1,Vadodara,"The Yellow Chilli,2nd Floor, 1-7, Sharnam Fortune, Opposite Inox Multiplex, Race Course Circle, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",0,0,"North Indian, Mughlai"
 3200590,1,Vadodara,"Coffee Culture,1-8, Opposite INOX Multiplex, Sharnam Fortune, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",0,0,Cafe
-3200537,1,Vadodara,"Freshco - The Health CafÌ©,Shop 2-3, Ground Floor, Opposite Natubhai Circle, Trivia Complex, Race Course, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",0,0,Cafe
+3200537,1,Vadodara,"Freshco - The Health Caf√≠¬©,Shop 2-3, Ground Floor, Opposite Natubhai Circle, Trivia Complex, Race Course, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",0,0,Cafe
 3200024,1,Vadodara,"Pizza Hut,51,Akashganga Complex,Race Course Road, Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",73.165081,22.311844,"Pizza, Italian"
 3200034,1,Vadodara,"Tomato's,1st Floor, Aditi Plaza, Beside IDBI Bank, Race Course Road,  ., Vadiwadi, Vadodara",Vadiwadi,"Vadiwadi, Vadodara",73.164798,22.311358,"North Indian, Mughlai, Mexican, Thai"
 3900021,1,Varanasi,"Open Hand Shop & Cafe,B1/128-3, Dumraun Bagh Colony, Assi Ghat, Varanasi",Assi Ghat,"Assi Ghat, Varanasi",83.004504,25.287958,Cafe
@@ -8814,37 +8820,37 @@ Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verb
 5800176,191,Colombo,"Ministry of Crab,Old Colombo Dutch Hospital, Fort, Colombo 01","Old Dutch Hospital, Fort","Old Dutch Hospital, Fort, Colombo",79.84423889,6.932813889,Seafood
 5801321,191,Colombo,"Cafe Beverly,475/C, Sri Jayawardenapura Mawatha, Welikada, Rajagiriya, Colombo","Rajagiriya, Colombo","Rajagiriya, Colombo, Colombo",79.90294117,6.906814811,"Continental, American"
 5800612,191,Colombo,"Burger's King,1, Vellons Passage, Slave Island, Colombo 02","Slave Island, Colombo 02","Slave Island, Colombo 02, Colombo",79.85074807,6.923933284,Fast Food
-6001980,208,Ankara,"Timboo Cafe,Armada AVM, Kat -1, EskiÅÙehir Yolu, No 6, Yenimahalle, Ankara","Armada AVM, SÌ_€ÙÌ_tÌ_zÌ_, Yenimahalle","Armada AVM, SÌ_€ÙÌ_tÌ_zÌ_, Yenimahalle, Ankara",32.80924722,39.91320556,Cafe
-6000168,208,Ankara,"Hattena Hatay  Sofras€±,Balgat Mahallesi, Osmanl€± Caddesi, No 41/A, Ìàankaya, Ankara",Balgat,"Balgat, Ankara",32.82121389,39.90597222,Kebab
-6000447,208,Ankara,"MasabaÅÙ€± KebapÌ_€±s€±,Balgat Mahallesi, Ziyabey Caddesi, No 35, Ìàankaya, Ankara",Balgat,"Balgat, Ankara",32.8203,39.91069722,"Kebab, Turkish Pizza"
-6004408,208,Ankara,"Turta Home Cafe,Mutlukent Mahallesi, 1944. Cadde, 1948. Sokak, No 15, Ìàankaya, Ankara",Ìàayyolu,"Ìàayyolu, Ankara",32.70474167,39.89479444,"Cafe, Desserts"
-6003426,208,Ankara,"Liva,Ìàukurambar Mahallesi, Muhsin Yaz€±c€±o€Ùlu Caddesi, No 3, Ìàankaya, Ankara",Ìàukurambar,"Ìàukurambar, Ankara",32.809146,39.904709,"Patisserie, Coffee and Tea"
-6000549,208,Ankara,"MeÅÙhur Tavac€± Recep Usta,GÌ_zeltepe Mahallesi, Dikmen Vadisi, HoÅÙdere GiriÅÙi, Ìàankaya, Ankara",Dikmen,"Dikmen, Ankara",32.84618889,39.88487222,Kebab
-6000871,208,Ankara,"Ìàukura€Ùa Sofras€±,Emek Mahallesi, Bosna Hersek Caddesi, No 22/C, Ìàankaya, Ankara",Emek,"Emek, Ankara",32.81883333,39.91666667,"Kebab, Izgara"
-6004011,208,Ankara,"Gaga Manjero,Gazi Osman PaÅÙa Mahallesi, Filistin Caddesi, No 21, Ìàankaya, Ankara",Gazi Osman PaÅÙa,"Gazi Osman PaÅÙa, Ankara",32.8698,39.89823889,World Cuisine
-6000409,208,Ankara,"Cafemiz,GaziosmanpaÅÙa Mahallesi, Arjantin Caddesi, No 19, Ìàankaya, Ankara",Gazi Osman PaÅÙa,"Gazi Osman PaÅÙa, Ankara",32.86568333,39.89787222,"World Cuisine, Mexican, Italian"
-6000019,208,Ankara,"Nusr-Et,GaziosmanpaÅÙa Mahallesi, Å_ehit Ì_mer Haluk Sipahio€Ùlu Sokak, No 8, Ìàankaya, Ankara",Gazi Osman PaÅÙa,"Gazi Osman PaÅÙa, Ankara",32.86483333,39.89966667,Steak
-6001537,208,Ankara,"Kebap 49,Remzi O€Ùuz Ar€±k Mahallesi, Tunal€± Hilmi Caddesi, BÌ_lten Sokak, No 5, Ìàankaya, Ankara",Kavakl€±dere,"Kavakl€±dere, Ankara",32.86014444,39.90727222,"Kebab, Turkish Pizza"
-6003668,208,Ankara,"Timboo Cafe,Kentpark AVM, Kat -1, Mustafa Kemal Mahallesi, EskiÅÙehir Yolu 7.km, No 164, Ìàankaya, Ankara","Kentpark AVM, ÌÏniversiteler, Ìàankaya","Kentpark AVM, ÌÏniversiteler, Ìàankaya, Ankara",32.776255,39.908957,Cafe
-6001748,208,Ankara,"MeÅÙhur Ì_zÌ_elik Aspava,KÌ_Ì_Ì_k Esat Mahallesi, Esat Caddesi, No 110/C, Ìàankaya, Ankara",KÌ_Ì_Ì_k Esat,"KÌ_Ì_Ì_k Esat, Ankara",32.86663333,39.90663611,"Kebab, Turkish Pizza"
-6001757,208,Ankara,"Y€±ld€±z Aspava,KÌ_Ì_Ì_k Esat Mahallesi, Esat Caddesi, No 110/25, Ìàankaya, Ankara",KÌ_Ì_Ì_k Esat,"KÌ_Ì_Ì_k Esat, Ankara",32.86660833,39.90656944,"Kebab, Turkish Pizza, DÌ_ner"
-6000747,208,Ankara,"The Bigos,Mahallesi, Selanik 2 Caddesi, No 61/A, Ìàankaya, Ankara",K€±z€±lay,"K€±z€±lay, Ankara",32.85791667,39.91668611,Cafe
-6002025,208,Ankara,"MasabaÅÙ€±,Kocatepe Mahallesi, MithatpaÅÙa Caddesi, No 62/A, Ìàankaya, Ankara",K€±z€±lay,"K€±z€±lay, Ankara",32.85986667,39.91914444,"Kebab, Turkish Pizza"
-6003879,208,Ankara,"Zigana Pide,Macun Mahallesi, Erciyes €¡ÅÙyerleri Sitesi, 201. Cadde, No 6, Yenimahalle, Ankara",MacunkÌ_y,"MacunkÌ_y, Ankara",32.76337778,39.94627778,Turkish Pizza
-6004089,208,Ankara,"DÌ_vero€Ùlu,Maltepe Mahallesi, GenÌ_lik Caddesi, No 28, Ìàankaya, Ankara",Maltepe,"Maltepe, Ankara",32.84274167,39.92253611,"Kebab, Desserts, Turkish Pizza"
-6000921,208,Ankara,"DÌ_vero€Ùlu,ÌÏmitkÌ_y Mahallesi, 2432. Cadde (8. Cadde), No 113, Ìàankaya, Ankara",ÌÏmitkÌ_y,"ÌÏmitkÌ_y, Ankara",32.701775,39.89156389,"Kebab, Desserts, Turkish Pizza"
-6004813,208,Ankara,"Pizza €¡l Forno,Y€±ld€±zevler Mahallesi, 720. Sokak, No 2/B, Ìàankaya, Ankara",Y€±ld€±zevler,"Y€±ld€±zevler, Ankara",32.86021667,39.87623889,Pizza
-5904116,208,€¡stanbul,"J'adore Chocolatier,Asmal€±mescit Mahallesi, €¡stiklal Caddesi, Emir Nevruz Sokak, No 2/H, Beyo€Ùlu, €¡stanbul",Asmal€±mescit,"Asmal€±mescit, €¡stanbul",28.97612661,41.03300186,Desserts
-5901782,208,€¡stanbul,"Starbucks,Bebek Mahallesi, CevdetpaÅÙa Caddesi, No 30/A, BeÅÙiktaÅÙ, €¡stanbul",Bebek,"Bebek, €¡stanbul",29.04373437,41.07769599,Cafe
-5902117,208,€¡stanbul,"Valonia,TÌ_rkali Mahallesi, Ihlamurdere Caddesi, No 40/B, BeÅÙiktaÅÙ, €¡stanbul",BeÅÙiktaÅÙ Merkez,"BeÅÙiktaÅÙ Merkez, €¡stanbul",29.0028964,41.04481318,"Restaurant Cafe, Desserts"
-5927248,208,€¡stanbul,"Draft Gastro Pub,Caddebostan Mahallesi, Ba€Ùdat Caddesi, No 349, Kat 1, Kad€±kÌ_y, €¡stanbul",Caddebostan,"Caddebostan, €¡stanbul",29.07411609,40.96393456,Bar Food
-5905215,208,€¡stanbul,"Emirgan SÌ_tiÅÙ,Emirgan Mahallesi, Sak€±p Sabanc€± Caddesi, No 46, Sar€±yer, €¡stanbul",EmirgÌ¢n,"EmirgÌ¢n, €¡stanbul",29.05662037,41.10496881,"Restaurant Cafe, Turkish, Desserts"
-5926979,208,€¡stanbul,"Leman KÌ_ltÌ_r,Cafera€Ùa Mahallesi, NeÅÙet Ì_mer Sokak, No 9/A, Kad€±kÌ_y, €¡stanbul",Kad€±kÌ_y Merkez,"Kad€±kÌ_y Merkez, €¡stanbul",29.02280476,40.98970497,Restaurant Cafe
-5916085,208,€¡stanbul,"Dem KarakÌ_y,KemankeÅÙ Karamustafa PaÅÙa Mahallesi, Hoca Tahsin Sokak, No 17, Beyo€Ùlu, €¡stanbul",KarakÌ_y,"KarakÌ_y, €¡stanbul",28.9782365,41.02463331,Cafe
-5915547,208,€¡stanbul,"KarakÌ_y GÌ_llÌ_o€Ùlu,KemankeÅÙ Karamustafa PaÅÙa Mahallesi, R€±ht€±m Caddesi, Katl€± Otopark Alt€±, No 4, Beyo€Ùlu, €¡stanbul",KarakÌ_y,"KarakÌ_y, €¡stanbul",28.97763569,41.02290443,"Desserts, BÌ_rek"
-5915054,208,€¡stanbul,"Baltazar,KemankeÅÙ Karamustafa PaÅÙa Mahallesi, K€±l€±Ì_ Ali PaÅÙa Mescidi Sokak, No 12/A, Beyo€Ùlu, €¡stanbul",KarakÌ_y,"KarakÌ_y, €¡stanbul",28.98110311,41.02578494,"Burger, Izgara"
-5915730,208,€¡stanbul,"Naml€± Gurme,KemankeÅÙ Karamustafa PaÅÙa Mahallesi, R€±ht€±m Caddesi, No 1/1, Katl€± Otopark Alt€±,  Beyo€Ùlu, €¡stanbul",KarakÌ_y,"KarakÌ_y, €¡stanbul",28.97739161,41.02279314,Turkish
-5908749,208,€¡stanbul,"Ceviz A€Ùac€±,KoÅÙuyolu Mahallesi, Muhittin ÌÏstÌ_nda€Ù Caddesi, No 85, Kad€±kÌ_y, €¡stanbul",KoÅÙuyolu,"KoÅÙuyolu, €¡stanbul",29.04129725,41.00984672,"World Cuisine, Patisserie, Cafe"
-5915807,208,€¡stanbul,"Huqqa,KuruÌ_eÅÙme Mahallesi, Muallim Naci Caddesi, No 56, BeÅÙiktaÅÙ, €¡stanbul",KuruÌ_eÅÙme,"KuruÌ_eÅÙme, €¡stanbul",29.03464001,41.05581715,"Italian, World Cuisine"
-5916112,208,€¡stanbul,"AÅÙÅÙk Kahve,KuruÌ_eÅÙme Mahallesi, Muallim Naci Caddesi, No 64/B, BeÅÙiktaÅÙ, €¡stanbul",KuruÌ_eÅÙme,"KuruÌ_eÅÙme, €¡stanbul",29.036019,41.057979,Restaurant Cafe
-5927402,208,€¡stanbul,"Walter's Coffee Roastery,Cafea€Ùa Mahallesi, Bademalt€± Sokak, No 21/B, Kad€±kÌ_y, €¡stanbul",Moda,"Moda, €¡stanbul",29.02601603,40.98477563,Cafe
+6001980,208,Ankara,"Timboo Cafe,Armada AVM, Kat -1, Eski¬Å√¥ehir Yolu, No 6, Yenimahalle, Ankara","Armada AVM, S√≠_√õ√¥√≠_t√≠_z√≠_, Yenimahalle","Armada AVM, S√≠_√õ√¥√≠_t√≠_z√≠_, Yenimahalle, Ankara",32.80924722,39.91320556,Cafe
+6000168,208,Ankara,"Hattena Hatay  Sofras√õ¬±,Balgat Mahallesi, Osmanl√õ¬± Caddesi, No 41/A, √≠¬àankaya, Ankara",Balgat,"Balgat, Ankara",32.82121389,39.90597222,Kebab
+6000447,208,Ankara,"Masaba¬Å√¥√õ¬± Kebap√≠_√õ¬±s√õ¬±,Balgat Mahallesi, Ziyabey Caddesi, No 35, √≠¬àankaya, Ankara",Balgat,"Balgat, Ankara",32.8203,39.91069722,"Kebab, Turkish Pizza"
+6004408,208,Ankara,"Turta Home Cafe,Mutlukent Mahallesi, 1944. Cadde, 1948. Sokak, No 15, √≠¬àankaya, Ankara",√≠¬àayyolu,"√≠¬àayyolu, Ankara",32.70474167,39.89479444,"Cafe, Desserts"
+6003426,208,Ankara,"Liva,√≠¬àukurambar Mahallesi, Muhsin Yaz√õ¬±c√õ¬±o√õ√¥lu Caddesi, No 3, √≠¬àankaya, Ankara",√≠¬àukurambar,"√≠¬àukurambar, Ankara",32.809146,39.904709,"Patisserie, Coffee and Tea"
+6000549,208,Ankara,"Me¬Å√¥hur Tavac√õ¬± Recep Usta,G√≠_zeltepe Mahallesi, Dikmen Vadisi, Ho¬Å√¥dere Giri¬Å√¥i, √≠¬àankaya, Ankara",Dikmen,"Dikmen, Ankara",32.84618889,39.88487222,Kebab
+6000871,208,Ankara,"√≠¬àukura√õ√¥a Sofras√õ¬±,Emek Mahallesi, Bosna Hersek Caddesi, No 22/C, √≠¬àankaya, Ankara",Emek,"Emek, Ankara",32.81883333,39.91666667,"Kebab, Izgara"
+6004011,208,Ankara,"Gaga Manjero,Gazi Osman Pa¬Å√¥a Mahallesi, Filistin Caddesi, No 21, √≠¬àankaya, Ankara",Gazi Osman Pa¬Å√¥a,"Gazi Osman Pa¬Å√¥a, Ankara",32.8698,39.89823889,World Cuisine
+6000409,208,Ankara,"Cafemiz,Gaziosmanpa¬Å√¥a Mahallesi, Arjantin Caddesi, No 19, √≠¬àankaya, Ankara",Gazi Osman Pa¬Å√¥a,"Gazi Osman Pa¬Å√¥a, Ankara",32.86568333,39.89787222,"World Cuisine, Mexican, Italian"
+6000019,208,Ankara,"Nusr-Et,Gaziosmanpa¬Å√¥a Mahallesi, ¬Å_ehit √≠_mer Haluk Sipahio√õ√¥lu Sokak, No 8, √≠¬àankaya, Ankara",Gazi Osman Pa¬Å√¥a,"Gazi Osman Pa¬Å√¥a, Ankara",32.86483333,39.89966667,Steak
+6001537,208,Ankara,"Kebap 49,Remzi O√õ√¥uz Ar√õ¬±k Mahallesi, Tunal√õ¬± Hilmi Caddesi, B√≠_lten Sokak, No 5, √≠¬àankaya, Ankara",Kavakl√õ¬±dere,"Kavakl√õ¬±dere, Ankara",32.86014444,39.90727222,"Kebab, Turkish Pizza"
+6003668,208,Ankara,"Timboo Cafe,Kentpark AVM, Kat -1, Mustafa Kemal Mahallesi, Eski¬Å√¥ehir Yolu 7.km, No 164, √≠¬àankaya, Ankara","Kentpark AVM, √≠√¨niversiteler, √≠¬àankaya","Kentpark AVM, √≠√¨niversiteler, √≠¬àankaya, Ankara",32.776255,39.908957,Cafe
+6001748,208,Ankara,"Me¬Å√¥hur √≠_z√≠_elik Aspava,K√≠_√≠_√≠_k Esat Mahallesi, Esat Caddesi, No 110/C, √≠¬àankaya, Ankara",K√≠_√≠_√≠_k Esat,"K√≠_√≠_√≠_k Esat, Ankara",32.86663333,39.90663611,"Kebab, Turkish Pizza"
+6001757,208,Ankara,"Y√õ¬±ld√õ¬±z Aspava,K√≠_√≠_√≠_k Esat Mahallesi, Esat Caddesi, No 110/25, √≠¬àankaya, Ankara",K√≠_√≠_√≠_k Esat,"K√≠_√≠_√≠_k Esat, Ankara",32.86660833,39.90656944,"Kebab, Turkish Pizza, D√≠_ner"
+6000747,208,Ankara,"The Bigos,Mahallesi, Selanik 2 Caddesi, No 61/A, √≠¬àankaya, Ankara",K√õ¬±z√õ¬±lay,"K√õ¬±z√õ¬±lay, Ankara",32.85791667,39.91668611,Cafe
+6002025,208,Ankara,"Masaba¬Å√¥√õ¬±,Kocatepe Mahallesi, Mithatpa¬Å√¥a Caddesi, No 62/A, √≠¬àankaya, Ankara",K√õ¬±z√õ¬±lay,"K√õ¬±z√õ¬±lay, Ankara",32.85986667,39.91914444,"Kebab, Turkish Pizza"
+6003879,208,Ankara,"Zigana Pide,Macun Mahallesi, Erciyes √õ√Å¬Å√¥yerleri Sitesi, 201. Cadde, No 6, Yenimahalle, Ankara",Macunk√≠_y,"Macunk√≠_y, Ankara",32.76337778,39.94627778,Turkish Pizza
+6004089,208,Ankara,"D√≠_vero√õ√¥lu,Maltepe Mahallesi, Gen√≠_lik Caddesi, No 28, √≠¬àankaya, Ankara",Maltepe,"Maltepe, Ankara",32.84274167,39.92253611,"Kebab, Desserts, Turkish Pizza"
+6000921,208,Ankara,"D√≠_vero√õ√¥lu,√≠√¨mitk√≠_y Mahallesi, 2432. Cadde (8. Cadde), No 113, √≠¬àankaya, Ankara",√≠√¨mitk√≠_y,"√≠√¨mitk√≠_y, Ankara",32.701775,39.89156389,"Kebab, Desserts, Turkish Pizza"
+6004813,208,Ankara,"Pizza √õ√Ål Forno,Y√õ¬±ld√õ¬±zevler Mahallesi, 720. Sokak, No 2/B, √≠¬àankaya, Ankara",Y√õ¬±ld√õ¬±zevler,"Y√õ¬±ld√õ¬±zevler, Ankara",32.86021667,39.87623889,Pizza
+5904116,208,√õ√Åstanbul,"J'adore Chocolatier,Asmal√õ¬±mescit Mahallesi, √õ√Åstiklal Caddesi, Emir Nevruz Sokak, No 2/H, Beyo√õ√¥lu, √õ√Åstanbul",Asmal√õ¬±mescit,"Asmal√õ¬±mescit, √õ√Åstanbul",28.97612661,41.03300186,Desserts
+5901782,208,√õ√Åstanbul,"Starbucks,Bebek Mahallesi, Cevdetpa¬Å√¥a Caddesi, No 30/A, Be¬Å√¥ikta¬Å√¥, √õ√Åstanbul",Bebek,"Bebek, √õ√Åstanbul",29.04373437,41.07769599,Cafe
+5902117,208,√õ√Åstanbul,"Valonia,T√≠_rkali Mahallesi, Ihlamurdere Caddesi, No 40/B, Be¬Å√¥ikta¬Å√¥, √õ√Åstanbul",Be¬Å√¥ikta¬Å√¥ Merkez,"Be¬Å√¥ikta¬Å√¥ Merkez, √õ√Åstanbul",29.0028964,41.04481318,"Restaurant Cafe, Desserts"
+5927248,208,√õ√Åstanbul,"Draft Gastro Pub,Caddebostan Mahallesi, Ba√õ√¥dat Caddesi, No 349, Kat 1, Kad√õ¬±k√≠_y, √õ√Åstanbul",Caddebostan,"Caddebostan, √õ√Åstanbul",29.07411609,40.96393456,Bar Food
+5905215,208,√õ√Åstanbul,"Emirgan S√≠_ti¬Å√¥,Emirgan Mahallesi, Sak√õ¬±p Sabanc√õ¬± Caddesi, No 46, Sar√õ¬±yer, √õ√Åstanbul",Emirg√≠¬¢n,"Emirg√≠¬¢n, √õ√Åstanbul",29.05662037,41.10496881,"Restaurant Cafe, Turkish, Desserts"
+5926979,208,√õ√Åstanbul,"Leman K√≠_lt√≠_r,Cafera√õ√¥a Mahallesi, Ne¬Å√¥et √≠_mer Sokak, No 9/A, Kad√õ¬±k√≠_y, √õ√Åstanbul",Kad√õ¬±k√≠_y Merkez,"Kad√õ¬±k√≠_y Merkez, √õ√Åstanbul",29.02280476,40.98970497,Restaurant Cafe
+5916085,208,√õ√Åstanbul,"Dem Karak√≠_y,Kemanke¬Å√¥ Karamustafa Pa¬Å√¥a Mahallesi, Hoca Tahsin Sokak, No 17, Beyo√õ√¥lu, √õ√Åstanbul",Karak√≠_y,"Karak√≠_y, √õ√Åstanbul",28.9782365,41.02463331,Cafe
+5915547,208,√õ√Åstanbul,"Karak√≠_y G√≠_ll√≠_o√õ√¥lu,Kemanke¬Å√¥ Karamustafa Pa¬Å√¥a Mahallesi, R√õ¬±ht√õ¬±m Caddesi, Katl√õ¬± Otopark Alt√õ¬±, No 4, Beyo√õ√¥lu, √õ√Åstanbul",Karak√≠_y,"Karak√≠_y, √õ√Åstanbul",28.97763569,41.02290443,"Desserts, B√≠_rek"
+5915054,208,√õ√Åstanbul,"Baltazar,Kemanke¬Å√¥ Karamustafa Pa¬Å√¥a Mahallesi, K√õ¬±l√õ¬±√≠_ Ali Pa¬Å√¥a Mescidi Sokak, No 12/A, Beyo√õ√¥lu, √õ√Åstanbul",Karak√≠_y,"Karak√≠_y, √õ√Åstanbul",28.98110311,41.02578494,"Burger, Izgara"
+5915730,208,√õ√Åstanbul,"Naml√õ¬± Gurme,Kemanke¬Å√¥ Karamustafa Pa¬Å√¥a Mahallesi, R√õ¬±ht√õ¬±m Caddesi, No 1/1, Katl√õ¬± Otopark Alt√õ¬±,  Beyo√õ√¥lu, √õ√Åstanbul",Karak√≠_y,"Karak√≠_y, √õ√Åstanbul",28.97739161,41.02279314,Turkish
+5908749,208,√õ√Åstanbul,"Ceviz A√õ√¥ac√õ¬±,Ko¬Å√¥uyolu Mahallesi, Muhittin √≠√¨st√≠_nda√õ√¥ Caddesi, No 85, Kad√õ¬±k√≠_y, √õ√Åstanbul",Ko¬Å√¥uyolu,"Ko¬Å√¥uyolu, √õ√Åstanbul",29.04129725,41.00984672,"World Cuisine, Patisserie, Cafe"
+5915807,208,√õ√Åstanbul,"Huqqa,Kuru√≠_e¬Å√¥me Mahallesi, Muallim Naci Caddesi, No 56, Be¬Å√¥ikta¬Å√¥, √õ√Åstanbul",Kuru√≠_e¬Å√¥me,"Kuru√≠_e¬Å√¥me, √õ√Åstanbul",29.03464001,41.05581715,"Italian, World Cuisine"
+5916112,208,√õ√Åstanbul,"A¬Å√¥¬Å√¥k Kahve,Kuru√≠_e¬Å√¥me Mahallesi, Muallim Naci Caddesi, No 64/B, Be¬Å√¥ikta¬Å√¥, √õ√Åstanbul",Kuru√≠_e¬Å√¥me,"Kuru√≠_e¬Å√¥me, √õ√Åstanbul",29.036019,41.057979,Restaurant Cafe
+5927402,208,√õ√Åstanbul,"Walter's Coffee Roastery,Cafea√õ√¥a Mahallesi, Bademalt√õ¬± Sokak, No 21/B, Kad√õ¬±k√≠_y, √õ√Åstanbul",Moda,"Moda, √õ√Åstanbul",29.02601603,40.98477563,Cafe
