@@ -1,4 +1,4 @@
-﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+﻿Restaurant ID,Country Code,City,Restaurant Name & Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines
 16611114,14,Gympie,"Whitebull Hotel,117 Marsh St, Armidale, NSW",Armidale,"Armidale, Armidale",151.6688792,-30.5147169,"Bar Food, Steak"
 16608864,14,Taree,"Taste of Balingup,63 South Western Hwy, Balingup, WA",Balingup,"Balingup, Balingup",115.9844924,-33.7845269,Modern Australian
 16604911,14,Geelong,"Bridge Road Brewers,Old Coach House 50 Ford St, Beechworth, Beechworth, VIC",Beechworth,"Beechworth, Beechworth",146.685852,-36.360439,"Pizza, Bar Food"

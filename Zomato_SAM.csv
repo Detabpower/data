@@ -1,4 +1,4 @@
-﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+﻿Restaurant ID,Country Code,City,Restaurant Name & Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines
 6600681,30,Brasí_lia,"Chez Michou,SCLN, 208, Bloco A, Loja 30, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88178889,-15.76414167,"Fast Food, French"
 6601005,30,Brasí_lia,"Cafí© Daniel Briand,SCLN 104, Bloco A, Loja 26, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88266667,-15.7775,Cafe
 6600292,30,Brasí_lia,"Casa do Biscoito Mineiro,SCLN 210, Bloco D, Loja 36/48, Asa Norte, Brasí_lia",Asa Norte,"Asa Norte, Brasí_lia",-47.88213611,-15.75747222,Bakery

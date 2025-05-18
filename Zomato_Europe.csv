@@ -1,4 +1,4 @@
-﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+﻿Restaurant ID,Country Code,City,Restaurant Name & Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines
 6900714,215,Birmingham,"Pepe's Piri Piri,254-256 Alum Rock Road, Alum Rock, Birmingham B8 3DD",Alum Rock,"Alum Rock, Birmingham",-1.846811,52.488557,Fast Food
 6900883,215,Birmingham,"Ju Ju's Cafe,1 Canal Square, Brindleyplace, Birmingham B16 8EH",Brindleyplace,"Brindleyplace, Birmingham",-1.918049,52.477569,"Cafe, British"
 6900374,215,Birmingham,"Bank,4 Brindleyplace, Brindleyplace, Birmingham B1 2JB","Brindleyplace, Broad Street","Brindleyplace, Broad Street, Birmingham",-1.914805,52.477693,"British, Steak"

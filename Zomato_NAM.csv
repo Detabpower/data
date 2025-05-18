@@ -1,4 +1,4 @@
-﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+﻿Restaurant ID,Country Code,City,Restaurant Name & Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines
 17284404,216,Albany,"Austin's BBQ and Oyster Bar,2820 Meredyth Dr, Albany, GA 31707",Albany,"Albany, Albany",-84.221535,31.610387,"BBQ, Burger, Seafood"
 17284203,216,Albany,"BJ's Country Buffet,2401 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.207095,31.608743,"American, BBQ"
 17284105,216,Albany,"Cookie Shoppe,115 N Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.154,31.5772,

@@ -1,4 +1,4 @@
-﻿Restaurant ID,Country Code,City,"Restaurant Name,Address",Locality,Locality Verbose,Longitude,Latitude,Cuisines
+﻿Restaurant ID,Country Code,City,Restaurant Name & Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines
 18395463,189,Cape Town,"The Butcher's Wife,15 Belgravia Road, Athlone, Cape Town",Athlone,"Athlone, Cape Town",18.51440571,-33.96466043,"Pizza, Grill"
 18337845,189,Cape Town,"Coco Safar,Ground Floor, Cavendish Square, Claremont, Cape Town","Cavendish Square, Claremont","Cavendish Square, Claremont, Cape Town",18.46489381,-33.97975702,"Cafe, Patisserie"
 6401732,189,Cape Town,"La Parada,107 Bree Street, CBD, Cape Town",CBD,"CBD, Cape Town",18.41789313,-33.92154333,"Spanish, Tapas"
