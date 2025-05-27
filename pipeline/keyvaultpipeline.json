@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://adfinterviewkeyvault.vault.azure.net/secrets/adfinterview/59bfc9bfcbb6422689ace2b0759a6d12?app-version=7.0",
+					"url": "https://adfinterviewkeyvault.vault.azure.net/secrets/adfinterview/59bfc9bfcbb6422689ace2b0759a6d12?api-version=7.0",
 					"authentication": {
 						"type": "MSI",
 						"resource": "https://vault.azure.net"
