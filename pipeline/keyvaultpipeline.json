@@ -1,0 +1,29 @@
+{
+	"name": "keyvaultpipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "KeyvaultWeb",
+				"type": "WebActivity",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"method": "GET",
+					"url": "https://adfinterviewkeyvault.vault.azure.net/secrets/adfinterview/59bfc9bfcbb6422689ace2b0759a6d12?app-version=7.0",
+					"authentication": {
+						"type": "MSI",
+						"resource": "https://vault.azure.net"
+					}
+				}
+			}
+		],
+		"annotations": []
+	}
+}
