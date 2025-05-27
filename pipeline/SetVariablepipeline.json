@@ -1,0 +1,70 @@
+{
+	"name": "SetVariablepipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "ParameterLookup",
+				"type": "Lookup",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "JsonSource",
+						"storeSettings": {
+							"type": "AzureBlobFSReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "JsonReadSettings"
+						}
+					},
+					"dataset": {
+						"referenceName": "ParameterJson",
+						"type": "DatasetReference"
+					},
+					"firstRowOnly": false
+				}
+			},
+			{
+				"name": "Setlookupvariable",
+				"type": "SetVariable",
+				"dependsOn": [
+					{
+						"activity": "ParameterLookup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "lookupresult",
+					"value": {
+						"value": "@activity('ParameterLookup').output.value",
+						"type": "Expression"
+					}
+				}
+			}
+		],
+		"variables": {
+			"lookupresult": {
+				"type": "Array"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2025-05-19T20:46:58Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

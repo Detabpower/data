@@ -1,0 +1,62 @@
+{
+	"name": "Keyvaultpipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "KeyvaultWeb",
+				"type": "WebActivity",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"method": "GET",
+					"url": "https://masterclasskivault.vault.azure.net/secrets/masterclasssecret/704a26eb341342ceb811a165687833d0?api-version=7.0",
+					"authentication": {
+						"type": "MSI",
+						"resource": "https://vault.azure.net"
+					}
+				}
+			},
+			{
+				"name": "SetSecretvariable",
+				"type": "SetVariable",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
+				"dependsOn": [
+					{
+						"activity": "KeyvaultWeb",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "mysecretvarirable",
+					"value": {
+						"value": "@activity('KeyvaultWeb').output.value",
+						"type": "Expression"
+					}
+				}
+			}
+		],
+		"variables": {
+			"mysecretvarirable": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2025-05-27T08:26:58Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

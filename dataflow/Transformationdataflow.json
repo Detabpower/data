@@ -1,0 +1,189 @@
+{
+	"name": "Transformationdataflow",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "DestinationDataset",
+						"type": "DatasetReference"
+					},
+					"name": "SouthAmerica"
+				},
+				{
+					"dataset": {
+						"referenceName": "MorthAmericaDS",
+						"type": "DatasetReference"
+					},
+					"name": "NorthAmericaStream"
+				},
+				{
+					"dataset": {
+						"referenceName": "EuropeDS",
+						"type": "DatasetReference"
+					},
+					"name": "Europe"
+				},
+				{
+					"dataset": {
+						"referenceName": "AsiaDS",
+						"type": "DatasetReference"
+					},
+					"name": "Asia"
+				},
+				{
+					"dataset": {
+						"referenceName": "AfricaDS",
+						"type": "DatasetReference"
+					},
+					"name": "Africa"
+				},
+				{
+					"dataset": {
+						"referenceName": "Oceania",
+						"type": "DatasetReference"
+					},
+					"name": "Oceania"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "CombinedRegionDS",
+						"type": "DatasetReference"
+					},
+					"name": "Transformationsink"
+				}
+			],
+			"transformations": [
+				{
+					"name": "RegionalDataUnion"
+				},
+				{
+					"name": "RestaurantName"
+				},
+				{
+					"name": "RestaurantAddress"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     limit: 100,",
+				"     ignoreNoFilesFound: false) ~> SouthAmerica",
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> NorthAmericaStream",
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> Europe",
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> Asia",
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> Africa",
+				"source(output(",
+				"          {Restaurant ID} as integer,",
+				"          {Country Code} as short,",
+				"          City as string,",
+				"          {Restaurant Name & Address} as string,",
+				"          Locality as string,",
+				"          {Locality Verbose} as string,",
+				"          Longitude as double,",
+				"          Latitude as double,",
+				"          Cuisines as string,",
+				"          Region as string,",
+				"          LoadDate as date,",
+				"          LoadTIme as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> Oceania",
+				"SouthAmerica, NorthAmericaStream, Europe, Asia, Africa, Oceania union(byName: true)~> RegionalDataUnion",
+				"RegionalDataUnion derive(RestaurantName = split({Restaurant Name & Address}, ',')[1]) ~> RestaurantName",
+				"RestaurantName derive(RestaurantAddress = substring({Restaurant Name & Address}, length(RestaurantName) + 2, length({Restaurant Name & Address}))) ~> RestaurantAddress",
+				"RestaurantAddress sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     partitionFileNames:['RegionData.csv'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     partitionBy('hash', 1)) ~> Transformationsink"
+			]
+		}
+	}
+}

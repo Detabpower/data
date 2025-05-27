@@ -1,0 +1,47 @@
+{
+	"name": "RegionDatadataflow",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "BronzeDS",
+						"type": "DatasetReference"
+					},
+					"name": "BronzeData"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "sinkDataset",
+						"type": "DatasetReference"
+					},
+					"name": "silver"
+				}
+			],
+			"transformations": [
+				{
+					"name": "Region"
+				}
+			],
+			"scriptLines": [
+				"parameters{",
+				"     region as string",
+				"}",
+				"source(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> BronzeData",
+				"BronzeData derive(region = $region) ~> Region",
+				"Region sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> silver"
+			]
+		}
+	}
+}

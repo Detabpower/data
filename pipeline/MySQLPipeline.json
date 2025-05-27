@@ -1,0 +1,68 @@
+{
+	"name": "MySQLPipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "MySQLLookup",
+				"type": "Lookup",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "MySqlSource",
+						"query": "SELECT Table_NAME as 'TABLES', table_schema as 'SCHEMAS' FROM information_schema.tables\nWHERE table_type ='BASE TABLE' and table_schema ='mysqltest'"
+					},
+					"dataset": {
+						"referenceName": "MySqlTable1",
+						"type": "DatasetReference"
+					}
+				}
+			},
+			{
+				"name": "sql_lookup",
+				"type": "SetVariable",
+				"dependsOn": [
+					{
+						"activity": "MySQLLookup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "lookupresult",
+					"value": {
+						"value": "@activity('MySQLLookup').output.firstRow",
+						"type": "Expression"
+					}
+				}
+			}
+		],
+		"parameters": {
+			"sqllookup": {
+				"type": "string",
+				"defaultValue": "default"
+			}
+		},
+		"variables": {
+			"lookupresult": {
+				"type": "Array"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2025-05-19T20:32:41Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

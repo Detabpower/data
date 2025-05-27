@@ -1,0 +1,57 @@
+{
+	"name": "DynamicJsonDataflow",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "parmeterJson",
+						"type": "DatasetReference"
+					},
+					"name": "DynamicJson"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "DestinationFolderDS",
+						"type": "DatasetReference"
+					},
+					"name": "DynamicJsonOutput"
+				}
+			],
+			"transformations": [
+				{
+					"name": "flattendynamicjson"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          labs as (location as string, name as string, time as string)[],",
+				"          medications as (aceInhibitors as (dose as string, name as string, pillCount as string, refills as string, route as string, sig as string, strength as string), antianginal as (dose as string, name as string, pillCount as string, refills as string, route as string, sig as string, strength as string), anticoagulants as (dose as string, name as string, pillCount as string, refills as string, route as string, sig as string, strength as string))",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     documentForm: 'arrayOfDocuments') ~> DynamicJson",
+				"DynamicJson foldDown(unroll(labs, labs),",
+				"     mapColumn(",
+				"          labs,",
+				"          medications",
+				"     ),",
+				"     skipDuplicateMapInputs: false,",
+				"     skipDuplicateMapOutputs: false) ~> flattendynamicjson",
+				"flattendynamicjson sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     partitionFileNames:['example.json'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     partitionBy('hash', 1)) ~> DynamicJsonOutput"
+			]
+		}
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"name": "exampleJsonDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage2",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"filename": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "@dataset().filename",
+					"type": "Expression"
+				},
+				"folderPath": "parameter",
+				"fileSystem": "source"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"p_folder": {
+					"type": "string"
+				},
+				"p_file": {
+					"type": "string"
+				},
+				"p_dest_folder": {
+					"type": "string"
+				},
+				"labs": {
+					"type": "null"
+				},
+				"medications": {
+					"type": "object",
+					"properties": {
+						"aceInhibitors": {
+							"type": "object",
+							"properties": {
+								"dose": {
+									"type": "string"
+								},
+								"name": {
+									"type": "string"
+								},
+								"pillCount": {
+									"type": "string"
+								},
+								"refills": {
+									"type": "string"
+								},
+								"route": {
+									"type": "string"
+								},
+								"sig": {
+									"type": "string"
+								},
+								"strength": {
+									"type": "string"
+								}
+							}
+						},
+						"antianginal": {
+							"type": "object",
+							"properties": {
+								"dose": {
+									"type": "string"
+								},
+								"name": {
+									"type": "string"
+								},
+								"pillCount": {
+									"type": "string"
+								},
+								"refills": {
+									"type": "string"
+								},
+								"route": {
+									"type": "string"
+								},
+								"sig": {
+									"type": "string"
+								},
+								"strength": {
+									"type": "string"
+								}
+							}
+						},
+						"anticoagulants": {
+							"type": "object",
+							"properties": {
+								"dose": {
+									"type": "string"
+								},
+								"name": {
+									"type": "string"
+								},
+								"pillCount": {
+									"type": "string"
+								},
+								"refills": {
+									"type": "string"
+								},
+								"route": {
+									"type": "string"
+								},
+								"sig": {
+									"type": "string"
+								},
+								"strength": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

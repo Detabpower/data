@@ -1,0 +1,24 @@
+{
+	"name": "RegionDataTrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "StorageEvenstTriggerpipeline",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/source/blobs/RegionData.csv",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/b7487098-60b9-497f-93d1-e076b4cd8df7/resourceGroups/RG_Databricks_Masterclass/providers/Microsoft.Storage/storageAccounts/datalakemclassstorage",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}
