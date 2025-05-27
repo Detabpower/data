@@ -17,7 +17,7 @@
 				"typeProperties": {
 					"method": "GET",
 					"url": {
-						"value": "@https://@{pipeline().parameters.p_keyvaultname}.vault.azure.net/secrets/@{pipeline().parameters.p_secretinfo}?api-version=7.0",
+						"value": "https://@{pipeline().parameters.p_keyvaultname}.vault.azure.net/secrets/@{pipeline().parameters.p_secretinfo}?api-version=7.0\n\n",
 						"type": "Expression"
 					},
 					"authentication": {
@@ -30,7 +30,7 @@
 		"parameters": {
 			"p_keyvaultname": {
 				"type": "string",
-				"defaultValue": "adfinterview"
+				"defaultValue": "adfinterviewkeyvault"
 			},
 			"p_secretinfo": {
 				"type": "string",
